@@ -1,0 +1,1639 @@
+dbn,school_name,school_type,latitude,longitude,neighborhood,student_rating,student_score
+01M015,P.S. 015 Roberto Clemente,elementary,40.722075,-73.978747,Lower East Side,exceeding_target,4.86
+01M019,P.S. 019 Asher Levy,elementary,40.730009,-73.984496,East Village,exceeding_target,4.09
+01M020,P.S. 020 Anna Silver,elementary,40.721305,-73.986312,Noho,meeting_target,3.82
+01M034,P.S. 034 Franklin D. Roosevelt,middle_school,40.726008,-73.975058,Stuyvesant Town,not_meeting_target,1.74
+01M063,The STAR Academy - P.S.63,elementary,40.72444,-73.986214,Noho,meeting_target,3.15
+01M064,P.S. 064 Robert Simon,elementary,40.72313,-73.981597,East Village,exceeding_target,4.15
+01M110,P.S. 110 Florence Nightingale,elementary,40.7162,-73.9798,Lower East Side,meeting_target,3.86
+01M134,P.S. 134 Henrietta Szold,elementary,40.714248,-73.983854,Lower East Side,meeting_target,3.66
+01M140,P.S. 140 Nathan Straus,middle_school,40.719148,-73.983769,Lower East Side,approaching_target,2.71
+01M142,P.S. 142 Amalia Castro,elementary,40.718121,-73.984116,Lower East Side,meeting_target,3.51
+01M184,P.S. 184m Shuang Wen,middle_school,40.711125,-73.985438,Chinatown,exceeding_target,4.63
+01M188,P.S. 188 The Island School,middle_school,40.719888,-73.97738,Lower East Side,meeting_target,3.4
+01M292,Orchard Collegiate Academy,high_school,40.713362,-73.986051,Chinatown,meeting_target,3.89
+01M315,The East Village Community School,elementary,40.727537,-73.978254,East Village,meeting_target,3.31
+01M332,University Neighborhood Middle School,middle_school,40.713362,-73.986051,Chinatown,approaching_target,2.34
+01M361,The Children's Workshop School,elementary,40.727537,-73.978254,East Village,approaching_target,2.57
+01M363,Neighborhood School,elementary,40.72444,-73.986214,Noho,nan,
+01M364,Earth School,elementary,40.72313,-73.981597,East Village,nan,
+01M378,School for Global Leaders,middle_school,40.72004,-73.986038,Noho,meeting_target,3.05
+01M448,University Neighborhood High School,high_school,40.712269,-73.984128,Lower East Side,exceeding_target,4.11
+01M450,East Side Community School,high_school,40.729152,-73.982472,East Village,meeting_target,3.99
+01M509,Marta Valle High School,high_school,40.72004,-73.986038,Noho,meeting_target,3.27
+01M539,"New Explorations into Science, Technology and Math",high_school,40.719416,-73.979581,Lower East Side,exceeding_target,4.66
+01M696,Bard High School Early College,high_school,40.718276,-73.976093,Lower East Side,exceeding_target,4.49
+01M839,Tompkins Square Middle School,middle_school,40.72313,-73.981597,East Village,exceeding_target,4.0
+02M001,P.S. 001 Alfred E. Smith,elementary,40.71255,-73.997478,Little Italy,meeting_target,3.74
+02M002,P.S. 002 Meyer London,elementary,40.712907,-73.991523,Chinatown,exceeding_target,4.74
+02M003,P.S. 003 Charrette School,elementary,40.732603,-74.005949,West Village,meeting_target,3.61
+02M006,P.S. 006 Lillie D. Blake,elementary,40.777737,-73.960427,Upper East Side,exceeding_target,4.31
+02M011,P.S. 011 William T. Harris,elementary,40.744186,-74.000743,"Chelsea, Manhattan",meeting_target,3.84
+02M033,P.S. 033 Chelsea Prep,elementary,40.749014,-74.000238,"Chelsea, Manhattan",approaching_target,2.68
+02M040,P.S. 040 Augustus Saint-Gaudens,elementary,40.735328,-73.981536,Gramercy,exceeding_target,4.05
+02M041,P.S. 041 Greenwich Village,elementary,40.73545,-73.999094,Flatiron,meeting_target,3.96
+02M042,P.S. 042 Benjamin Altman,elementary,40.716126,-73.990826,Chinatown,exceeding_target,4.61
+02M047,47 The American Sign Language and English Secondar,high_school,40.738374,-73.981329,Gramercy,exceeding_target,4.47
+02M051,P.S. 051 Elias Howe,elementary,40.761487,-73.995825,Clinton,approaching_target,2.69
+02M059,P.S. 059 Beekman Hill International,elementary,40.759248,-73.967204,Sutton Place,exceeding_target,4.47
+02M077,P.S. 77 Lower Lab School,elementary,40.785018,-73.95042,Carnegie Hill,exceeding_target,4.85
+02M089,P.S. 89,elementary,40.71701,-74.013967,Tribeca,exceeding_target,4.32
+02M104,J.H.S. 104 Simon Baruch,middle_school,40.735879,-73.981034,Gramercy,exceeding_target,4.15
+02M111,P.S. 111 Adolph S. Ochs,elementary,40.76588,-73.989776,Lincoln Square,meeting_target,3.6
+02M114,East Side Middle School,middle_school,40.780452,-73.947379,Yorkville,exceeding_target,4.84
+02M116,P.S. 116 Mary Lindley Murray,elementary,40.744511,-73.977906,"Murray Hill, Manhattan",meeting_target,3.66
+02M124,P.S. 124 Yung Wing,elementary,40.715097,-73.996017,Chinatown,exceeding_target,4.99
+02M126,P.S. 126 Jacob August Riis,middle_school,40.710651,-73.99742,Fulton Ferry,exceeding_target,4.99
+02M130,P.S. 130 Hernando De Soto,elementary,40.71866,-73.998326,Little Italy,exceeding_target,4.38
+02M131,M.S. 131,middle_school,40.716231,-73.993607,Chinatown,exceeding_target,4.13
+02M135,The Urban Assembly School for Emergency Management,high_school,40.711441,-74.000851,Little Italy,meeting_target,3.52
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,high_school,40.763655,-73.990318,Clinton,meeting_target,3.59
+02M150,P.S. 150,elementary,40.71953,-74.01088,Tribeca,exceeding_target,4.38
+02M151,Yorkville Community School,elementary,40.777948,-73.947287,Yorkville,meeting_target,3.88
+02M158,P.S. 158 Bayard Taylor,elementary,40.770215,-73.950745,Yorkville,meeting_target,3.79
+02M167,J.H.S. 167 Robert F. Wagner,middle_school,40.771541,-73.957827,Lenox Hill,meeting_target,3.98
+02M177,Yorkville East Middle School,middle_school,40.770215,-73.950745,Yorkville,exceeding_target,4.44
+02M183,P.S. 183 Robert L. Stevenson,elementary,40.763804,-73.957731,Lenox Hill,exceeding_target,4.18
+02M198,P.S. 198 Isador E. Ida Straus,elementary,40.785018,-73.95042,Carnegie Hill,meeting_target,3.02
+02M212,P.S. 212 Midtown West,elementary,40.761327,-73.988665,Clinton,meeting_target,3.23
+02M217,P.S./I.S. 217 Roosevelt Island,middle_school,40.753598,-73.956435,Sutton Place,meeting_target,3.85
+02M225,Ella Baker School,middle_school,40.765638,-73.959777,Lenox Hill,meeting_target,3.45
+02M234,P.S. 234 Independence School,elementary,40.71953,-74.01088,Tribeca,meeting_target,3.7
+02M255,M.S. 255 Salk School of Science,middle_school,40.735328,-73.981536,Gramercy,exceeding_target,4.55
+02M260,M.S. 260 Clinton School Writers & Artists,high_school,40.736526,-73.992727,Flatiron,exceeding_target,4.72
+02M267,"East Side Elementary School, PS 267",elementary,40.763883,-73.963861,Sutton Place,exceeding_target,4.36
+02M276,Battery Park City School,middle_school,40.706384,-74.017456,Financial District,exceeding_target,4.1
+02M280,Manhattan Early College School for Advertising,high_school,40.711441,-74.000851,Little Italy,meeting_target,3.83
+02M281,The River School,elementary,40.744288,-73.972592,Tudor City,exceeding_target,4.99
+02M282,Urban Assembly Maker Academy,high_school,40.711441,-74.000851,Little Italy,meeting_target,3.17
+02M288,Food and Finance High School,high_school,40.765474,-73.9927,Lincoln Square,meeting_target,3.27
+02M289,I.S. 289,middle_school,40.71701,-74.013967,Tribeca,exceeding_target,4.13
+02M290,P.S. 290 Manhattan New School,elementary,40.775181,-73.952777,Yorkville,exceeding_target,4.09
+02M294,Essex Street Academy,high_school,40.717329,-73.989329,Chinatown,exceeding_target,4.03
+02M296,High School of Hospitality Management,high_school,40.765474,-73.9927,Lincoln Square,meeting_target,3.16
+02M297,M.S. 297,middle_school,40.736526,-73.992727,Flatiron,approaching_target,2.97
+02M298,Pace High School,high_school,40.716231,-73.993607,Chinatown,approaching_target,2.97
+02M300,"Urban Assembly School of Design and Construction,",high_school,40.765474,-73.9927,Lincoln Square,approaching_target,2.88
+02M303,"Facing History School, The",high_school,40.765474,-73.9927,Lincoln Square,meeting_target,3.59
+02M305,"Urban Assembly Academy of Government and Law, The",high_school,40.717329,-73.989329,Chinatown,meeting_target,3.48
+02M308,Lower Manhattan Arts Academy,high_school,40.717329,-73.989329,Chinatown,meeting_target,3.14
+02M312,New York City Lab Middle School for Collaborative,middle_school,40.742512,-74.002222,"Chelsea, Manhattan",exceeding_target,4.6
+02M316,"Urban Assembly School of Business for Young Women,",high_school,40.705688,-74.013303,Financial District,approaching_target,2.3
+02M340,Sixth Avenue Elementary School,elementary,40.739145,-73.995534,Flatiron,nan,
+02M343,The Peck Slip School,elementary,40.708774,-74.002407,Financial District,meeting_target,3.85
+02M347,The 47 American Sign Language & English Lower Scho,middle_school,40.738374,-73.981329,Gramercy,exceeding_target,4.89
+02M374,Gramercy Arts High School,high_school,40.735361,-73.987064,Gramercy,approaching_target,2.76
+02M376,NYC iSchool,high_school,40.72463,-74.005058,Soho,exceeding_target,4.33
+02M392,MANHATTAN BUSINESS ACADEMY,high_school,40.743407,-74.00254,"Chelsea, Manhattan",meeting_target,3.3
+02M393,Business Of Sports School,high_school,40.763655,-73.990318,Clinton,meeting_target,3.2
+02M397,Spruce Street School,middle_school,40.711321,-74.005473,Civic Center,exceeding_target,4.16
+02M399,The High School For Language And Diplomacy,high_school,40.735361,-73.987064,Gramercy,approaching_target,2.93
+02M400,High School for Environmental Studies,high_school,40.767848,-73.98861,Lincoln Square,meeting_target,3.03
+02M407,Institute for Collaborative Education,high_school,40.732665,-73.98259,Gramercy,exceeding_target,4.01
+02M408,Professional Performing Arts High School,high_school,40.761327,-73.988665,Clinton,meeting_target,3.93
+02M411,Baruch College Campus High School,high_school,40.741888,-73.985723,Flatiron,exceeding_target,4.7
+02M412,N.Y.C. Lab School for Collaborative Studies,high_school,40.742512,-74.002222,"Chelsea, Manhattan",exceeding_target,4.58
+02M413,School of the Future High School,high_school,40.739121,-73.985323,Gramercy,exceeding_target,4.56
+02M414,N.Y.C. Museum School,high_school,40.742512,-74.002222,"Chelsea, Manhattan",exceeding_target,4.6
+02M416,Eleanor Roosevelt High School,high_school,40.770288,-73.953276,Lenox Hill,exceeding_target,4.79
+02M418,Millennium High School,high_school,40.704697,-74.011202,Financial District,exceeding_target,4.78
+02M419,Landmark High School,high_school,40.743407,-74.00254,"Chelsea, Manhattan",meeting_target,3.19
+02M420,High School for Health Professions and Human Servi,high_school,40.732665,-73.98259,Gramercy,exceeding_target,4.01
+02M422,Quest to Learn,high_school,40.743407,-74.00254,"Chelsea, Manhattan",meeting_target,3.52
+02M425,Leadership and Public Service High School,high_school,40.708971,-74.012465,Financial District,meeting_target,3.27
+02M427,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,high_school,40.74651,-73.98107,"Murray Hill, Manhattan",approaching_target,2.84
+02M432,Murray Hill Academy,high_school,40.74651,-73.98107,"Murray Hill, Manhattan",meeting_target,3.5
+02M437,Hudson High School of Learning Technologies,high_school,40.743407,-74.00254,"Chelsea, Manhattan",approaching_target,2.83
+02M438,International High School at Union Square,high_school,40.735361,-73.987064,Gramercy,meeting_target,3.39
+02M439,Manhattan Village Academy,high_school,40.741963,-73.991966,Flatiron,exceeding_target,4.9
+02M442,"Ballet Tech, NYC Public School for Dance",middle_school,40.738521,-73.989481,Flatiron,exceeding_target,4.09
+02M449,Vanguard High School,high_school,40.765638,-73.959777,Lenox Hill,approaching_target,2.65
+02M459,Manhattan International High School,high_school,40.765638,-73.959777,Lenox Hill,meeting_target,3.3
+02M475,Stuyvesant High School,high_school,40.718025,-74.013921,Tribeca,exceeding_target,4.83
+02M489,High School of Economics and Finance,high_school,40.70927,-74.012328,Financial District,meeting_target,3.53
+02M500,Unity Center for Urban Technologies,high_school,40.74651,-73.98107,"Murray Hill, Manhattan",meeting_target,3.89
+02M507,Urban Assembly Gateway School for Technology,high_school,40.763655,-73.990318,Clinton,exceeding_target,4.25
+02M519,Talent Unlimited High School,high_school,40.765638,-73.959777,Lenox Hill,exceeding_target,4.16
+02M520,Murry Bergtraum High School for Business Careers,high_school,40.711441,-74.000851,Little Italy,approaching_target,2.42
+02M527,P.S. 527 - East Side School for Social Action,elementary,40.780652,-73.947856,Carnegie Hill,meeting_target,3.66
+02M529,Jacqueline Kennedy Onassis High School,high_school,40.757626,-73.98346,Midtown,approaching_target,2.56
+02M531,Repertory Company High School for Theatre Arts,high_school,40.756089,-73.984381,Midtown,exceeding_target,4.42
+02M533,Union Square Academy for Health Sciences,high_school,40.735361,-73.987064,Gramercy,meeting_target,3.07
+02M534,Harvest Collegiate High School,high_school,40.736416,-73.995731,Flatiron,meeting_target,3.5
+02M542,Manhattan Bridges High School,high_school,40.765474,-73.9927,Lincoln Square,exceeding_target,4.51
+02M543,New Design High School,high_school,40.717329,-73.989329,Chinatown,meeting_target,3.28
+02M545,High School for Dual Language and Asian Studies,high_school,40.717329,-73.989329,Chinatown,exceeding_target,4.83
+02M546,Academy for Software Engineering,high_school,40.735361,-73.987064,Gramercy,meeting_target,3.82
+02M551,Urban Assembly New York Harbor School,high_school,40.689493,-74.018941,Cobble Hill,approaching_target,2.8
+02M580,Richard R. Green High School of Teaching,high_school,40.705688,-74.013303,Financial District,approaching_target,2.61
+02M600,The High School of Fashion Industries,high_school,40.745677,-73.996354,"Chelsea, Manhattan",meeting_target,3.92
+02M605,Humanities Preparatory Academy,high_school,40.743407,-74.00254,"Chelsea, Manhattan",exceeding_target,4.26
+02M615,Chelsea Career and Technical Education High School,high_school,40.72463,-74.005058,Soho,meeting_target,3.28
+02M630,Art and Design High School,high_school,40.759248,-73.967204,Sutton Place,meeting_target,3.52
+02M655,Life Sciences Secondary School,high_school,40.783286,-73.945933,Carnegie Hill,approaching_target,2.53
+02M896,Lower Manhattan Community Middle School,middle_school,40.705688,-74.013303,Financial District,exceeding_target,4.58
+02M933,City Knoll Middle School,middle_school,40.753099,-73.997641,Clinton,meeting_target,3.67
+03M009,P.S. 009 Sarah Anderson,elementary,40.785234,-73.974256,Upper West Side,meeting_target,3.84
+03M054,J.H.S. 054 Booker T. Washington,middle_school,40.8007,-73.96327,Manhattan Valley,exceeding_target,4.41
+03M075,P.S. 075 Emily Dickinson,elementary,40.795109,-73.973996,Manhattan Valley,meeting_target,3.93
+03M076,P.S. 076 A. Philip Randolph,middle_school,40.806534,-73.951451,Morningside Heights,approaching_target,2.13
+03M084,P.S. 084 Lillian Weber,elementary,40.789479,-73.968419,Upper West Side,meeting_target,3.39
+03M087,P.S. 087 William Sherman,elementary,40.78171,-73.97802,Upper West Side,exceeding_target,4.31
+03M145,"P.S. 145, The Bloomingdale School",elementary,40.799098,-73.965611,Manhattan Valley,approaching_target,2.05
+03M149,P.S. 149 Sojourner Truth,middle_school,40.802649,-73.948088,Manhattan Valley,approaching_target,2.32
+03M163,P.S. 163 Alfred E. Smith,elementary,40.795163,-73.96847,Manhattan Valley,meeting_target,3.93
+03M165,P.S. 165 Robert E. Simon,middle_school,40.802653,-73.965949,Manhattan Valley,exceeding_target,4.08
+03M166,P.S. 166 The Richard Rodgers School of The Arts an,elementary,40.788925,-73.972557,Upper West Side,exceeding_target,4.28
+03M180,P.S. 180 Hugo Newman,middle_school,40.80757,-73.955861,Morningside Heights,not_meeting_target,1.87
+03M185,P.S. 185 - The Early Childhood Discovery and Desig,elementary,40.798461,-73.950146,Manhattan Valley,nan,
+03M191,The Riverside School for Makers and Artists,middle_school,40.7722,-73.990902,Lincoln Square,meeting_target,3.15
+03M199,P.S. 199 Jessie Isador Straus,elementary,40.777603,-73.984423,Upper West Side,exceeding_target,4.37
+03M241,STEM Institute of Manhattan,elementary,40.801573,-73.955583,Manhattan Valley,approaching_target,2.21
+03M242,P.S. 242 - The Young Diplomats Magnet Academy,elementary,40.806055,-73.948385,Morningside Heights,not_meeting_target,1.78
+03M243,M.S. 243 Center School,middle_school,40.785234,-73.974256,Upper West Side,exceeding_target,4.73
+03M245,M.S. M245 The Computer School,middle_school,40.780536,-73.977602,Upper West Side,exceeding_target,4.27
+03M247,M.S. M247 Dual Language Middle School,middle_school,40.780536,-73.977602,Upper West Side,exceeding_target,4.04
+03M250,M.S. 250 West Side Collaborative Middle School,middle_school,40.795109,-73.973996,Manhattan Valley,approaching_target,2.07
+03M256,Lafayette Academy,middle_school,40.791395,-73.971011,Upper West Side,exceeding_target,4.13
+03M258,Community Action School - MS 258,middle_school,40.791395,-73.971011,Upper West Side,meeting_target,3.88
+03M291,West End Secondary School,high_school,40.772608,-73.988338,Lincoln Square,exceeding_target,4.51
+03M299,The Maxine Greene HS for Imaginative Inquiry,high_school,40.774891,-73.985608,Lincoln Square,approaching_target,2.5
+03M307,"Urban Assembly School for Media Studies, The",high_school,40.774891,-73.985608,Lincoln Square,meeting_target,3.62
+03M333,P.S. 333 Manhattan School for Children,middle_school,40.791395,-73.971011,Upper West Side,meeting_target,3.67
+03M334,The Anderson School,middle_school,40.780536,-73.977602,Upper West Side,exceeding_target,4.66
+03M402,The Urban Assembly School for Green Careers,high_school,40.786134,-73.974483,Upper West Side,meeting_target,3.64
+03M403,The Global Learning Collaborative,high_school,40.786134,-73.974483,Upper West Side,meeting_target,3.02
+03M415,Wadleigh Secondary School for the Performing & Vis,high_school,40.80261,-73.954152,Manhattan Valley,meeting_target,3.91
+03M417,Frank Mccourt High School,high_school,40.786134,-73.974483,Upper West Side,meeting_target,3.93
+03M421,West Prep Academy,middle_school,40.799098,-73.965611,Manhattan Valley,meeting_target,3.97
+03M452,P.S. 452,elementary,40.771603,-73.987515,Lincoln Square,meeting_target,3.46
+03M479,Beacon High School,high_school,40.760858,-73.996262,Clinton,exceeding_target,4.33
+03M485,Fiorello H. LaGuardia High School of Music & Art a,high_school,40.774202,-73.985976,Lincoln Square,exceeding_target,4.69
+03M492,"High School for Law, Advocacy and Community Justic",high_school,40.774891,-73.985608,Lincoln Square,approaching_target,2.73
+03M494,High School of Arts and Technology,high_school,40.774891,-73.985608,Lincoln Square,approaching_target,2.88
+03M541,Manhattan / Hunter Science High School,high_school,40.774891,-73.985608,Lincoln Square,exceeding_target,4.83
+03M859,Special Music School,high_school,40.775256,-73.982976,Upper West Side,exceeding_target,4.28
+03M860,Frederick Douglass Academy II Secondary School,high_school,40.80261,-73.954152,Manhattan Valley,exceeding_target,4.14
+03M862,Mott Hall II,middle_school,40.802653,-73.965949,Manhattan Valley,meeting_target,3.96
+04M007,P.S. 007 Samuel Stern,middle_school,40.800616,-73.939374,East Harlem,approaching_target,2.7
+04M012,Tag Young Scholars,middle_school,40.792556,-73.942285,East Harlem,exceeding_target,4.47
+04M037,River East Elementary,elementary,40.796889,-73.930528,Port Morris,not_meeting_target,1.56
+04M038,P.S. 38 Roberto Clemente,elementary,40.788668,-73.944762,East Harlem,approaching_target,2.79
+04M057,James Weldon Johnson,middle_school,40.797205,-73.941598,East Harlem,not_meeting_target,1.97
+04M072,The Lexington Academy,middle_school,40.791444,-73.94745,East Harlem,approaching_target,2.49
+04M083,P.S. 083 Luis Munoz Rivera,elementary,40.793363,-73.941955,East Harlem,meeting_target,3.84
+04M096,P.S. 096 Joseph Lanzetta,middle_school,40.79969,-73.937179,East Harlem,approaching_target,2.68
+04M102,P.S. 102 Jacques Cartier,elementary,40.795,-73.938418,East Harlem,approaching_target,2.85
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational C,middle_school,40.795032,-73.947855,Manhattan Valley,approaching_target,2.53
+04M146,P.S. 146 Ann M. Short,elementary,40.789535,-73.938727,East Harlem,meeting_target,3.84
+04M155,P.S. 155 William Paca,elementary,40.797507,-73.935895,East Harlem,approaching_target,2.37
+04M171,P.S. 171 Patrick Henry,middle_school,40.792302,-73.951425,East Harlem,exceeding_target,4.37
+04M182,The Bilingual Bicultural School,elementary,40.793363,-73.941955,East Harlem,exceeding_target,4.07
+04M206,P.S. 206 Jose Celso Barbosa,middle_school,40.796889,-73.930528,Port Morris,meeting_target,3.46
+04M224,M.S. 224 Manhattan East School for Arts & Academic,middle_school,40.785107,-73.942154,East Harlem,exceeding_target,4.53
+04M372,Esperanza Preparatory Academy,high_school,40.792556,-73.942285,East Harlem,exceeding_target,4.33
+04M375,Mosaic Preparatory Academy,elementary,40.796098,-73.944546,East Harlem,approaching_target,2.33
+04M377,Renaissance School of the Arts,middle_school,40.797507,-73.935895,East Harlem,exceeding_target,4.27
+04M435,Manhattan Center for Science and Mathematics,high_school,40.794184,-73.932868,East Harlem,exceeding_target,4.21
+04M495,Park East High School,high_school,40.790191,-73.944092,East Harlem,exceeding_target,4.76
+04M497,Central Park East I,elementary,40.793649,-73.948488,East Harlem,approaching_target,2.61
+04M555,Central Park East High School,high_school,40.793649,-73.948488,East Harlem,exceeding_target,4.4
+04M610,Young Women's Leadership School,high_school,40.792932,-73.947171,East Harlem,exceeding_target,4.58
+04M680,"Heritage School, The",high_school,40.791966,-73.946879,East Harlem,meeting_target,3.48
+04M825,Isaac Newton Middle School for Math & Science,middle_school,40.794184,-73.932868,East Harlem,exceeding_target,4.5
+04M964,Central Park East II,middle_school,40.792302,-73.951425,East Harlem,approaching_target,2.27
+05M030,P.S. 030 Hernandez/Hughes,elementary,40.805653,-73.935461,Central Harlem,approaching_target,2.94
+05M036,P.S. 036 Margaret Douglas,elementary,40.810705,-73.957409,Morningside Heights,approaching_target,2.98
+05M046,P.S. 046 Arthur Tappan,middle_school,40.8304,-73.9363,Central Harlem,approaching_target,2.2
+05M092,P.S. 092 Mary McLeod Bethune,elementary,40.814917,-73.945838,Hamilton Heights,meeting_target,3.98
+05M123,P.S. 123 Mahalia Jackson,middle_school,40.820216,-73.944551,Central Harlem,approaching_target,2.14
+05M125,P.S. 125 Ralph Bunche,elementary,40.810793,-73.955722,Manhattanville,exceeding_target,4.32
+05M129,P.S. 129 John H. Finley,middle_school,40.814914,-73.95202,Hamilton Heights,approaching_target,2.86
+05M133,P.S. 133 Fred R Moore,elementary,40.809665,-73.939178,Central Harlem,meeting_target,3.28
+05M148,Eagle Academy for Young Men of Harlem,high_school,40.817228,-73.947151,Central Harlem,not_meeting_target,1.96
+05M154,P.S. 154 Harriet Tubman,elementary,40.810499,-73.948902,Morningside Heights,meeting_target,3.53
+05M157,The Urban Assembly School for Global Commerce,high_school,40.807019,-73.938714,Central Harlem,approaching_target,2.91
+05M161,P.S. 161 Pedro Albizu Campos,middle_school,40.817719,-73.952476,Manhattanville,approaching_target,2.57
+05M175,P.S. 175 Henry H Garnet,elementary,40.814388,-73.942706,Central Harlem,meeting_target,3.92
+05M194,P.S. 194 Countee Cullen,elementary,40.821208,-73.941111,Central Harlem,not_meeting_target,1.45
+05M197,P.S. 197 John B. Russwurm,elementary,40.813532,-73.938347,Central Harlem,approaching_target,2.17
+05M200,P.S. 200- The James Mccune Smith School,elementary,40.823988,-73.935746,Central Harlem,meeting_target,3.5
+05M286,Urban Assembly Academy for Future Leaders,middle_school,40.815747,-73.95552,Manhattanville,approaching_target,2.6
+05M304,Mott Hall High School,high_school,40.817228,-73.947151,Central Harlem,approaching_target,2.65
+05M318,Thurgood Marshall Academy Lower School,elementary,40.825831,-73.937833,Central Harlem,approaching_target,2.68
+05M362,Columbia Secondary School,high_school,40.810793,-73.955722,Manhattanville,exceeding_target,4.64
+05M369,Urban Assembly School for the Performing Arts,high_school,40.815747,-73.95552,Manhattanville,meeting_target,3.04
+05M499,Frederick Douglass Academy,high_school,40.823988,-73.935746,Central Harlem,approaching_target,2.76
+05M514,New Design Middle School,middle_school,40.819793,-73.956814,Manhattanville,not_meeting_target,1.84
+05M517,Teachers College Community School,middle_school,40.812428,-73.953317,Morningside Heights,meeting_target,3.37
+05M670,Thurgood Marshall Academy for Learning and Social,high_school,40.815237,-73.944299,Central Harlem,approaching_target,2.72
+05M692,"High School for Mathematics, Science and Engineeri",high_school,40.820208,-73.950354,Hamilton Heights,exceeding_target,4.65
+06M004,P.S. 004 Duke Ellington,elementary,40.834877,-73.941594,Washington Heights,meeting_target,3.55
+06M005,P.S. 005 Ellen Lurie,elementary,40.857633,-73.922277,University Heights,meeting_target,3.28
+06M008,P.S. 008 Luis Belliard,elementary,40.839235,-73.936614,High  Bridge,meeting_target,3.66
+06M018,P.S. 018 Park Terrace,middle_school,40.871456,-73.911732,Marble Hill,approaching_target,2.42
+06M028,P.S. 028 Wright Brothers,elementary,40.83163,-73.942023,Central Harlem,meeting_target,3.63
+06M048,P.S. 048 P.O. Michael J. Buczek,elementary,40.853193,-73.933629,Washington Heights,meeting_target,3.31
+06M052,J.H.S. 052 Inwood,middle_school,40.865556,-73.925464,Inwood,approaching_target,2.93
+06M098,P.S. 098 Shorac Kappock,elementary,40.867741,-73.917814,Inwood,meeting_target,3.54
+06M103,Dos Puentes Elementary School,elementary,40.850561,-73.933964,Washington Heights,approaching_target,2.5
+06M115,P.S. 115 Alexander Humboldt,elementary,40.846116,-73.93514,Washington Heights,approaching_target,2.58
+06M128,P.S. 128 Audubon,elementary,40.841032,-73.938701,High  Bridge,meeting_target,3.5
+06M132,P.S. 132 Juan Pablo Duarte,elementary,40.850561,-73.933964,Washington Heights,meeting_target,3.22
+06M143,J.H.S. 143 Eleanor Roosevelt,middle_school,40.849311,-73.930991,Washington Heights,meeting_target,3.55
+06M152,P.S. 152 Dyckman Valley,elementary,40.859804,-73.927578,University Heights,approaching_target,2.75
+06M153,P.S. 153 Adam Clayton Powell,elementary,40.826514,-73.947599,Hamilton Heights,meeting_target,3.27
+06M173,P.S. 173,elementary,40.845459,-73.939785,Washington Heights,meeting_target,3.22
+06M178,Professor Juan Bosch Public School,elementary,40.85924,-73.928301,University Heights,approaching_target,2.76
+06M187,P.S./I.S. 187 Hudson Cliffs,middle_school,40.856239,-73.93684,Washington Heights,exceeding_target,4.01
+06M189,P.S. 189,elementary,40.853045,-73.928048,Washington Heights,meeting_target,3.93
+06M192,P.S. 192 Jacob H. Schiff,elementary,40.82051,-73.952023,Hamilton Heights,meeting_target,3.41
+06M209,Hamilton Grange Middle School,middle_school,40.82051,-73.952023,Hamilton Heights,meeting_target,3.72
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for C,middle_school,40.830004,-73.944666,Central Harlem,exceeding_target,4.05
+06M211,Inwood Early College for Health and Information Te,high_school,40.865556,-73.925464,Inwood,meeting_target,3.3
+06M223,The Mott Hall School,middle_school,40.816626,-73.951292,Manhattanville,exceeding_target,4.64
+06M278,Paula Hedbavny School,middle_school,40.871673,-73.912339,Marble Hill,meeting_target,3.67
+06M293,City College Academy of the Arts,high_school,40.860951,-73.930082,University Heights,exceeding_target,4.14
+06M311,Amistad Dual Language School,middle_school,40.866381,-73.923818,Inwood,meeting_target,3.71
+06M314,Muscota,elementary,40.866381,-73.923818,Inwood,exceeding_target,4.77
+06M319,M.S. 319 - Maria Teresa,middle_school,40.839139,-73.935815,High  Bridge,meeting_target,3.35
+06M322,Middle School 322,middle_school,40.860951,-73.930082,University Heights,meeting_target,3.0
+06M324,M.S. 324 - Patria Mirabal,middle_school,40.839139,-73.935815,High  Bridge,exceeding_target,4.36
+06M328,Community Math & Science Prep,middle_school,40.836982,-73.937263,High  Bridge,meeting_target,3.07
+06M346,Community Health Academy of the Heights,high_school,40.833695,-73.942074,Central Harlem,exceeding_target,4.08
+06M348,Washington Heights Expeditionary Learning School,high_school,40.849311,-73.930991,Washington Heights,exceeding_target,4.15
+06M349,Harbor Heights,middle_school,40.845459,-73.939785,Washington Heights,meeting_target,3.31
+06M366,Washington Heights Academy,middle_school,40.865575,-73.921631,Inwood,exceeding_target,4.72
+06M368,Hamilton Heights School,elementary,40.826514,-73.947599,Hamilton Heights,approaching_target,2.57
+06M462,The College Academy,high_school,40.856532,-73.92606,University Heights,meeting_target,3.51
+06M463,High School for Media and Communications,high_school,40.856532,-73.92606,University Heights,approaching_target,2.48
+06M467,High School for Law and Public Service,high_school,40.856532,-73.92606,University Heights,approaching_target,2.47
+06M468,High School for Health Careers and Sciences,high_school,40.856532,-73.92606,University Heights,meeting_target,3.09
+06M513,Castle Bridge School,elementary,40.841032,-73.938701,High  Bridge,nan,
+06M528,I.S. 528 Bea Fuller Rodgers School,middle_school,40.850683,-73.934676,Washington Heights,meeting_target,3.92
+06M540,A. Philip Randolph Campus High School,high_school,40.8185,-73.949929,Hamilton Heights,approaching_target,2.84
+06M552,Gregorio Luperon High School for Science and Mathe,high_school,40.8381,-73.9383,High  Bridge,meeting_target,3.47
+07X001,P.S. 001 Courtlandt School,elementary,40.819331,-73.919634,Concourse Village,meeting_target,3.04
+07X005,P.S. 5 Port Morris,middle_school,40.813896,-73.908358,Melrose,approaching_target,2.65
+07X018,P.S. 018 John Peter Zenger,elementary,40.816369,-73.922697,Concourse Village,approaching_target,2.04
+07X025,P.S. 025 Bilingual School,elementary,40.812895,-73.905751,Melrose,exceeding_target,4.2
+07X029,P.S./M.S. 029 Melrose School,middle_school,40.821544,-73.916419,Concourse Village,not_meeting_target,1.88
+07X030,P.S. 030 Wilton,elementary,40.809023,-73.917417,Mott Haven,approaching_target,2.27
+07X031,P.S./M.S. 031 The William Lloyd Garrison,middle_school,40.822574,-73.92114,Concourse Village,meeting_target,3.1
+07X043,P.S. 043 Jonas Bronck,elementary,40.806452,-73.921593,Mott Haven,meeting_target,3.76
+07X049,P.S. 049 Willis Avenue,elementary,40.810413,-73.92273,Mott Haven,exceeding_target,4.59
+07X065,P.S. 065 Mother Hale Academy,elementary,40.807916,-73.912557,Mott Haven,meeting_target,3.26
+07X151,J.H.S. 151 Lou Gehrig,middle_school,40.822574,-73.92114,Concourse Village,approaching_target,2.68
+07X154,P.S. 154 Jonathan D. Hyatt,elementary,40.808194,-73.925459,Mott Haven,meeting_target,3.99
+07X157,P.S. 157 Grove Hill,elementary,40.819419,-73.908965,Melrose,meeting_target,3.02
+07X161,P.S. 161 Juan Ponce De Leon School,elementary,40.814168,-73.905233,Melrose,meeting_target,3.28
+07X179,P.S. 179,elementary,40.80908,-73.919773,Mott Haven,meeting_target,3.45
+07X221,South Bronx Preparatory: A College Board School,high_school,40.813612,-73.920851,Mott Haven,exceeding_target,4.36
+07X223,The Laboratory School of Finance and Technology: X,high_school,40.813612,-73.920851,Mott Haven,exceeding_target,4.43
+07X224,P.S./I.S. 224,middle_school,40.810314,-73.918774,Mott Haven,not_meeting_target,1.56
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",high_school,40.810671,-73.907528,Mott Haven,approaching_target,2.86
+07X277,P.S. 277,elementary,40.813385,-73.913872,Melrose,approaching_target,2.29
+07X296,South Bronx Academy for Applied Media,middle_school,40.818703,-73.905389,Melrose,meeting_target,3.04
+07X298,Academy of Public Relations,middle_school,40.818703,-73.905389,Melrose,meeting_target,3.24
+07X334,International Community High School,high_school,40.810314,-73.918774,Mott Haven,meeting_target,3.96
+07X343,Academy of Applied Mathematics and Technology,middle_school,40.810314,-73.918774,Mott Haven,exceeding_target,4.03
+07X359,Concourse Village Elementary School,elementary,40.823014,-73.922527,Concourse Village,exceeding_target,4.59
+07X369,Young Leaders Elementary School,elementary,40.80908,-73.919773,Mott Haven,meeting_target,3.65
+07X427,Community School for Social Justice,high_school,40.815712,-73.92996,Central Harlem,meeting_target,3.22
+07X473,Mott Haven Village Preparatory High School,high_school,40.818041,-73.911633,Melrose,approaching_target,2.42
+07X495,University Heights Secondary School,high_school,40.818041,-73.911633,Melrose,exceeding_target,4.72
+07X500,Hostos-Lincoln Academy of Science,high_school,40.814857,-73.912038,Melrose,meeting_target,3.71
+07X522,Bronx Design and Construction Academy,high_school,40.818645,-73.919949,Concourse Village,approaching_target,2.37
+07X527,Bronx Leadership Academy II High School,high_school,40.821828,-73.922366,Concourse Village,meeting_target,3.68
+07X548,Careers in Sports High School,high_school,40.821828,-73.922366,Concourse Village,approaching_target,2.3
+07X551,The Urban Assembly Bronx Academy of Letters,high_school,40.813681,-73.925995,Mott Haven,meeting_target,3.95
+07X584,I.S. 584,middle_school,40.814857,-73.912038,Melrose,meeting_target,3.67
+07X600,Alfred E. Smith Career and Technical Education Hig,high_school,40.818645,-73.919949,Concourse Village,meeting_target,3.89
+07X670,Health Opportunities High School,high_school,40.815712,-73.92996,Central Harlem,approaching_target,2.64
+08X014,P.S. X014 Senator John Calandra,elementary,40.835318,-73.826277,Schuylerville,meeting_target,3.54
+08X036,P.S. 036 Unionport,elementary,40.82948,-73.849791,Unionport,meeting_target,3.74
+08X048,P.S. 048 Joseph R. Drake,elementary,40.814034,-73.886834,Hunts Point,approaching_target,2.86
+08X062,P.S. 062 Inocensio Casanova,elementary,40.813736,-73.900161,Longwood,meeting_target,3.27
+08X069,P.S. 069 Journey Prep School,elementary,40.8167,-73.86046,Soundview,exceeding_target,4.99
+08X071,P.S. 071 Rose E. Scala,middle_school,40.845379,-73.829562,Pelham Bay,meeting_target,3.45
+08X072,P.S. 072 Dr. William Dorney,elementary,40.823237,-73.818172,Edgewater Park,exceeding_target,4.56
+08X075,P.S. 75 School of Research and Discovery,elementary,40.822314,-73.888948,Longwood,meeting_target,3.49
+08X093,P.S. 093 Albert G. Oliver,elementary,40.822522,-73.877274,Soundview,approaching_target,2.97
+08X100,P.S. 100 Isaac Clason,elementary,40.822552,-73.86276,Soundview,meeting_target,3.21
+08X101,M.S. X101 Edward R. Byrne,middle_school,40.82708,-73.829211,Schuylerville,meeting_target,3.92
+08X107,P.S. 107,elementary,40.819221,-73.868735,Soundview,meeting_target,3.91
+08X119,The Dr. Emmett W. Bassett School,elementary,40.828474,-73.857392,Unionport,meeting_target,3.76
+08X123,J.H.S. 123 James M. Kieran,middle_school,40.824989,-73.874162,Soundview,meeting_target,3.05
+08X130,P.S. 130 Abram Stevens Hewitt,elementary,40.817742,-73.901709,Longwood,meeting_target,3.73
+08X131,J.H.S. 131 Albert Einstein,middle_school,40.822925,-73.859998,Soundview,meeting_target,3.15
+08X138,P.S. 138 Samuel Randall,elementary,40.822288,-73.853157,Castle Hill,approaching_target,2.56
+08X140,P.S. X140 The Eagle School,elementary,40.823318,-73.907489,Melrose,meeting_target,3.12
+08X146,P.S. 146 Edward Collins,elementary,40.824717,-73.905734,Morrisania,meeting_target,3.28
+08X152,P.S. 152 Evergreen,elementary,40.823941,-73.880479,Soundview,meeting_target,3.29
+08X182,P.S. 182,elementary,40.818925,-73.856976,Castle Hill,approaching_target,2.64
+08X269,Bronx Studio School for Writers and Artists,high_school,40.820388,-73.892961,Longwood,meeting_target,3.0
+08X282,Women's Academy of Excellence,high_school,40.815043,-73.85607,Castle Hill,approaching_target,2.81
+08X293,Renaissance High School for Musical Theater & Tech,high_school,40.839775,-73.839583,Westchester Square,meeting_target,3.3
+08X301,M.S. 301 Paul L. Dunbar,middle_school,40.822291,-73.906739,Melrose,approaching_target,2.04
+08X302,M.S. 302 Luisa Dessus Cruz,middle_school,40.816078,-73.901599,Longwood,meeting_target,3.61
+08X304,P.S. 304 Early Childhood School,elementary,40.82708,-73.829211,Schuylerville,meeting_target,3.73
+08X312,Millennium Art Academy,high_school,40.821218,-73.85593,Castle Hill,meeting_target,3.05
+08X320,Pelham Lab High School,high_school,40.839775,-73.839583,Westchester Square,approaching_target,2.7
+08X333,The Longwood Academy for Discovery,elementary,40.820108,-73.898399,Morrisania,approaching_target,2.34
+08X337,The School for Inquiry and Social Justice,middle_school,40.824989,-73.874162,Soundview,exceeding_target,4.46
+08X348,Schuylerville Preparatory High School,high_school,40.839775,-73.839583,Westchester Square,approaching_target,2.51
+08X349,Bronx River High School,high_school,40.839775,-73.839583,Westchester Square,meeting_target,3.41
+08X367,"Archimedes Academy for Math, Science and Technolog",high_school,40.815043,-73.85607,Castle Hill,meeting_target,3.14
+08X371,Urban Institute of Mathematics,middle_school,40.826794,-73.818083,Schuylerville,meeting_target,3.86
+08X375,The Bronx Mathematics Preparatory School,middle_school,40.815043,-73.85607,Castle Hill,meeting_target,3.04
+08X376,Antonia Pantoja Preparatory Academy: A College Boa,high_school,40.821218,-73.85593,Castle Hill,meeting_target,3.28
+08X392,Bronx Delta School,elementary,40.826794,-73.818083,Schuylerville,nan,
+08X405,Herbert H. Lehman High School,high_school,40.839775,-73.839583,Westchester Square,approaching_target,2.28
+08X424,The Hunts Point School,middle_school,40.815827,-73.885284,Longwood,approaching_target,2.44
+08X432,Bronx Bridges High School,high_school,40.821218,-73.85593,Castle Hill,meeting_target,3.49
+08X448,Soundview Academy for Culture and Scholarship,middle_school,40.822925,-73.859998,Soundview,meeting_target,3.22
+08X452,Gotham Collaborative High School,high_school,40.821218,-73.85593,Castle Hill,approaching_target,2.69
+08X467,Mott Hall Community School,middle_school,40.826794,-73.818083,Schuylerville,approaching_target,2.86
+08X530,Longwood Preparatory Academy,high_school,40.817741,-73.897876,Longwood,meeting_target,3.51
+08X558,Westchester Square Academy,high_school,40.839775,-73.839583,Westchester Square,approaching_target,2.99
+08X559,School for Tourism and Hospitality,high_school,40.821723,-73.902892,Morrisania,not_meeting_target,1.86
+08X561,Bronx Compass High School,high_school,40.821218,-73.85593,Castle Hill,approaching_target,2.69
+08X562,Blueprint Middle School,middle_school,40.829153,-73.857882,Unionport,meeting_target,3.84
+09X004,P.S./M.S. 004 Crotona Park West,middle_school,40.841758,-73.897943,East Tremont,approaching_target,2.88
+09X011,P.S. 011 Highbridge,elementary,40.839693,-73.92589,High  Bridge,approaching_target,2.99
+09X022,J.H.S. 022 Jordan L. Mott,middle_school,40.832022,-73.91435,Concourse,approaching_target,2.78
+09X028,P.S. 028 Mount Hope,elementary,40.848344,-73.903821,Mount Hope,meeting_target,3.1
+09X035,P.S. 035 Franz Siegel,elementary,40.828009,-73.917705,Concourse Village,approaching_target,2.66
+09X042,P.S. 042 Claremont,elementary,40.838636,-73.903243,Claremont Village,meeting_target,3.61
+09X053,P.S. 053 Basheer Quisim,elementary,40.832648,-73.911906,Concourse,meeting_target,3.33
+09X055,P.S. 055 Benjamin Franklin,elementary,40.835934,-73.90497,Claremont Village,meeting_target,3.92
+09X058,P.S. 058,elementary,40.846383,-73.898826,Mount Hope,meeting_target,3.52
+09X063,P.S. 063 Author's Academy,elementary,40.83093,-73.901859,Claremont Village,meeting_target,3.35
+09X070,P.S. 070 Max Schoenfeld,elementary,40.844236,-73.90807,Mount Hope,meeting_target,3.27
+09X073,P.S. 073 Bronx,elementary,40.832609,-73.926415,High  Bridge,meeting_target,3.06
+09X109,P.S. 109 Sedgwick,elementary,40.851661,-73.918991,Morris Heights,approaching_target,2.54
+09X110,P.S. 110 Theodore Schoenfeld,elementary,40.83447,-73.900654,Claremont Village,meeting_target,3.09
+09X114,P.S. X114 - Luis Llorens Torres Schools,elementary,40.834979,-73.923297,Concourse,approaching_target,2.86
+09X117,I.S. 117 Joseph H. Wade,middle_school,40.848552,-73.909022,Mount Hope,approaching_target,2.94
+09X126,P.S. 126 Dr Marjorie H Dunbar,elementary,40.835866,-73.9282,High  Bridge,approaching_target,2.69
+09X128,Mott Hall III,middle_school,40.83447,-73.900654,Claremont Village,exceeding_target,4.25
+09X132,P.S. 132 Garret A. Morgan,elementary,40.832175,-73.907133,Claremont Village,meeting_target,3.51
+09X163,P.S. 163 Arthur A. Schomburg,elementary,40.8517,-73.899005,Mount Hope,meeting_target,3.32
+09X199,P.S. 199X - The Shakespeare School,elementary,40.843453,-73.920826,Mount Eden,meeting_target,3.25
+09X204,P.S. 204 Morris Heights,elementary,40.849416,-73.915217,Morris Heights,exceeding_target,4.73
+09X215,Kappa,middle_school,40.833493,-73.903951,Claremont Village,exceeding_target,4.31
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magne,middle_school,40.835681,-73.919571,Concourse,approaching_target,2.99
+09X219,I.S. 219 New Venture School,middle_school,40.833493,-73.903951,Claremont Village,approaching_target,2.59
+09X227,Bronx Collegiate Academy,high_school,40.839307,-73.911366,Mount Eden,meeting_target,3.16
+09X229,I.S. 229 Roland Patterson,middle_school,40.8524,-73.9216,Morris Heights,approaching_target,2.47
+09X231,Eagle Academy for Young Men,high_school,40.845366,-73.897479,Mount Hope,meeting_target,3.27
+09X232,I.S. 232,middle_school,40.849416,-73.915217,Morris Heights,meeting_target,3.08
+09X236,P.S. 236 Langston Hughes,elementary,40.848907,-73.909936,Mount Hope,meeting_target,3.69
+09X241,Urban Assembly School for Applied Math and Science,high_school,40.839508,-73.901774,Claremont Village,meeting_target,3.7
+09X250,Eximius College Preparatory Academy: A College Boa,high_school,40.833884,-73.902794,Claremont Village,meeting_target,3.79
+09X252,Mott Hall Bronx High School,high_school,40.839508,-73.901774,Claremont Village,meeting_target,3.7
+09X260,Bronx Center for Science and Mathematics,high_school,40.833884,-73.902794,Claremont Village,exceeding_target,4.24
+09X263,Validus Preparatory Academy,high_school,40.839508,-73.901774,Claremont Village,meeting_target,3.01
+09X274,The New American Academy at Roberto Clemente State,elementary,40.8524,-73.9216,Morris Heights,approaching_target,2.9
+09X294,The Walton Avenue School,elementary,40.8404,-73.915879,Mount Eden,exceeding_target,4.81
+09X297,Morris Academy for Collaborative Studies,high_school,40.827455,-73.90392,Morrisania,meeting_target,3.96
+09X303,I.S. X303 Leadership & Community Service,middle_school,40.849416,-73.915217,Morris Heights,exceeding_target,4.28
+09X311,Lucero Elementary School,elementary,40.8404,-73.915879,Mount Eden,exceeding_target,4.09
+09X313,I.S. 313 School of Leadership Development,middle_school,40.840536,-73.904353,Claremont Village,approaching_target,2.99
+09X323,Bronx Writing Academy,middle_school,40.832022,-73.91435,Concourse,meeting_target,3.18
+09X324,Bronx Early College Academy for Teaching & Learnin,high_school,40.828009,-73.917705,Concourse Village,meeting_target,3.97
+09X327,Comprehensive Model School Project M.S. 327,high_school,40.842503,-73.916084,Mount Eden,exceeding_target,4.02
+09X328,New Millennium Business Academy Middle School,middle_school,40.827438,-73.914067,Concourse,approaching_target,2.97
+09X329,DreamYard Preparatory School,high_school,40.839307,-73.911366,Mount Eden,meeting_target,3.28
+09X339,I.S. 339,middle_school,40.840536,-73.904353,Claremont Village,meeting_target,3.46
+09X350,New Directions Secondary School,high_school,40.839307,-73.911366,Mount Eden,not_meeting_target,1.67
+09X361,The Highbridge Green School,middle_school,40.838232,-73.927892,High  Bridge,meeting_target,3.12
+09X365,Academy for Language and Technology,high_school,40.849416,-73.915217,Morris Heights,exceeding_target,4.75
+09X403,Bronx International High School,high_school,40.827455,-73.90392,Morrisania,exceeding_target,4.08
+09X404,School for Excellence,high_school,40.827455,-73.90392,Morrisania,meeting_target,3.01
+09X412,Bronx High School of Business,high_school,40.839307,-73.911366,Mount Eden,meeting_target,3.16
+09X413,Bronx High School for Medical Science,high_school,40.839307,-73.911366,Mount Eden,exceeding_target,4.14
+09X443,The Family School,elementary,40.831873,-73.917526,Concourse,exceeding_target,4.28
+09X449,Grant Avenue Elementary School,elementary,40.828009,-73.917705,Concourse Village,meeting_target,3.73
+09X454,Science and Technology Academy: A Mott Hall School,middle_school,40.828009,-73.917705,Concourse Village,exceeding_target,4.52
+09X457,Sheridan Academy for Young Leaders,elementary,40.831873,-73.917526,Concourse,meeting_target,3.4
+09X505,"Bronx School for Law, Government and Justice",high_school,40.827461,-73.919024,Concourse Village,exceeding_target,4.19
+09X517,Frederick Douglass Academy III Secondary School,high_school,40.833493,-73.903951,Claremont Village,meeting_target,3.84
+09X525,Bronx Leadership Academy High School,high_school,40.84325,-73.902969,Mount Eden,approaching_target,2.56
+09X543,High School for Violin and Dance,high_school,40.827455,-73.90392,Morrisania,approaching_target,2.74
+09X555,Mount Eden Children's Academy,elementary,40.842503,-73.916084,Mount Eden,meeting_target,3.22
+09X564,Claremont International HS,high_school,40.839307,-73.911366,Mount Eden,meeting_target,3.83
+09X568,Young Women's Leadership School of the Bronx,high_school,40.848552,-73.909022,Mount Hope,meeting_target,3.78
+10X003,P.S. 3 Raul Julia Micro Society,middle_school,40.850131,-73.89163,Belmont,meeting_target,3.77
+10X007,Milton Fein School,elementary,40.881562,-73.905697,Kingsbridge,meeting_target,3.11
+10X008,P.S. 008 Isaac Varian,elementary,40.872259,-73.883339,Bedford Park,meeting_target,3.27
+10X009,P.S. 9 Ryer Avenue Elementary School,elementary,40.85644,-73.898821,Fordham,meeting_target,3.71
+10X015,P.S. X015 Institute for Environmental Learning,middle_school,40.859243,-73.909763,University Heights,meeting_target,3.46
+10X020,"P.S./M.S. 20 P.O.George J. Werdann, III",middle_school,40.869482,-73.878731,Bedford Park,approaching_target,2.84
+10X023,P.S. 023 The New Children's School,elementary,40.853294,-73.894951,Belmont,meeting_target,3.02
+10X024,P.S. 024 Spuyten Duyvil,elementary,40.886922,-73.915114,Riverdale,meeting_target,3.79
+10X032,P.S. 032 Belmont,elementary,40.851724,-73.88622,Belmont,approaching_target,2.92
+10X033,P.S. 033 Timothy Dwight,elementary,40.861698,-73.901268,Fordham,approaching_target,2.72
+10X037,P.S. X037 - Multiple Intelligence School,middle_school,40.877935,-73.913694,Marble Hill,meeting_target,3.23
+10X045,Thomas C. Giordano Middle School 45,middle_school,40.858389,-73.887026,Belmont,approaching_target,2.72
+10X046,P.S. 046 Edgar Allan Poe,elementary,40.867169,-73.890402,Bedford Park,approaching_target,2.74
+10X051,P.S. 051 Bronx New School,elementary,40.850674,-73.886997,Belmont,not_meeting_target,1.51
+10X054,P.S./I.S. 54,elementary,40.864872,-73.88794,Bedford Park,meeting_target,3.2
+10X056,P.S. 056 Norwood Heights,elementary,40.875481,-73.874912,Norwood,exceeding_target,4.21
+10X059,P.S. 059 The Community School of Technology,elementary,40.853141,-73.893639,Belmont,approaching_target,2.5
+10X077,Bedford Park Elementary School,elementary,40.872559,-73.875375,Norwood,nan,
+10X080,J.H.S. 080 The Mosholu Parkway,middle_school,40.876819,-73.881245,Norwood,exceeding_target,4.17
+10X081,P.S. 081 Robert J. Christen,elementary,40.903275,-73.904657,North Riverdale,meeting_target,3.51
+10X085,P.S. 085 Great Expectations,elementary,40.858689,-73.894682,Fordham,approaching_target,2.59
+10X086,P.S. 086 Kingsbridge Heights,elementary,40.869061,-73.897066,Fordham,meeting_target,3.79
+10X091,P.S. 091 Bronx,elementary,40.858286,-73.907494,University Heights,meeting_target,3.16
+10X094,P.S. 094 Kings College School,elementary,40.880661,-73.875268,Norwood,approaching_target,2.44
+10X095,P.S. 095 Sheila Mencher,middle_school,40.883049,-73.891664,Kingsbridge,meeting_target,3.2
+10X118,J.H.S. 118 William W. Niles,middle_school,40.848702,-73.892482,East Tremont,meeting_target,3.1
+10X141,Riverdale / Kingsbridge Academy (Middle School / H,high_school,40.887407,-73.914141,Riverdale,meeting_target,3.74
+10X159,P.S. 159 Luis Munoz Marin Biling,elementary,40.85568,-73.893136,Belmont,approaching_target,2.5
+10X205,P.S. 205 Fiorello LaGuardia,elementary,40.855759,-73.881753,Belmont,exceeding_target,4.11
+10X206,I.S. 206 Ann Mersereau,middle_school,40.859534,-73.906285,University Heights,meeting_target,3.42
+10X213,Bronx Engineering and Technology Academy,high_school,40.877379,-73.912686,Marble Hill,approaching_target,2.53
+10X225,Theatre Arts Production Company School,high_school,40.854257,-73.897404,Fordham,meeting_target,3.22
+10X226,P.S. 226,elementary,40.855822,-73.916076,University Heights,meeting_target,3.14
+10X228,Jonas Bronck Academy,middle_school,40.860987,-73.891562,Fordham,meeting_target,3.98
+10X237,"The Marie Curie School for Medicine, Nursing, and",high_school,40.875636,-73.901565,Kingsbridge,approaching_target,2.73
+10X243,West Bronx Academy for the Future,high_school,40.859466,-73.888625,Belmont,meeting_target,3.23
+10X244,The New School for Leadership and Journalism,middle_school,40.875636,-73.901565,Kingsbridge,exceeding_target,4.07
+10X246,P.S. 246 Poe Center,elementary,40.865972,-73.8953,Fordham,approaching_target,2.79
+10X254,I.S. 254,middle_school,40.858721,-73.889878,Belmont,meeting_target,3.5
+10X264,Bronx Academy for Software Engineering (BASE),high_school,40.855392,-73.882487,Belmont,approaching_target,2.99
+10X268,Kingsbridge International High School,high_school,40.869061,-73.897066,Fordham,not_meeting_target,1.71
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",middle_school,40.854666,-73.904958,Mount Hope,meeting_target,3.33
+10X280,P.S./M.S. 280 Mosholu Parkway,middle_school,40.876819,-73.881245,Norwood,meeting_target,3.51
+10X284,Bronx School of Law and Finance,high_school,40.877379,-73.912686,Marble Hill,meeting_target,3.07
+10X291,P.S. 291,elementary,40.859243,-73.909763,University Heights,meeting_target,3.15
+10X306,P.S. 306,elementary,40.850722,-73.910827,Mount Hope,approaching_target,2.97
+10X307,Luisa Pineiro Fuentes School of Science and Discov,elementary,40.869142,-73.901821,Fordham,approaching_target,2.25
+10X308,Bronx Dance Academy School,middle_school,40.885428,-73.878051,Norwood,meeting_target,3.61
+10X310,P.S. 310 Marble Hill,elementary,40.872477,-73.905547,Marble Hill,meeting_target,3.38
+10X315,P.S. 315 Lab School,middle_school,40.873659,-73.900068,Kingsbridge,approaching_target,2.37
+10X331,The Bronx School of Young Leaders,middle_school,40.850722,-73.910827,Mount Hope,meeting_target,3.18
+10X340,P.S. 340,elementary,40.869407,-73.897171,Fordham,meeting_target,3.54
+10X342,International School for Liberal Arts,high_school,40.869061,-73.897066,Fordham,meeting_target,3.54
+10X344,Ampark Neighborhood,elementary,40.883049,-73.891664,Kingsbridge,approaching_target,2.51
+10X351,Bronx Collaborative High School,high_school,40.879958,-73.889011,Norwood,approaching_target,2.98
+10X353,World View High School,high_school,40.879958,-73.889011,Norwood,exceeding_target,4.58
+10X360,P.S. 360,elementary,40.874717,-73.902214,Kingsbridge,meeting_target,3.57
+10X363,Academy For Personal Leadership And Excellence,middle_school,40.859496,-73.90049,Fordham,approaching_target,2.78
+10X368,In-Tech Academy (M.S. / High School 368),high_school,40.877935,-73.913694,Marble Hill,meeting_target,3.26
+10X374,Knowledge and Power Preparatory Academy Internatio,high_school,40.859466,-73.888625,Belmont,exceeding_target,4.31
+10X382,"Elementary School for Math, Science, and Technolog",elementary,40.855337,-73.903139,University Heights,approaching_target,2.2
+10X386,School for Environmental Citizenship,elementary,40.855337,-73.903139,University Heights,meeting_target,3.06
+10X390,M.S. 390,middle_school,40.854335,-73.913016,University Heights,meeting_target,3.22
+10X391,The Angelo Patri Middle School,middle_school,40.854257,-73.897404,Fordham,approaching_target,2.27
+10X396,P.S. 396,elementary,40.854335,-73.913016,University Heights,approaching_target,2.86
+10X433,High School for Teaching and the Professions,high_school,40.869061,-73.897066,Fordham,meeting_target,3.53
+10X434,Belmont Preparatory High School,high_school,40.859466,-73.888625,Belmont,exceeding_target,4.02
+10X437,Fordham High School for the Arts,high_school,40.859466,-73.888625,Belmont,exceeding_target,4.32
+10X438,Fordham Leadership Academy,high_school,40.859466,-73.888625,Belmont,exceeding_target,4.03
+10X439,Bronx High School for Law and Community Service,high_school,40.859466,-73.888625,Belmont,exceeding_target,4.35
+10X440,DeWitt Clinton High School,high_school,40.879958,-73.889011,Norwood,approaching_target,2.76
+10X442,"Celia Cruz Bronx High School of Music, The",high_school,40.869061,-73.897066,Fordham,exceeding_target,4.36
+10X445,Bronx High School of Science,high_school,40.879958,-73.889011,Norwood,exceeding_target,4.9
+10X447,Creston Academy,middle_school,40.855337,-73.903139,University Heights,exceeding_target,4.2
+10X477,Marble Hill High School for International Studies,high_school,40.877379,-73.912686,Marble Hill,exceeding_target,4.86
+10X524,Crotona International High School,high_school,40.855392,-73.882487,Belmont,meeting_target,3.58
+10X546,Bronx Theatre High School,high_school,40.877379,-73.912686,Marble Hill,meeting_target,3.3
+10X549,Discovery High School,high_school,40.869061,-73.897066,Fordham,exceeding_target,4.35
+10X565,High School for Energy and Technology,high_school,40.855392,-73.882487,Belmont,meeting_target,3.37
+10X696,High School of American Studies at Lehman College,high_school,40.874725,-73.895543,Bedford Park,exceeding_target,4.86
+11X016,P.S. 016 Wakefield,elementary,40.902311,-73.854231,Wakefield,meeting_target,3.88
+11X019,P.S. 019 Judith K. Weiss,middle_school,40.899351,-73.866949,Woodlawn,meeting_target,3.48
+11X021,P.S. 021 Philip H. Sheridan,elementary,40.887888,-73.85942,Williamsbridge,approaching_target,2.4
+11X041,P.S. 041 Gun Hill Road,elementary,40.874754,-73.867834,Olinville,approaching_target,2.63
+11X068,P.S. 068 Bronx,elementary,40.891603,-73.83888,Wakefield,exceeding_target,4.31
+11X076,P.S. 076 The Bennington School,elementary,40.869059,-73.860928,Olinville,not_meeting_target,1.88
+11X078,P.S. 078 Anne Hutchinson,elementary,40.878474,-73.850563,Williamsbridge,approaching_target,2.09
+11X083,P.S. 083 Donald Hertz,middle_school,40.849176,-73.858769,Morris Park,meeting_target,3.21
+11X087,P.S. 087 Bronx,elementary,40.895741,-73.846198,Wakefield,meeting_target,3.42
+11X089,P.S. 089 Bronx,middle_school,40.862481,-73.859254,Pelham Parkway,approaching_target,2.8
+11X096,P.S. 096 Richard Rodgers,elementary,40.86073,-73.868986,Pelham Parkway,not_meeting_target,1.94
+11X097,P.S. 097 Bronx,elementary,40.863524,-73.846768,Pelham Gardens,meeting_target,3.33
+11X103,P.S. 103 Hector Fontanez,elementary,40.892198,-73.86194,Wakefield,meeting_target,3.06
+11X105,P.S. 105 Sen Abraham Bernstein,elementary,40.853075,-73.866264,Van Nest,approaching_target,2.48
+11X106,P.S. 106 Parkchester,elementary,40.836974,-73.854823,Parkchester,meeting_target,3.38
+11X108,P.S. 108 Philip J. Abinanti,elementary,40.8547,-73.8532,Pelham Parkway,meeting_target,3.65
+11X111,P.S. 111 Seton Falls,elementary,40.884371,-73.839288,Edenwald,approaching_target,2.56
+11X112,P.S. 112 Bronxwood,elementary,40.88494,-73.843977,Edenwald,approaching_target,2.68
+11X121,P.S. 121 Throop,elementary,40.866474,-73.85051,Pelham Parkway,approaching_target,2.17
+11X127,J.H.S. 127 The Castle Hill,middle_school,40.838759,-73.853203,Parkchester,approaching_target,2.85
+11X144,J.H.S. 144 Michelangelo,middle_school,40.863842,-73.836525,Baychester,meeting_target,3.74
+11X153,P.S. 153 Helen Keller,elementary,40.874035,-73.831669,Co-op City,approaching_target,2.78
+11X160,P.S. 160 Walt Disney,elementary,40.864073,-73.823816,Pelham Gardens,approaching_target,2.84
+11X169,Baychester Academy,elementary,40.881344,-73.839386,Edenwald,approaching_target,2.83
+11X175,P.S. 175 City Island,middle_school,40.844353,-73.78354,Country Club,not_meeting_target,1.91
+11X178,P.S. 178 - Dr. Selman Waksman,elementary,40.874035,-73.831669,Co-op City,approaching_target,2.02
+11X180,M.S. 180 Dr. Daniel Hale Williams,middle_school,40.874035,-73.831669,Co-op City,approaching_target,2.72
+11X181,I.S. 181 Pablo Casals,middle_school,40.874035,-73.831669,Co-op City,meeting_target,3.54
+11X189,Cornerstone Academy for Social Action,elementary,40.882778,-73.830616,Eastchester,approaching_target,2.03
+11X194,P.S./M.S. 194,middle_school,40.83541,-73.846594,Westchester Square,meeting_target,3.03
+11X249,Bronx Health Sciences High School,high_school,40.874035,-73.831669,Co-op City,exceeding_target,4.23
+11X253,Bronx High School for Writing and Communication Ar,high_school,40.875172,-73.861649,Olinville,meeting_target,3.03
+11X265,Bronx Lab School,high_school,40.875172,-73.861649,Olinville,approaching_target,2.89
+11X270,Academy for Scholarship and Entrepreneurship: A Co,high_school,40.888242,-73.852714,Edenwald,approaching_target,2.97
+11X275,High School of Computers and Technology,high_school,40.875172,-73.861649,Olinville,meeting_target,3.31
+11X287,North Bronx School of Empowerment,middle_school,40.880649,-73.860126,Williamsbridge,approaching_target,2.26
+11X288,Collegiate Institute for Math and Science,high_school,40.860443,-73.860729,Pelham Parkway,meeting_target,3.28
+11X290,Bronx Academy of Health Careers,high_school,40.875172,-73.861649,Olinville,meeting_target,3.8
+11X299,Astor Collegiate Academy,high_school,40.860443,-73.860729,Pelham Parkway,approaching_target,2.96
+11X326,Bronx Green Middle School,middle_school,40.862098,-73.865028,Pelham Parkway,meeting_target,3.17
+11X355,Bronx Alliance Middle School,middle_school,40.886002,-73.839682,Eastchester,approaching_target,2.15
+11X357,Young Voices Academy of the Bronx,elementary,40.854423,-73.863733,Morris Park,approaching_target,2.27
+11X370,Leaders of Tomorrow,middle_school,40.880649,-73.860126,Williamsbridge,approaching_target,2.37
+11X418,Bronx High School for the Visual Arts,high_school,40.851577,-73.864438,Morris Park,approaching_target,2.97
+11X455,Harry S Truman High School,high_school,40.874035,-73.831669,Co-op City,meeting_target,3.45
+11X462,Cornerstone Academy for Social Action Middle Schoo,middle_school,40.882778,-73.830616,Eastchester,approaching_target,2.48
+11X468,Pelham Academy of Academics and Community Engageme,middle_school,40.862098,-73.865028,Pelham Parkway,meeting_target,3.72
+11X498,P.S./M.S. 11X498 - VAN NEST ACADEMY,middle_school,40.845023,-73.857989,Morris Park,meeting_target,3.45
+11X508,Bronxdale High School,high_school,40.860443,-73.860729,Pelham Parkway,meeting_target,3.01
+11X509,High School of Language and Innovation,high_school,40.860443,-73.860729,Pelham Parkway,meeting_target,3.56
+11X513,New World High School,high_school,40.888242,-73.852714,Edenwald,exceeding_target,4.3
+11X514,The Bronxwood Preparatory Academy,high_school,40.888242,-73.852714,Edenwald,meeting_target,3.2
+11X529,One World Middle School at Edenwald,middle_school,40.886002,-73.839682,Eastchester,meeting_target,3.85
+11X532,Baychester Middle School,middle_school,40.886002,-73.839682,Eastchester,approaching_target,2.44
+11X542,Pelham Preparatory Academy,high_school,40.860443,-73.860729,Pelham Parkway,meeting_target,3.57
+11X544,High School for Contemporary Arts,high_school,40.875172,-73.861649,Olinville,meeting_target,3.62
+11X545,Bronx Aerospace High School,high_school,40.875172,-73.861649,Olinville,approaching_target,2.98
+11X556,Bronx Park Middle School,middle_school,40.862098,-73.865028,Pelham Parkway,meeting_target,3.16
+11X566,Pelham Gardens Middle School,middle_school,40.863842,-73.836525,Baychester,meeting_target,3.52
+11X567,Linden Tree Elementary School,elementary,40.838759,-73.853203,Parkchester,meeting_target,3.01
+12X006,P.S. 006 West Farms,elementary,40.840445,-73.882531,West Farms,approaching_target,2.72
+12X044,P.S. 044 David C. Farragut,elementary,40.842564,-73.891086,East Tremont,meeting_target,3.51
+12X047,P.S. 047 John Randolph,elementary,40.832529,-73.866974,Van Nest,approaching_target,2.28
+12X057,P.S. 057 Crescent,elementary,40.848748,-73.888987,East Tremont,approaching_target,2.37
+12X061,P.S. 061 Francisco Oller,elementary,40.836156,-73.892784,East Tremont,meeting_target,3.34
+12X066,P.S. 066 School of Higher Expectations,elementary,40.831493,-73.88654,Claremont Village,meeting_target,3.51
+12X067,P.S. 067 Mohegan School,elementary,40.843781,-73.884192,East Tremont,exceeding_target,4.03
+12X098,J.H.S. 098 Herman Ridder,middle_school,40.836245,-73.890591,East Tremont,approaching_target,2.96
+12X129,M.S. 129 Academy for Independent Learning and Lead,middle_school,40.846128,-73.886721,East Tremont,exceeding_target,4.37
+12X134,P.S. 134 George F. Bristow,elementary,40.831613,-73.894241,Claremont Village,approaching_target,2.3
+12X150,P.S. 150 Charles James Fox,elementary,40.82471,-73.894349,Morrisania,meeting_target,3.27
+12X190,E.S.M.T- I.S. 190,middle_school,40.836156,-73.892784,East Tremont,approaching_target,2.93
+12X195,P.S. 195,elementary,40.830811,-73.877305,West Farms,approaching_target,2.89
+12X196,P.S. 196,elementary,40.830811,-73.877305,West Farms,approaching_target,2.7
+12X211,P.S. 211,middle_school,40.843705,-73.890145,East Tremont,approaching_target,2.64
+12X212,P.S. 212,middle_school,40.828406,-73.900121,Claremont Village,meeting_target,3.13
+12X214,P.S. 214,middle_school,40.839297,-73.879931,West Farms,approaching_target,2.58
+12X217,School of Performing Arts,middle_school,40.822056,-73.894368,Morrisania,approaching_target,2.87
+12X242,Mott Hall V,high_school,40.832508,-73.878191,West Farms,meeting_target,3.93
+12X248,"Metropolitan High School, The",high_school,40.827539,-73.896925,Claremont Village,approaching_target,2.56
+12X251,Explorations Academy H.S.,high_school,40.836245,-73.890591,East Tremont,meeting_target,3.07
+12X267,Bronx Latin,high_school,40.826933,-73.900593,Morrisania,exceeding_target,4.19
+12X271,East Bronx Academy for the Future,high_school,40.836821,-73.887688,East Tremont,meeting_target,3.62
+12X273,Frederick Douglass Academy V. Middle School,middle_school,40.848748,-73.888987,East Tremont,approaching_target,2.31
+12X286,Fannie Lou Hamer Middle School,middle_school,40.831493,-73.88654,Claremont Village,approaching_target,2.97
+12X300,The School of Science and Applied Learning,elementary,40.846128,-73.886721,East Tremont,meeting_target,3.14
+12X314,Fairmont Neighborhood School,elementary,40.834188,-73.886995,East Tremont,approaching_target,2.63
+12X316,Kappa III,middle_school,40.846128,-73.886721,East Tremont,meeting_target,3.57
+12X318,"I.S. X318 Math, Science & Technology Through Arts",middle_school,40.843705,-73.890145,East Tremont,approaching_target,2.47
+12X341,Accion Academy,middle_school,40.842564,-73.891086,East Tremont,meeting_target,3.23
+12X383,Emolior Academy,middle_school,40.839297,-73.879931,West Farms,meeting_target,3.57
+12X388,Pan American International High School at Monroe,high_school,40.832508,-73.878191,West Farms,exceeding_target,4.89
+12X458,Samara Community School,elementary,40.834188,-73.886995,East Tremont,nan,
+12X463,Urban Scholars Community School,elementary,40.828406,-73.900121,Claremont Village,meeting_target,3.18
+12X478,The Cinema School,high_school,40.832508,-73.878191,West Farms,exceeding_target,4.17
+12X479,Bronx Career and College Preparatory High School,high_school,40.826933,-73.900593,Morrisania,approaching_target,2.05
+12X511,Bronx Envision Academy,high_school,40.836245,-73.890591,East Tremont,meeting_target,3.08
+12X521,The Metropolitan Soundview High School,high_school,40.832508,-73.878191,West Farms,meeting_target,3.35
+12X531,Archer Elementary School,elementary,40.838151,-73.866038,Van Nest,meeting_target,3.37
+12X536,P.S. 536,elementary,40.838151,-73.866038,Van Nest,approaching_target,2.4
+12X550,High School of World Cultures,high_school,40.832508,-73.878191,West Farms,approaching_target,2.57
+12X682,Fannie Lou Hamer Freedom High School,high_school,40.831212,-73.885804,East Tremont,meeting_target,3.46
+12X684,Wings Academy,high_school,40.841376,-73.875262,West Farms,approaching_target,2.28
+12X691,Bronx Little School,elementary,40.838151,-73.866038,Van Nest,meeting_target,3.15
+13K003,P.S. 003 The Bedford Village,elementary,40.682311,-73.955219,Prospect Heights,approaching_target,2.33
+13K008,P.S. 008 Robert Fulton,middle_school,40.700709,-73.992841,Fulton Ferry,meeting_target,3.43
+13K009,P.S. 009 Teunis G. Bergen,elementary,40.678554,-73.966333,Prospect Heights,meeting_target,3.1
+13K011,P.S. 011 Purvis J. Behan,elementary,40.685896,-73.96589,Fort Greene,meeting_target,3.23
+13K020,P.S. 020 Clinton Hill,elementary,40.690742,-73.970896,Fort Greene,meeting_target,3.25
+13K044,P.S. 044 Marcus Garvey,elementary,40.686213,-73.940859,Bedford Stuyvesant,meeting_target,3.33
+13K046,P.S. 046 Edward C. Blum,elementary,40.69453,-73.971644,Clinton Hill,meeting_target,3.19
+13K054,P.S. 054 Samuel C. Barnes,elementary,40.692616,-73.952504,Bedford Stuyvesant,meeting_target,3.81
+13K056,P.S. 056 Lewis H. Latimer,elementary,40.684286,-73.960536,Prospect Heights,approaching_target,2.5
+84K037,Beginning with Children Charter School II,elementary,40.703996,-73.953304,Navy Yard,nan,
+13K067,P.S. 067 Charles A. Dorsey,elementary,40.695339,-73.977674,Navy Yard,approaching_target,2.83
+13K093,P.S. 093 William H. Prescott,elementary,40.679079,-73.946381,Weeksville,approaching_target,2.7
+13K113,M.S. 113 Ronald Edmonds Learning Center,middle_school,40.688769,-73.971474,Fort Greene,approaching_target,2.7
+13K133,P.S. 133 William A. Butler,elementary,40.679916,-73.980455,Boerum Hill,approaching_target,2.87
+13K256,P.S. 256 Benjamin Banneker,elementary,40.690595,-73.94961,Bedford Stuyvesant,approaching_target,2.73
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,high_school,40.697177,-73.976104,Navy Yard,meeting_target,3.4
+13K266,M.S. K266 - Park Place Community Middle School,middle_school,40.678809,-73.976648,Park Slope,meeting_target,3.23
+13K270,P.S. 270 Johann DeKalb,elementary,40.691275,-73.961134,Clinton Hill,not_meeting_target,1.95
+13K282,P.S. 282 Park Slope,middle_school,40.676649,-73.977983,Park Slope,meeting_target,3.48
+13K287,P.S. 287 Bailey K. Ashford,elementary,40.697856,-73.98112,Vinegar Hill,not_meeting_target,1.64
+13K301,Satellite East Middle School,middle_school,40.685653,-73.94573,Bedford Stuyvesant,approaching_target,2.58
+13K305,P.S. 305 Dr. Peter Ray,elementary,40.685653,-73.94573,Bedford Stuyvesant,approaching_target,2.41
+84K791,Brooklyn Dreams Charter School,middle_school,40.632149,-73.969887,Midwood,approaching_target,2.14
+13K307,P.S. 307 Daniel Hale Williams,elementary,40.701789,-73.981599,Vinegar Hill,meeting_target,3.24
+13K313,Dock Street School for STEAM Studies,middle_school,40.702952,-73.992076,Dumbo,exceeding_target,4.01
+13K350,Urban Assembly School for Music and Art,high_school,40.69733,-73.984528,Vinegar Hill,meeting_target,3.18
+13K351,The Urban Assembly Unison School,middle_school,40.684286,-73.960536,Prospect Heights,approaching_target,2.81
+13K412,Brooklyn Community Arts & Media High School (BCAM),high_school,40.692015,-73.95818,Clinton Hill,meeting_target,3.49
+13K419,"Science Skills Center High School for Science, Tec",high_school,40.69733,-73.984528,Vinegar Hill,exceeding_target,4.02
+13K430,Brooklyn Technical High School,high_school,40.688896,-73.976435,Fort Greene,exceeding_target,4.58
+13K439,Brooklyn International High School,high_school,40.69733,-73.984528,Vinegar Hill,exceeding_target,4.13
+13K483,The Urban Assembly School for Law and Justice,high_school,40.694629,-73.988323,Brooklyn Heights,meeting_target,3.97
+13K492,Academy of Arts and Letters,middle_school,40.690742,-73.970896,Fort Greene,meeting_target,3.79
+13K499,ACORN Community High School,high_school,40.678591,-73.961636,Prospect Heights,approaching_target,2.8
+20K490,Fort Hamilton High School,high_school,40.626827,-74.038103,Bay Ridge,approaching_target,2.84
+13K527,Urban Assembly Institute of Math and Science for Y,high_school,40.694629,-73.988323,Brooklyn Heights,meeting_target,3.83
+13K595,Bedford Academy High School,high_school,40.685486,-73.953692,Bedford Stuyvesant,meeting_target,3.82
+13K605,George Westinghouse Career and Technical Education,high_school,40.695444,-73.986105,Brooklyn Heights,approaching_target,2.76
+13K670,Benjamin Banneker Academy,high_school,40.695389,-73.968759,Clinton Hill,meeting_target,3.45
+13K674,"City Polytechnic High School of Engineering, Archi",high_school,40.695444,-73.986105,Brooklyn Heights,approaching_target,2.77
+13K691,Fort Greene Preparatory Academy,middle_school,40.69453,-73.971644,Clinton Hill,approaching_target,2.68
+14K016,P.S. 016 Leonard Dunkly,elementary,40.706069,-73.962049,Williamsburg,approaching_target,2.54
+14K017,P.S. 017 Henry D. Woodworth,elementary,40.715268,-73.9573,North Side,meeting_target,3.63
+14K018,P.S. 018 Edward Bush,elementary,40.71088,-73.946695,East Williamsburg,exceeding_target,4.01
+14K023,P.S. 023 Carter G. Woodson,elementary,40.69447,-73.947256,Bedford Stuyvesant,meeting_target,3.39
+14K031,P.S. 031 Samuel F. Dupont,elementary,40.72697,-73.954139,Greenpoint,exceeding_target,4.02
+14K034,P.S. 034 Oliver H. Perry,elementary,40.726378,-73.949756,Greenpoint,meeting_target,3.11
+14K050,J.H.S. 050 John D. Wells,middle_school,40.711915,-73.960137,South Side,exceeding_target,4.54
+14K059,P.S. 059 William Floyd,elementary,40.697619,-73.943279,Bedford Stuyvesant,approaching_target,2.85
+84K740,Brooklyn Scholars Charter School,middle_school,40.669356,-73.867138,City Line,approaching_target,2.81
+14K071,Juan Morel Campos Secondary School,high_school,40.703996,-73.953304,Navy Yard,meeting_target,3.94
+14K084,P.S. 084 Jose De Diego,middle_school,40.715089,-73.963808,North Side,approaching_target,2.15
+14K110,P.S. 110 The Monitor,elementary,40.723743,-73.941926,East Williamsburg,approaching_target,2.95
+14K120,P.S. 120 Carlos Tapia,elementary,40.700819,-73.937888,East Williamsburg,approaching_target,2.75
+14K126,John Ericsson Middle School 126,middle_school,40.719818,-73.947932,Greenpoint,approaching_target,2.62
+14K132,P.S. 132 The Conselyea School,elementary,40.714772,-73.945663,East Williamsburg,meeting_target,3.89
+14K147,P.S. 147 Isaac Remsen,elementary,40.705005,-73.93879,East Williamsburg,meeting_target,3.64
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Scien,middle_school,40.695397,-73.959999,Navy Yard,approaching_target,2.07
+14K196,P.S. 196 Ten Eyck,elementary,40.708804,-73.939385,East Williamsburg,meeting_target,3.83
+14K250,P.S. 250 George H. Lindsay,elementary,40.706708,-73.945659,East Williamsburg,approaching_target,2.27
+14K257,P.S. 257 John F. Hylan,elementary,40.702759,-73.941345,East Williamsburg,exceeding_target,4.63
+14K297,P.S. 297 Abraham Stockton,elementary,40.697377,-73.948166,Bushwick,approaching_target,2.27
+14K318,I.S. 318 Eugenio Maria De Hostos,middle_school,40.703034,-73.948771,Navy Yard,approaching_target,2.7
+14K380,P.S. 380 John Wayne Elementary,elementary,40.70179,-73.953702,Navy Yard,exceeding_target,4.08
+14K414,Brooklyn Arbor Elementary School,elementary,40.710107,-73.954678,South Side,approaching_target,2.91
+14K449,"Brooklyn Latin School, The",high_school,40.709765,-73.944463,East Williamsburg,exceeding_target,4.64
+14K454,The Williamsburg High School of Art and Technology,high_school,40.709765,-73.944463,East Williamsburg,meeting_target,3.21
+14K474,PROGRESS High School for Professional Careers,high_school,40.711134,-73.938921,East Williamsburg,approaching_target,2.84
+14K477,East Williamsburg Scholars Academy,high_school,40.711134,-73.938921,East Williamsburg,approaching_target,2.67
+27Q056,P.S. 056 Harry Eichler,elementary,40.698989,-73.835735,Richmond Hill,meeting_target,3.59
+14K478,"The High School for Enterprise, Business and Techn",high_school,40.711134,-73.938921,East Williamsburg,approaching_target,2.93
+14K488,Brooklyn Preparatory High School,high_school,40.715561,-73.954815,Greenpoint,meeting_target,3.58
+14K558,Williamsburg High School for Architecture and Desi,high_school,40.715561,-73.954815,Greenpoint,exceeding_target,4.38
+14K561,Williamsburg Preparatory School,high_school,40.715561,-73.954815,Greenpoint,exceeding_target,4.31
+14K577,Conselyea Preparatory School,middle_school,40.715268,-73.9573,North Side,meeting_target,3.35
+14K582,M.S. 582,middle_school,40.708804,-73.939385,East Williamsburg,meeting_target,3.76
+14K586,Lyons Community School,high_school,40.709765,-73.944463,East Williamsburg,meeting_target,3.02
+14K610,Automotive High School,high_school,40.721448,-73.953328,Greenpoint,meeting_target,3.31
+14K614,Young Women's Leadership School of Brooklyn,high_school,40.705005,-73.93879,East Williamsburg,meeting_target,3.94
+14K685,El Puente Academy for Peace and Justice,high_school,40.70554,-73.955741,Williamsburg,meeting_target,3.1
+15K001,P.S. 001 The Bergen,elementary,40.648959,-74.01142,Sunset Park,approaching_target,2.55
+15K010,"Magnet School of Math, Science and Design Technolo",elementary,40.660912,-73.985946,Windsor Terrace,meeting_target,3.64
+15K015,P.S. 015 Patrick F. Daly,elementary,40.677085,-74.011864,Red Hook,approaching_target,2.73
+15K024,P.S. 024,elementary,40.652832,-74.004533,Sunset Park,approaching_target,2.74
+15K029,P.S. 029 John M. Harrigan,elementary,40.686843,-73.997447,Cobble Hill,meeting_target,3.43
+15K032,P.S. 032 Samuel Mills Sprole,elementary,40.680159,-73.991141,Gowanus,meeting_target,3.03
+15K038,P.S. 038 The Pacific,elementary,40.684945,-73.982826,Boerum Hill,approaching_target,2.98
+15K039,P.S. 039 Henry Bristow,elementary,40.668644,-73.982909,Park Slope,exceeding_target,4.49
+15K051,M.S. 51 William Alexander,middle_school,40.672358,-73.98505,Park Slope,exceeding_target,4.34
+15K058,P.S. 058 The Carroll,elementary,40.680379,-73.995486,Carroll Gardens,meeting_target,3.44
+15K088,J.H.S. 088 Peter Rouget,middle_school,40.660805,-73.988743,Windsor Terrace,meeting_target,3.28
+15K094,P.S. 094 The Henry Longfellow,elementary,40.64373,-74.008795,Sunset Park,approaching_target,2.96
+15K107,P.S. 107 John W. Kimball,elementary,40.662945,-73.981181,Windsor Terrace,meeting_target,3.54
+15K118,The Maurice Sendak Community School,elementary,40.671145,-73.987602,Gowanus,meeting_target,3.1
+15K124,P.S. 124 Silas B. Dutcher,elementary,40.667464,-73.99062,Gowanus,meeting_target,3.14
+15K130,P.S. 130 The Parkside,elementary,40.648924,-73.976053,Kensington,meeting_target,3.14
+15K131,P.S. 131 Brooklyn,elementary,40.640728,-73.993247,Borough Park,exceeding_target,4.44
+15K136,I.S. 136 Charles O. Dewey,middle_school,40.652127,-74.007596,Sunset Park,approaching_target,2.87
+15K146,"The Brooklyn New School, P.S. 146",elementary,40.679462,-74.002022,Carroll Gardens,nan,
+15K154,The Windsor Terrace School,elementary,40.657002,-73.975967,Windsor Terrace,meeting_target,3.08
+15K169,P.S. 169 Sunset Park,elementary,40.645825,-74.0017,Sunset Park,meeting_target,3.6
+15K172,P.S. 172 Beacon School of Excellence,elementary,40.657682,-74.000191,Windsor Terrace,exceeding_target,4.92
+15K230,P.S. 230 Doris L. Cohen,elementary,40.645609,-73.980515,Kensington,meeting_target,3.69
+15K261,P.S. 261 Philip Livingston,elementary,40.687218,-73.988667,Boerum Hill,approaching_target,2.24
+15K295,P.S. 295,elementary,40.660805,-73.988743,Windsor Terrace,exceeding_target,4.29
+15K321,P.S. 321 William Penn,elementary,40.671816,-73.978633,Park Slope,exceeding_target,4.01
+15K429,Digital Arts and Cinema Technology High School,high_school,40.685006,-73.993293,Cobble Hill,meeting_target,3.81
+15K442,M.S. 442 Carroll Gardens School for Innovation,middle_school,40.656952,-73.983116,Windsor Terrace,exceeding_target,4.29
+15K443,New Voices School of Academic & Creative Arts,middle_school,40.660805,-73.988743,Windsor Terrace,exceeding_target,4.76
+15K447,The Math & Science Exploratory School,middle_school,40.683951,-73.980266,Boerum Hill,exceeding_target,4.53
+15K448,Brooklyn Secondary School for Collaborative Studie,high_school,40.679462,-74.002022,Carroll Gardens,meeting_target,3.74
+15K462,John Jay School for Law,high_school,40.669255,-73.97858,Park Slope,meeting_target,3.04
+27Q273,P.S. 273,elementary,40.693613,-73.844335,Woodhaven,meeting_target,3.99
+15K463,Secondary School for Journalism,high_school,40.669255,-73.97858,Park Slope,approaching_target,2.21
+15K464,Park Slope Collegiate,high_school,40.669255,-73.97858,Park Slope,approaching_target,2.95
+15K497,The Boerum Hill School for International Studies,high_school,40.685006,-73.993293,Cobble Hill,meeting_target,3.66
+15K516,Sunset Park Avenues Elementary School,elementary,40.650793,-74.008106,Sunset Park,approaching_target,2.74
+15K519,Cobble Hill School of American Studies,high_school,40.684869,-73.990884,Carroll Gardens,meeting_target,3.17
+15K592,Khalil Gibran International Academy,high_school,40.686147,-73.979829,Boerum Hill,approaching_target,2.88
+15K656,Brooklyn High School of the Arts,high_school,40.683951,-73.980266,Boerum Hill,meeting_target,3.1
+15K667,Sunset Park High School,high_school,40.655583,-74.004342,Windsor Terrace,meeting_target,3.24
+15K676,Red Hook Neighborhood School,elementary,40.677914,-74.005151,Carroll Gardens,approaching_target,2.01
+15K684,Millennium Brooklyn HS,high_school,40.669255,-73.97858,Park Slope,exceeding_target,4.74
+15K821,Sunset Park Prep,middle_school,40.652127,-74.007596,Sunset Park,meeting_target,3.81
+15K839,M.S. 839,middle_school,40.647598,-73.973363,Prospect Park South,approaching_target,2.9
+16K005,P.S. 005 Dr. Ronald Mcnair,elementary,40.685241,-73.92197,Bedford Stuyvesant,meeting_target,3.17
+16K021,P.S. 021 Crispus Attucks,elementary,40.68035,-73.926673,Weeksville,exceeding_target,4.07
+16K025,P.S. 025 Eubie Blake School,elementary,40.691472,-73.940749,Bedford Stuyvesant,nan,
+16K026,P.S. 026 Jesse Owens,elementary,40.6921,-73.9317,Bushwick,exceeding_target,4.02
+16K028,P.S. 028 The Warren Prep Academy,elementary,40.678238,-73.919847,Ocean Hill,meeting_target,3.34
+16K035,M.S. 035 Stephen Decatur,middle_school,40.681528,-73.935891,Bedford Stuyvesant,exceeding_target,4.1
+16K040,P.S. 040 George W. Carver,elementary,40.680239,-73.921099,Ocean Hill,exceeding_target,4.71
+84K125,Success Academy Charter School - Bed-Stuy 2,elementary,40.697619,-73.943279,Bedford Stuyvesant,exceeding_target,4.99
+16K057,J.H.S. 057 Whitelaw Reid,middle_school,40.691467,-73.932254,Bedford Stuyvesant,meeting_target,3.41
+16K081,P.S. 081 Thaddeus Stevens,elementary,40.692866,-73.935123,Bedford Stuyvesant,approaching_target,2.77
+16K243,P.S. 243K- The Weeksville School,elementary,40.675675,-73.935093,Weeksville,approaching_target,2.56
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,elementary,40.682949,-73.930132,Weeksville,meeting_target,3.49
+16K267,"M.S. 267 Math, Science & Technology",middle_school,40.68797,-73.932066,Bedford Stuyvesant,meeting_target,3.84
+16K308,P.S. 308 Clara Cardwell,middle_school,40.688323,-73.935509,Bedford Stuyvesant,not_meeting_target,1.79
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,elementary,40.6881,-73.924422,Bedford Stuyvesant,approaching_target,2.73
+16K335,P.S. 335 Granville T. Woods,elementary,40.674491,-73.928673,Weeksville,approaching_target,2.36
+16K455,Boys and Girls High School,high_school,40.678478,-73.931604,Weeksville,meeting_target,3.28
+16K498,Brooklyn High School for Law and Technology,high_school,40.688399,-73.920603,Bedford Stuyvesant,meeting_target,3.1
+16K627,Brighter Choice Community School,elementary,40.693654,-73.941278,Bedford Stuyvesant,not_meeting_target,1.89
+16K628,Brooklyn Brownstone School,elementary,40.681528,-73.935891,Bedford Stuyvesant,meeting_target,3.13
+84K702,Community Partnership Charter School,middle_school,40.691275,-73.961134,Clinton Hill,nan,
+16K681,Madiba Prep Middle School,middle_school,40.6921,-73.9317,Bushwick,meeting_target,3.04
+16K688,The Brooklyn Academy of Global Finance,high_school,40.691467,-73.932254,Bedford Stuyvesant,meeting_target,3.4
+16K765,Nelson Mandela High School,high_school,40.678478,-73.931604,Weeksville,approaching_target,2.77
+17K002,Parkside Preparatory Academy,middle_school,40.656423,-73.951575,Prospect Lefferts Gardens,meeting_target,3.01
+17K006,Norma Adams Clemons Academy,elementary,40.648973,-73.956279,Prospect Park South,meeting_target,3.06
+17K012,Dr. Jacqueline Peek-Davis School,elementary,40.673124,-73.920095,Crown Heights,approaching_target,2.99
+84K129,Success Academy Charter School - Cobble Hill,elementary,40.685006,-73.993293,Cobble Hill,exceeding_target,4.99
+17K061,M.S. 061 Dr. Gladstone H. Atwell,middle_school,40.663605,-73.949198,Prospect Lefferts Gardens,approaching_target,2.37
+17K091,P.S. 091 The Albany Avenue School,elementary,40.661806,-73.940707,Wingate,exceeding_target,4.6
+17K092,P.S. 092 Adrian Hegeman,elementary,40.656276,-73.95381,Prospect Lefferts Gardens,approaching_target,2.83
+17K122,Pathways in Technology Early College High School (,high_school,40.675905,-73.939282,Crown Heights,meeting_target,3.14
+17K138,P.S. 138 Brooklyn,middle_school,40.673943,-73.951559,Crown Heights,exceeding_target,4.02
+17K161,P.S. 161 The Crown,elementary,40.665757,-73.949243,Crown Heights,approaching_target,2.87
+17K181,P.S. 181 Brooklyn,middle_school,40.648217,-73.945883,Prospect Lefferts Gardens,approaching_target,2.61
+17K189,P.S. 189 The Bilingual Center,middle_school,40.665228,-73.925435,Rugby,meeting_target,3.57
+17K191,P.S. 191 Paul Robeson,elementary,40.67173,-73.924127,Crown Heights,exceeding_target,4.73
+17K221,P.S. 221 Toussaint L'Ouverture,elementary,40.663964,-73.935753,Wingate,approaching_target,2.21
+17K241,P.S. 241 Emma L. Johnston,elementary,40.668913,-73.960924,Prospect Heights,meeting_target,3.6
+17K246,M.S. 246 Walt Whitman,middle_school,40.648352,-73.95348,Prospect Park South,exceeding_target,4.22
+17K249,P.S. 249 The Caton,elementary,40.649509,-73.966456,Prospect Park South,exceeding_target,4.37
+17K289,P.S. 289 George V. Brower,elementary,40.674244,-73.942401,Crown Heights,exceeding_target,4.31
+17K316,P.S. 316 Elijah Stroud,elementary,40.674685,-73.961418,Prospect Heights,meeting_target,3.93
+17K340,I.S. 340,middle_school,40.676357,-73.970315,Prospect Heights,meeting_target,3.34
+17K352,Ebbets Field Middle School,middle_school,40.665199,-73.959484,Prospect Heights,meeting_target,3.5
+17K353,Elijah Stroud Middle School,middle_school,40.674685,-73.961418,Prospect Heights,approaching_target,2.45
+17K354,The School of Integrated Learning,middle_school,40.67229,-73.937601,Crown Heights,exceeding_target,4.72
+17K375,P.S. 375 Jackie Robinson School,elementary,40.665199,-73.959484,Prospect Heights,approaching_target,2.3
+17K600,Clara Barton High School,high_school,40.669805,-73.960689,Prospect Heights,meeting_target,3.03
+17K382,Academy for College Preparation and Career Explora,high_school,40.649602,-73.957173,Prospect Park South,approaching_target,2.99
+17K394,M.S. K394,middle_school,40.67271,-73.928917,Weeksville,not_meeting_target,1.79
+17K397,P.S. 397 Foster-Laurie,elementary,40.658663,-73.946358,Prospect Lefferts Gardens,meeting_target,3.74
+17K398,P.S. 398 Walter Weaver,elementary,40.663388,-73.927979,Wingate,meeting_target,3.36
+17K399,P.S. 399 Stanley Eugene Clark,elementary,40.648277,-73.951664,Prospect Park South,not_meeting_target,1.64
+17K408,Academy of Hospitality and Tourism,high_school,40.649602,-73.957173,Prospect Park South,meeting_target,3.63
+17K484,Ronald Edmonds Learning Center II,middle_school,40.673124,-73.920095,Crown Heights,exceeding_target,4.2
+17K524,International High School at Prospect Heights,high_school,40.669805,-73.960689,Prospect Heights,meeting_target,3.46
+17K528,The High School for Global Citizenship,high_school,40.669805,-73.960689,Prospect Heights,approaching_target,2.95
+84K741,Success Academy Crown Heights (Brooklyn 7),elementary,40.665757,-73.949243,Crown Heights,exceeding_target,4.03
+17K531,"School for Human Rights, The",high_school,40.658671,-73.943839,Wingate,meeting_target,3.66
+17K532,New Bridges Elementary,elementary,40.669557,-73.934316,Weeksville,meeting_target,3.3
+17K537,High School for Youth and Community Development at,high_school,40.649602,-73.957173,Prospect Park South,meeting_target,3.39
+17K539,High School for Service & Learning at Erasmus,high_school,40.649602,-73.957173,Prospect Park South,meeting_target,3.28
+17K543,"Science, Technology and Research Early College Hig",high_school,40.649602,-73.957173,Prospect Park South,exceeding_target,4.53
+17K546,High School for Public Service: Heroes of Tomorrow,high_school,40.658671,-73.943839,Wingate,meeting_target,3.39
+17K547,Brooklyn Academy of Science and the Environment,high_school,40.669805,-73.960689,Prospect Heights,meeting_target,3.26
+17K548,Brooklyn School for Music & Theatre,high_school,40.669805,-73.960689,Prospect Heights,approaching_target,2.8
+17K590,Medgar Evers College Preparatory School,high_school,40.66679,-73.951823,Crown Heights,meeting_target,3.51
+22K134,P.S. K134,elementary,40.632145,-73.97318,Borough Park,exceeding_target,4.99
+17K705,Brooklyn Arts and Science Elementary School,elementary,40.6771,-73.960093,Prospect Heights,approaching_target,2.55
+17K722,New Heights Middle School,middle_school,40.662092,-73.936313,Wingate,approaching_target,2.82
+17K745,Brooklyn Institute for Liberal Arts,high_school,40.658671,-73.943839,Wingate,exceeding_target,4.34
+17K751,Academy for Health Careers,high_school,40.675905,-73.939282,Crown Heights,meeting_target,3.22
+17K770,P.S. 770 New American Academy,elementary,40.663388,-73.927979,Wingate,approaching_target,2.86
+18K066,P.S. 66,middle_school,40.648749,-73.907064,Remsen Village,not_meeting_target,1.88
+18K068,I.S. 068 Isaac Bildersee,middle_school,40.635388,-73.911215,Canarsie,meeting_target,3.24
+18K114,P.S. 114 Ryder Elementary,elementary,40.642684,-73.90788,Canarsie,exceeding_target,4.05
+18K115,P.S. 115 Daniel Mucatel School,elementary,40.634861,-73.897896,Canarsie,approaching_target,2.79
+18K135,P.S. 135 Sheldon A. Brookner,elementary,40.653093,-73.932949,Rugby,approaching_target,2.27
+18K208,P.S. 208 Elsa Ebeling,elementary,40.6427,-73.930898,East Flatbush,approaching_target,2.89
+18K211,I.S. 211 John Wilson,middle_school,40.642931,-73.895224,Canarsie,meeting_target,3.44
+18K219,P.S. 219 Kennedy-King,elementary,40.658834,-73.922296,Rugby,meeting_target,3.2
+18K233,P.S. 233 Langston Hughes,elementary,40.651642,-73.914282,Remsen Village,approaching_target,2.78
+18K235,P.S. 235 Janice Marie Knight School,middle_school,40.655337,-73.940922,Wingate,meeting_target,3.72
+18K244,P.S. 244 Richard R. Green,elementary,40.647851,-73.925592,Rugby,meeting_target,3.85
+18K268,P.S. 268 Emma Lazarus,elementary,40.657421,-73.92756,Rugby,approaching_target,2.48
+18K272,P.S. 272 Curtis Estabrook,elementary,40.635542,-73.886373,Canarsie,approaching_target,2.74
+18K276,P.S. 276 Louis Marshall,elementary,40.634005,-73.908436,Paerdegat Basin,not_meeting_target,1.95
+18K279,P.S. 279 Herman Schreiber,elementary,40.644134,-73.892797,Canarsie,meeting_target,3.3
+84K742,Explore Empower Charter School,middle_school,40.67271,-73.928917,Weeksville,meeting_target,3.81
+18K285,I.S. 285 Meyer Levin,middle_school,40.647818,-73.920784,Remsen Village,meeting_target,3.81
+18K366,The Science And Medicine Middle School,middle_school,40.647396,-73.891743,Starrett City,approaching_target,2.95
+18K563,It Takes a Village Academy,high_school,40.647728,-73.922212,Remsen Village,exceeding_target,4.14
+18K566,Brooklyn Generation School,high_school,40.634451,-73.916927,Flatlands,approaching_target,2.91
+18K567,Brooklyn Theatre Arts High School,high_school,40.634451,-73.916927,Flatlands,meeting_target,3.03
+18K569,Kurt Hahn Expeditionary Learning School,high_school,40.647728,-73.922212,Remsen Village,meeting_target,3.96
+18K576,Victory Collegiate High School,high_school,40.634451,-73.916927,Flatlands,approaching_target,2.94
+18K581,East Flatbush Community Research School,middle_school,40.659088,-73.928744,Rugby,approaching_target,2.95
+18K588,Middle School for Art and Philosophy,middle_school,40.657712,-73.919818,Rugby,meeting_target,3.97
+84K182,Success Academy Charter School - Williamsburg,elementary,40.711915,-73.960137,South Side,exceeding_target,4.99
+18K617,High School for Innovation in Advertising and Medi,high_school,40.640543,-73.898601,Canarsie,approaching_target,2.73
+18K629,Cultural Academy for the Arts and Sciences,high_school,40.647728,-73.922212,Remsen Village,meeting_target,3.25
+18K633,High School for Medical Professions,high_school,40.640543,-73.898601,Canarsie,meeting_target,3.11
+18K637,Academy for Conservation and the Environment,high_school,40.634451,-73.916927,Flatlands,meeting_target,3.97
+18K642,Urban Action Academy,high_school,40.640543,-73.898601,Canarsie,approaching_target,2.68
+18K763,Brooklyn Science and Engineering Academy,middle_school,40.647851,-73.925592,Rugby,meeting_target,3.08
+19K007,P.S. 007 Abraham Lincoln,elementary,40.689213,-73.872983,City Line,approaching_target,2.8
+84K333,Explore Exceed Charter School,middle_school,40.6771,-73.960093,Prospect Heights,exceeding_target,4.18
+19K013,P.S. 013 Roberto Clemente,elementary,40.664067,-73.893328,New Lots,exceeding_target,4.18
+19K065,P.S. 065,elementary,40.686534,-73.878353,Cypress Hills,meeting_target,3.99
+19K089,P.S. 089 Cypress Hills,middle_school,40.677707,-73.886712,Highland Park,approaching_target,2.61
+19K108,P.S. 108 Sal Abbracciamento,elementary,40.681295,-73.884348,Highland Park,exceeding_target,4.81
+19K149,P.S. 149 Danny Kaye,elementary,40.669361,-73.89276,New Lots,exceeding_target,4.03
+19K158,P.S. 158 Warwick,elementary,40.67259,-73.885214,East New York,approaching_target,2.23
+19K159,P.S. 159 Isaac Pitkin,elementary,40.676111,-73.869705,City Line,meeting_target,3.75
+19K171,I.S. 171 Abraham Lincoln,middle_school,40.685852,-73.869434,City Line,approaching_target,2.33
+19K190,P.S. 190 Sheffield,elementary,40.662243,-73.894877,New Lots,approaching_target,2.07
+19K202,P.S. 202 Ernest S. Jenkyns,elementary,40.665817,-73.876084,East New York,meeting_target,3.28
+84K355,Williamsburg Collegiate Charter School,middle_school,40.706069,-73.962049,Williamsburg,meeting_target,3.37
+19K213,P.S. 213 New Lots,elementary,40.659845,-73.889968,New Lots,approaching_target,2.31
+19K214,P.S. 214 Michael Friedsam,elementary,40.675881,-73.862961,City Line,meeting_target,3.52
+19K218,J.H.S. 218 James P. Sinnott,middle_school,40.67002,-73.874537,East New York,approaching_target,2.86
+19K224,P.S. 224 Hale A. Woodruff,elementary,40.664143,-73.866542,Spring Creek,approaching_target,2.01
+19K273,P.S. 273 Wortman,elementary,40.6585,-73.879276,New Lots,approaching_target,2.03
+19K290,P.S. 290 Juan Morel Campos,elementary,40.678182,-73.889375,Highland Park,meeting_target,3.97
+19K292,J.H.S. 292 Margaret S. Douglas,middle_school,40.671601,-73.893319,East New York,exceeding_target,4.37
+19K306,P.S. 306 Ethan Allen,elementary,40.65534,-73.88662,New Lots,meeting_target,3.77
+19K325,The Fresh Creek School,elementary,40.653368,-73.893294,New Lots,not_meeting_target,1.72
+19K328,P.S. 328 Phyllis Wheatley,elementary,40.667985,-73.898249,Broadway Junction,approaching_target,2.51
+19K345,P.S. 345 Patrolman Robert Bolden,elementary,40.676207,-73.879886,East New York,approaching_target,2.09
+19K346,P.S. 346 Abe Stark,elementary,40.64664,-73.881997,Starrett City,approaching_target,2.68
+19K364,I.S. 364 Gateway,middle_school,40.646211,-73.881115,Starrett City,approaching_target,2.54
+19K404,Academy for Young Writers,high_school,40.657266,-73.874064,Spring Creek,meeting_target,3.48
+19K409,East New York Family Academy,high_school,40.661104,-73.886664,New Lots,exceeding_target,4.52
+19K422,Spring Creek Community School,high_school,40.657266,-73.874064,Spring Creek,meeting_target,3.63
+19K452,Frederick Douglass Academy VIII Middle School,middle_school,40.64664,-73.881997,Starrett City,approaching_target,2.44
+19K502,FDNY - Captain Vernon A. Richards High School for,high_school,40.666868,-73.895122,East New York,approaching_target,2.96
+19K504,High School for Civil Rights,high_school,40.666868,-73.895122,East New York,approaching_target,2.66
+19K507,Performing Arts and Technology High School,high_school,40.666868,-73.895122,East New York,meeting_target,3.28
+19K510,World Academy for Total Community Health High Scho,high_school,40.666868,-73.895122,East New York,approaching_target,2.84
+19K557,Brooklyn Gardens Elementary School,elementary,40.665446,-73.897604,Broadway Junction,approaching_target,2.56
+19K583,Multicultural High School,high_school,40.693002,-73.869305,Woodhaven,meeting_target,3.34
+19K615,Transit Tech Career and Technical Education High S,high_school,40.67878,-73.875328,City Line,approaching_target,2.64
+19K618,Academy of Innovative Technology,high_school,40.693002,-73.869305,Woodhaven,meeting_target,3.61
+19K639,Brooklyn Lab School,high_school,40.693002,-73.869305,Woodhaven,approaching_target,2.89
+19K654,Van Siclen Community Middle School,middle_school,40.659934,-73.885704,New Lots,approaching_target,2.56
+19K659,Cypress Hills Collegiate Preparatory School,high_school,40.693002,-73.869305,Woodhaven,meeting_target,3.26
+19K660,W. H. Maxwell Career and Technical Education High,high_school,40.673766,-73.895976,Broadway Junction,meeting_target,3.32
+19K661,Vista Academy,middle_school,40.677112,-73.884211,Highland Park,meeting_target,3.19
+84K473,Williamsburg Charter High School,high_school,40.703703,-73.935969,East Williamsburg,approaching_target,2.6
+19K662,Liberty Avenue Middle School,middle_school,40.677112,-73.884211,Highland Park,meeting_target,3.3
+19K663,School of the Future Brooklyn,middle_school,40.665446,-73.897604,Broadway Junction,not_meeting_target,1.9
+19K677,East New York Elementary School of Excellence,elementary,40.669358,-73.879131,East New York,approaching_target,2.82
+19K678,East New York Middle School of Excellence,middle_school,40.669358,-73.879131,East New York,approaching_target,2.77
+19K683,"The School for Classics: An Academy of Thinkers, W",high_school,40.67002,-73.874537,East New York,meeting_target,3.47
+20K163,P.S. 163 Bath Beach,middle_school,40.606739,-74.007469,Bensonhurst,meeting_target,3.9
+19K760,Highland Park Community School,middle_school,40.685852,-73.869434,City Line,approaching_target,2.15
+19K764,The Urban Assembly School for Collaborative Health,high_school,40.693002,-73.869305,Woodhaven,meeting_target,3.49
+20K030,P.S./I.S. 30 Mary White Ovington,middle_school,40.633598,-74.02395,Bay Ridge,meeting_target,3.07
+20K048,P.S. 048 Mapleton,elementary,40.621481,-73.987165,Borough Park,exceeding_target,4.3
+20K062,J.H.S. 062 Ditmas,middle_school,40.638087,-73.971153,Kensington,meeting_target,3.04
+20K069,P.S. 69 Vincent D. Grippo School,elementary,40.632392,-74.009752,Sunset Park,exceeding_target,4.73
+20K102,P.S. 102 The Bayview,elementary,40.634318,-74.028758,Bay Ridge,meeting_target,3.63
+20K104,P.S./I.S. 104 The Fort Hamilton School,middle_school,40.618077,-74.028492,Fort Hamilton,meeting_target,3.39
+20K105,P.S. 105 The Blythebourne,elementary,40.63332,-74.003635,Borough Park,exceeding_target,4.27
+20K112,P.S. 112 Lefferts Park,elementary,40.619417,-74.000565,Bensonhurst,exceeding_target,4.11
+20K127,P.S. 127 Mckinley Park,elementary,40.623687,-74.018429,Dyker Heights,exceeding_target,4.04
+20K160,P.S. 160 William T. Sampson,elementary,40.636932,-73.999045,Kensington,exceeding_target,4.93
+20K164,P.S. 164 Caesar Rodney,elementary,40.637101,-73.985739,Borough Park,exceeding_target,4.77
+20K170,Ralph A. Fabrizio School,elementary,40.630373,-74.018719,Bay Ridge,exceeding_target,4.63
+20K176,P.S. 176 Ovington,elementary,40.624835,-74.005205,Dyker Heights,exceeding_target,4.3
+20K179,P.S. 179 Kensington,elementary,40.640127,-73.97726,Kensington,meeting_target,3.53
+20K180,The SEEALL Academy,middle_school,40.626454,-73.98925,Borough Park,meeting_target,3.94
+20K185,P.S. 185 Walter Kassenbrock,elementary,40.623598,-74.033429,Bay Ridge,meeting_target,3.45
+20K186,P.S. 186 Dr. Irving A Gladstone,elementary,40.610917,-73.994258,Bensonhurst,meeting_target,3.77
+20K187,The Christa McAuliffe School\I.S. 187,middle_school,40.627929,-74.003883,Borough Park,exceeding_target,4.52
+20K192,P.S. 192 - The Magnet School for Math and Science,middle_school,40.6288,-73.97954,Borough Park,exceeding_target,4.43
+20K200,P.S. 200 Benson School,elementary,40.602809,-74.001915,Bath Beach,meeting_target,3.44
+20K201,J.H.S. 201 The Dyker Heights,middle_school,40.619043,-74.013749,Dyker Heights,exceeding_target,4.37
+20K204,P.S. 204 Vince Lombardi,elementary,40.613535,-74.006137,Bensonhurst,exceeding_target,4.08
+20K205,P.S. 205 Clarion,elementary,40.614737,-73.986792,Bensonhurst,exceeding_target,4.21
+20K220,J.H.S. 220 John J. Pershing,middle_school,40.640997,-74.00125,Kensington,meeting_target,3.93
+20K223,J.H.S. 223 The Montauk,middle_school,40.6351,-73.982424,Kensington,exceeding_target,4.18
+20K227,J.H.S. 227 Edward B. Shallow,middle_school,40.622102,-73.995961,Bensonhurst,approaching_target,2.93
+20K229,P.S. 229 Dyker,middle_school,40.610331,-74.013585,Bensonhurst,exceeding_target,4.02
+20K247,P.S. 247 Brooklyn,elementary,40.612247,-73.987195,Bensonhurst,exceeding_target,4.63
+20K259,J.H.S. 259 William Mckinley,middle_school,40.626089,-74.014633,Bay Ridge,exceeding_target,4.32
+20K264,P.S. 264 Bay Ridge Elementary School For The Arts,elementary,40.621025,-74.029444,Bay Ridge,exceeding_target,4.55
+20K310,The School For Future Leaders,elementary,40.632143,-74.007533,Borough Park,exceeding_target,4.87
+20K445,New Utrecht High School,high_school,40.613041,-74.002308,Bensonhurst,meeting_target,3.09
+20K485,High School of Telecommunication Arts and Technolo,high_school,40.636721,-74.023419,Dyker Heights,meeting_target,3.83
+20K503,P.S. 503: The School of Discovery,elementary,40.64195,-74.019299,Dyker Heights,exceeding_target,4.03
+20K505,Franklin Delano Roosevelt High School,high_school,40.621299,-73.982583,Kensington,meeting_target,3.1
+20K506,P.S. 506: The School of Journalism & Technology,elementary,40.64195,-74.019299,Dyker Heights,meeting_target,3.25
+20K609,Urban Assembly School for Criminal Justice,high_school,40.6351,-73.982424,Kensington,exceeding_target,4.6
+20K682,The Academy of Talented Scholars,elementary,40.606994,-73.986678,Bensonhurst,exceeding_target,4.6
+20K686,Brooklyn School of Inquiry,middle_school,40.606994,-73.986678,Bensonhurst,exceeding_target,4.58
+20K748,P.S. 748 Brooklyn School for Global Scholars,elementary,40.606739,-74.007469,Bensonhurst,exceeding_target,4.0
+20K971,"School of Math, Science, and Healthy Living",elementary,40.639518,-74.020343,Dyker Heights,approaching_target,2.76
+21K090,P.S. 90 Edna Cohen School,elementary,40.578192,-73.980387,Brighton Beach,meeting_target,3.2
+21K095,P.S. 095 The Gravesend,middle_school,40.595996,-73.974664,Gravesend,meeting_target,3.75
+84K680,Achievement First Aspire Charter School,elementary,40.665817,-73.876084,East New York,meeting_target,3.48
+21K096,I.S. 096 Seth Low,middle_school,40.608135,-73.984985,Bensonhurst,meeting_target,3.63
+21K097,P.S. 97 The Highlawn,elementary,40.601191,-73.98557,Bath Beach,exceeding_target,4.16
+21K098,I.S. 98 Bay Academy,middle_school,40.583893,-73.954047,Manhattan Beach,exceeding_target,4.54
+21K099,P.S. 099 Isaac Asimov,middle_school,40.621474,-73.966031,Ocean Parkway,meeting_target,3.95
+21K100,P.S. 100 The Coney Island School,elementary,40.577591,-73.97083,Brighton Beach,exceeding_target,4.02
+21K101,P.S. 101 The Verrazano,elementary,40.597379,-73.991962,Bath Beach,exceeding_target,4.99
+21K121,P.S. 121 Nelson A. Rockefeller,middle_school,40.622671,-73.978472,Kensington,exceeding_target,4.06
+21K128,P.S. 128 Bensonhurst,elementary,40.60498,-73.995084,Bensonhurst,meeting_target,3.39
+21K153,P.S. 153 Homecrest,elementary,40.601179,-73.960027,Homecrest,meeting_target,3.2
+21K177,P.S. 177 The Marlboro,elementary,40.608169,-73.974425,Ocean Parkway,meeting_target,3.81
+21K188,P.S. 188 Michael E. Berdy,elementary,40.576733,-74.000489,Sea Gate,approaching_target,2.0
+21K199,P.S. 199 Frederick Wachtel,elementary,40.61631,-73.963026,Manhattan Terrace,meeting_target,3.48
+21K209,P.S. 209 Margaret Mead,middle_school,40.5868,-73.961191,Homecrest,exceeding_target,4.16
+21K212,P.S. 212 Lady Deborah Moody,elementary,40.587612,-73.985368,Coney Island,exceeding_target,4.46
+21K215,P.S. 215 Morris H. Weiss,elementary,40.602722,-73.970171,Gravesend,meeting_target,3.91
+21K216,P.S. 216 Arturo Toscanini,elementary,40.59,-73.969647,Gravesend,meeting_target,3.28
+21K225,P.S. K225 - The Eileen E. Zaglin,middle_school,40.58026,-73.955856,Brighton Beach,meeting_target,3.79
+21K226,P.S. 226 Alfred De B.Mason,middle_school,40.615405,-73.977099,Kensington,meeting_target,3.64
+21K228,I.S. 228 David A. Boody,middle_school,40.60066,-73.976801,Gravesend,meeting_target,3.88
+21K238,P.S. 238 Anne Sullivan,middle_school,40.608801,-73.964586,Ocean Parkway,approaching_target,2.8
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,middle_school,40.57864,-73.992447,Coney Island,exceeding_target,4.4
+21K253,P.S. 253,elementary,40.580237,-73.961962,Brighton Beach,exceeding_target,4.99
+21K281,I.S. 281 Joseph B Cavallaro,middle_school,40.594648,-73.993565,Coney Island,exceeding_target,4.01
+21K288,P.S. 288 The Shirley Tanyhill,middle_school,40.574029,-73.992393,Coney Island,approaching_target,2.97
+21K303,I.S. 303 Herbert S. Eisenberg,middle_school,40.582518,-73.972009,Brighton Beach,meeting_target,3.18
+21K329,P.S. 329 Surfside,elementary,40.574666,-73.99577,Coney Island,approaching_target,2.82
+21K337,International High School at Lafayette,high_school,40.593028,-73.986313,Coney Island,approaching_target,2.44
+21K344,Rachel Carson High School for Coastal Studies,high_school,40.582518,-73.972009,Brighton Beach,approaching_target,2.88
+21K348,High School of Sports Management,high_school,40.593028,-73.986313,Coney Island,approaching_target,2.56
+21K410,Abraham Lincoln High School,high_school,40.582627,-73.968733,Brighton Beach,meeting_target,3.2
+21K468,Kingsborough Early College School,high_school,40.593028,-73.986313,Coney Island,exceeding_target,4.2
+21K525,Edward R. Murrow High School,high_school,40.619671,-73.959141,Manhattan Terrace,approaching_target,2.92
+21K540,John Dewey High School,high_school,40.58807,-73.981925,Sheepshead Bay,meeting_target,3.19
+21K559,Life Academy High School for Film and Music,high_school,40.593028,-73.986313,Coney Island,meeting_target,3.1
+21K572,Expeditionary Learning School for Community Leader,high_school,40.593028,-73.986313,Coney Island,meeting_target,3.95
+21K620,William E. Grady Career and Technical Education Hi,high_school,40.583263,-73.963764,Brighton Beach,approaching_target,2.81
+21K690,Brooklyn Studio Secondary School,high_school,40.60498,-73.995084,Bensonhurst,meeting_target,3.8
+22K014,J.H.S. 014 Shell Bank,middle_school,40.593232,-73.938107,Gerritsen Beach,meeting_target,3.5
+22K052,P.S. 052 Sheepshead Bay,elementary,40.588372,-73.940135,Sheepshead Bay,approaching_target,2.92
+22K078,J.H.S. 078 Roy H. Mann,middle_school,40.620537,-73.912914,Georgetown,meeting_target,3.52
+22K109,P.S. 109,middle_school,40.635842,-73.933099,Flatlands,approaching_target,2.63
+22K119,P.S. 119 Amersfort,elementary,40.626038,-73.938733,Flatlands,meeting_target,3.03
+22K139,P.S. 139 Alexine A. Fenty,elementary,40.64134,-73.965862,Ditmas Park,approaching_target,2.79
+22K152,School of Science & Technology,elementary,40.632619,-73.954269,Midwood,meeting_target,3.17
+22K193,P.S. 193 Gil Hodges,elementary,40.62208,-73.950321,Madison,meeting_target,3.6
+22K194,P.S. 194 Raoul Wallenberg,elementary,40.598069,-73.934163,Gerritsen Beach,meeting_target,3.26
+22K195,P.S. 195 Manhattan Beach,elementary,40.580161,-73.943498,Manhattan Beach,meeting_target,3.62
+22K197,P.S. 197 - The Kings Highway Academy,elementary,40.612339,-73.951398,Madison,meeting_target,3.82
+22K198,P.S. 198 Brooklyn,elementary,40.637601,-73.937083,East Flatbush,approaching_target,2.21
+22K203,P.S. 203 Floyd Bennett School,elementary,40.622108,-73.925732,Georgetown,approaching_target,2.74
+22K206,P.S. 206 Joseph F Lamb,middle_school,40.596876,-73.948453,Homecrest,meeting_target,3.18
+22K207,P.S. 207 Elizabeth G. Leary,middle_school,40.613981,-73.930485,Marine Park,approaching_target,2.91
+22K217,P.S. 217 Colonel David Marcus School,elementary,40.633482,-73.966442,Midwood,meeting_target,3.08
+22K222,P.S. 222 Katherine R. Snyder,elementary,40.614005,-73.939205,Marine Park,exceeding_target,4.26
+22K234,J.H.S. 234 Arthur W. Cunningham,middle_school,40.604447,-73.955217,Homecrest,meeting_target,3.39
+22K236,P.S. 236 Mill Basin,elementary,40.615494,-73.912005,Mill Basin,meeting_target,3.57
+22K240,Andries Hudde,middle_school,40.623788,-73.946836,Madison,approaching_target,2.47
+22K245,P.S. 245,elementary,40.644927,-73.962743,Ditmas Park,meeting_target,3.51
+22K251,P.S. 251 Paerdegat,elementary,40.63195,-73.923894,Flatlands,not_meeting_target,1.83
+22K254,P.S. 254 Dag Hammarskjold,elementary,40.591103,-73.95155,Sheepshead Bay,exceeding_target,4.24
+22K255,P.S. 255 Barbara Reing School,elementary,40.604461,-73.955891,Homecrest,exceeding_target,4.14
+22K277,P.S. 277 Gerritsen Beach,elementary,40.595798,-73.92785,Gerritsen Beach,meeting_target,3.5
+22K278,J.H.S. 278 Marine Park,middle_school,40.606745,-73.938721,Marine Park,meeting_target,3.51
+22K312,P.S. 312 Bergen Beach,elementary,40.622442,-73.909554,Georgetown,meeting_target,3.17
+22K315,P.S. K315,elementary,40.632619,-73.954269,Midwood,meeting_target,3.69
+22K361,P.S. 361 East Flatbush Early Childhood School,elementary,40.640551,-73.947025,East Flatbush,nan,
+22K381,I. S. 381,middle_school,40.623788,-73.946836,Madison,meeting_target,3.8
+22K405,Midwood High School,high_school,40.632829,-73.952356,Midwood,meeting_target,3.67
+22K425,James Madison High School,high_school,40.610499,-73.947661,Madison,meeting_target,3.13
+22K535,Leon M. Goldstein High School for the Sciences,high_school,40.578356,-73.934449,Manhattan Beach,exceeding_target,4.31
+22K555,Brooklyn College Academy,high_school,40.649055,-73.972312,Prospect Park South,exceeding_target,4.11
+22K611,Origins High School,high_school,40.593157,-73.936635,Gerritsen Beach,meeting_target,3.75
+22K890,M.S. 890,middle_school,40.644861,-73.97101,Kensington,approaching_target,2.38
+23K041,P.S. 041 Francis White,middle_school,40.660455,-73.906925,Brownsville,approaching_target,2.72
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,middle_school,40.682248,-73.916641,Ocean Hill,meeting_target,3.03
+23K150,P.S. 150 Christopher,elementary,40.668768,-73.90514,Brownsville,approaching_target,2.31
+23K155,P.S./ I.S. 155 Nicholas Herkimer,middle_school,40.677634,-73.908682,Ocean Hill,approaching_target,2.63
+23K156,P.S. 156 Waverly,elementary,40.665553,-73.91788,Remsen Village,approaching_target,2.56
+23K165,P.S. 165 Ida Posner,elementary,40.657061,-73.910938,Brownsville,meeting_target,3.35
+23K178,P.S. 178 Saint Clair Mckelway,middle_school,40.67538,-73.915337,Ocean Hill,approaching_target,2.05
+23K514,Frederick Douglass Academy VII High School,high_school,40.665568,-73.912102,Brownsville,meeting_target,3.13
+23K184,P.S. 184 Newport,middle_school,40.660385,-73.905004,Brownsville,approaching_target,2.03
+23K284,"The Gregory Jocko Jackson School of Sports, Art, a",middle_school,40.666942,-73.907634,Brownsville,meeting_target,3.14
+23K298,P.S. 298 Dr. Betty Shabazz,elementary,40.671015,-73.907718,Brownsville,approaching_target,2.6
+23K323,P.S./I.S. 323,middle_school,40.666187,-73.911279,Brownsville,not_meeting_target,1.98
+23K327,P.S. 327 Dr. Rose B. English,middle_school,40.668232,-73.911788,Brownsville,approaching_target,2.16
+23K363,Brownsville Collaborative Middle School,middle_school,40.671015,-73.907718,Brownsville,approaching_target,2.45
+23K392,I.S. 392,middle_school,40.665553,-73.91788,Remsen Village,meeting_target,3.51
+23K401,Christopher Avenue Community School,elementary,40.672216,-73.906018,Ocean Hill,meeting_target,3.02
+84K757,Unity Prep Charter School,high_school,40.686213,-73.940859,Bedford Stuyvesant,meeting_target,3.1
+23K446,Riverdale Avenue Community School,elementary,40.659618,-73.913508,Brownsville,meeting_target,3.29
+23K493,Brooklyn Collegiate: A College Board School,high_school,40.674456,-73.912685,Ocean Hill,meeting_target,3.37
+23K518,Kappa V (Knowledge and Power Preparatory Academy),middle_school,40.655644,-73.906662,Brownsville,approaching_target,2.81
+23K522,Mott Hall IV,middle_school,40.678124,-73.915106,Ocean Hill,approaching_target,2.09
+23K599,Brooklyn Landmark Elementary School,elementary,40.680679,-73.910719,Ocean Hill,exceeding_target,4.75
+23K644,Eagle Academy for Young Men II,high_school,40.678124,-73.915106,Ocean Hill,meeting_target,3.65
+23K664,Brooklyn Environmental Exploration School (BEES),middle_school,40.680679,-73.910719,Ocean Hill,meeting_target,3.0
+23K668,Riverdale Avenue Middle School,middle_school,40.659618,-73.913508,Brownsville,meeting_target,3.32
+84K758,Brooklyn Urban Garden Charter School,middle_school,40.656202,-73.982624,Windsor Terrace,meeting_target,3.4
+23K671,Mott Hall Bridges Academy,middle_school,40.666187,-73.911279,Brownsville,exceeding_target,4.1
+23K697,Teachers Preparatory High School,high_school,40.665568,-73.912102,Brownsville,approaching_target,2.76
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,middle_school,40.737405,-73.888133,Elmhurst,meeting_target,3.86
+24Q007,P.S. 007 Louis F. Simeone,elementary,40.739644,-73.882446,Elmhurst,nan,
+24Q012,P.S. 012 James B. Colgate,elementary,40.742284,-73.893466,Elmhurst,meeting_target,3.98
+24Q013,P.S. 013 Clement C. Moore,elementary,40.737441,-73.867662,Lefrak City,approaching_target,2.79
+24Q014,P.S. 014 Fairview,elementary,40.74102,-73.85457,South Corona,approaching_target,2.12
+24Q016,P.S. Q016 The Nancy DeBenedittis School,elementary,40.748996,-73.860547,North Corona,meeting_target,3.14
+24Q019,P.S. 019 Marino Jeantet,elementary,40.7486,-73.866557,North Corona,meeting_target,3.76
+24Q049,P.S. 049 Dorothy Bonawit Kole,middle_school,40.719567,-73.875493,Middle Village,meeting_target,3.37
+24Q093,I.S. 093 Ridgewood,middle_school,40.705609,-73.903057,Ridgewood,meeting_target,3.89
+24Q058,P.S. 58 - The School of Heroes,elementary,40.728517,-73.890638,Maspeth,meeting_target,3.66
+24Q061,I.S. 061 Leonardo Da Vinci,middle_school,40.741898,-73.862886,South Corona,meeting_target,3.48
+24Q068,P.S. 068 Cambridge,elementary,40.696961,-73.897372,Ridgewood,meeting_target,3.3
+24Q071,P.S. 071 Forest,elementary,40.711388,-73.904798,Ridgewood,meeting_target,3.43
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,middle_school,40.728558,-73.893318,Maspeth,exceeding_target,4.2
+24Q077,I.S. 077,middle_school,40.699101,-73.902147,Ridgewood,meeting_target,3.14
+24Q081,P.S. 81Q Jean Paul Richter,elementary,40.703942,-73.911885,Bushwick,meeting_target,3.97
+24Q087,P.S./I.S. 087 Middle Village,middle_school,40.711559,-73.871674,Glendale,meeting_target,3.29
+24Q088,P.S. 088 Seneca,elementary,40.704105,-73.896437,Ridgewood,approaching_target,2.51
+24Q089,P.S. 089 Elmhurst,elementary,40.745963,-73.879641,Elmhurst,exceeding_target,4.02
+24Q091,P.S. 091 Richard Arkwright,elementary,40.703503,-73.883995,Glendale,meeting_target,3.05
+24Q102,P.S. 102 Bayview,middle_school,40.733033,-73.878243,Elmhurst,meeting_target,3.74
+24Q110,P.S. 110,elementary,40.745995,-73.866372,North Corona,meeting_target,3.16
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,middle_school,40.705476,-73.861493,Woodhaven,meeting_target,3.42
+24Q119,I.S. 119 The Glendale,middle_school,40.705187,-73.875073,Middle Village,meeting_target,3.26
+24Q125,I.S. 125 Thom J. McCann Woodside,middle_school,40.740452,-73.918762,Sunnyside Gardens,meeting_target,3.87
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elemen",middle_school,40.715005,-73.885974,Middle Village,meeting_target,3.22
+24Q143,P.S. 143 Louis Armstrong,elementary,40.755393,-73.855715,North Corona,approaching_target,2.55
+24Q153,P.S. 153 Maspeth Elem,elementary,40.716296,-73.904463,Ridgewood,meeting_target,3.07
+24Q199,P.S. 199 Maurice A. Fitzgerald,elementary,40.739831,-73.926081,"Sunnyside, Queens",meeting_target,3.23
+24Q211,Elm Tree Elementary School,elementary,40.741139,-73.863408,Lefrak City,meeting_target,3.45
+24Q229,P.S. 229 Emanuel Kaplan,elementary,40.734682,-73.897108,Maspeth,meeting_target,3.77
+24Q236,International High School for Health Sciences,high_school,40.740824,-73.874129,Elmhurst,approaching_target,2.91
+24Q239,P.S. 239,elementary,40.699431,-73.903838,Ridgewood,meeting_target,3.8
+24Q264,Academy of Finance and Enterprise,high_school,40.744175,-73.937004,Long Island City,exceeding_target,4.46
+24Q267,High School of Applied Communication,high_school,40.744175,-73.937004,Long Island City,meeting_target,3.61
+24Q290,A.C.E. Academy for Scholars at the Geraldine Ferra,elementary,40.71303,-73.908307,Ridgewood,meeting_target,3.79
+24Q293,Civic Leadership Academy,high_school,40.743228,-73.871505,Elmhurst,exceeding_target,4.19
+24Q296,Pan American International High School,high_school,40.743228,-73.871505,Elmhurst,exceeding_target,4.66
+24Q299,Bard High School Early College Queens,high_school,40.744175,-73.937004,Long Island City,exceeding_target,4.68
+24Q305,Learners and Leaders,elementary,40.706837,-73.91499,Ridgewood,exceeding_target,4.27
+24Q307,Pioneer Academy,elementary,40.749175,-73.865787,North Corona,meeting_target,3.7
+24Q311,Corona Arts & Sciences Academy,middle_school,40.74592,-73.865239,North Corona,approaching_target,2.46
+24Q330,P.S. 330,elementary,40.757888,-73.859202,North Corona,approaching_target,2.84
+24Q343,The Children's Lab School,elementary,40.74258,-73.922604,"Sunnyside, Queens",nan,
+24Q455,Newtown High School,high_school,40.740824,-73.874129,Elmhurst,meeting_target,3.03
+24Q485,Grover Cleveland High School,high_school,40.711881,-73.909202,Ridgewood,approaching_target,2.5
+24Q520,Middle College High School at LaGuardia Community,high_school,40.743253,-73.933316,"Sunnyside, Queens",meeting_target,3.8
+24Q530,International High School at LaGuardia Community C,high_school,40.743253,-73.933316,"Sunnyside, Queens",exceeding_target,4.02
+24Q550,High School for Arts and Business,high_school,40.737673,-73.853412,South Corona,exceeding_target,4.07
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts an",high_school,40.742217,-73.936442,Blissville,exceeding_target,4.47
+24Q585,Maspeth High School,high_school,40.729104,-73.887909,Maspeth,exceeding_target,4.47
+24Q600,Queens Vocational and Technical High School,high_school,40.741658,-73.927995,"Sunnyside, Queens",meeting_target,3.18
+24Q610,Aviation Career & Technical Education High School,high_school,40.743309,-73.929577,"Sunnyside, Queens",exceeding_target,4.5
+25Q020,P.S. 020 John Bowne,elementary,40.758347,-73.824388,Downtown Flushing,meeting_target,3.7
+25Q021,P.S. 021 Edward Hart,elementary,40.774134,-73.818581,Bayside,meeting_target,3.6
+25Q022,P.S. 022 Thomas Jefferson,elementary,40.761744,-73.811373,"Murray Hill, Queens",exceeding_target,4.71
+25Q024,P.S. 024 Andrew Jackson,elementary,40.751972,-73.8181,Kew Gardens Hills,exceeding_target,4.79
+25Q025,I.S. 025 Adrien Block,middle_school,40.764884,-73.789365,Auburndale,meeting_target,3.56
+25Q029,P.S. 029 Queens,elementary,40.778029,-73.842967,College Point,meeting_target,3.94
+25Q032,P.S. 032 State Street,elementary,40.765459,-73.794323,Auburndale,meeting_target,3.73
+25Q079,P.S. 079 Francis Lewis,elementary,40.786201,-73.817338,Malba,meeting_target,3.56
+25Q107,P.S. 107 Thomas A Dooley,elementary,40.755364,-73.799476,Auburndale,meeting_target,3.7
+25Q120,P.S. 120 Queens,elementary,40.745215,-73.828674,Queensboro Hill,exceeding_target,4.32
+25Q129,P.S. 129 Patricia Larkin,elementary,40.789926,-73.839505,College Point,exceeding_target,4.01
+25Q130,P.S. 130,elementary,40.760219,-73.784009,Auburndale,exceeding_target,4.34
+25Q154,P.S. 154 Queens,elementary,40.726473,-73.80775,Pomonok,meeting_target,3.27
+25Q163,P.S. 163 Flushing Heights,elementary,40.741107,-73.808765,Queensboro Hill,exceeding_target,4.79
+25Q164,P.S. 164 Queens Valley,middle_school,40.721514,-73.823569,Kew Gardens Hills,meeting_target,3.27
+25Q165,P.S. 165 Edith K. Bergtraum,elementary,40.729746,-73.816966,Kew Gardens Hills,exceeding_target,4.2
+25Q169,P.S. 169 Bay Terrace,elementary,40.782331,-73.77843,"Bay Terrace, Queens",meeting_target,3.71
+25Q184,P.S. 184 Flushing Manor,elementary,40.778334,-73.799158,Whitestone,exceeding_target,4.3
+25Q185,J.H.S. 185 Edward Bleeker,middle_school,40.774906,-73.818607,Bayside,meeting_target,3.65
+25Q189,J.H.S. 189 Daniel Carter Beard,middle_school,40.759963,-73.818399,"Murray Hill, Queens",meeting_target,3.23
+25Q193,P.S. 193 Alfred J. Kennedy,elementary,40.792053,-73.808987,Beechhurst,meeting_target,3.72
+25Q194,J.H.S. 194 William Carr,middle_school,40.783231,-73.80699,Whitestone,meeting_target,3.34
+25Q200,P.S./M.S. 200 - The Pomonok School & STAR Academy,middle_school,40.73107,-73.805759,Pomonok,meeting_target,3.08
+25Q201,P.S. 201 The Discovery School for Inquiry and Rese,elementary,40.736541,-73.813011,Queensboro Hill,exceeding_target,4.02
+25Q209,P.S. 209 Clearview Gardens,elementary,40.783777,-73.795845,Beechhurst,meeting_target,3.41
+25Q214,P.S. 214 Cadwallader Colden,elementary,40.770215,-73.827606,Downtown Flushing,exceeding_target,4.18
+25Q219,P.S. 219 Paul Klapper,middle_school,40.737448,-73.823841,Queensboro Hill,exceeding_target,4.57
+25Q237,I.S. 237,middle_school,40.74943,-73.821402,Kew Gardens Hills,meeting_target,3.4
+25Q240,Veritas Academy,high_school,40.764892,-73.826811,Downtown Flushing,meeting_target,3.21
+25Q241,Queens High School for Language Studies,high_school,40.764892,-73.826811,Downtown Flushing,exceeding_target,4.71
+84K693,Northside Charter High School,high_school,40.719818,-73.947932,Greenpoint,approaching_target,2.75
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle Sc,middle_school,40.724195,-73.80938,Kew Gardens Hills,approaching_target,2.87
+25Q252,"Queens School of Inquiry, The",high_school,40.724195,-73.80938,Kew Gardens Hills,meeting_target,3.99
+25Q263,Flushing International High School,high_school,40.759963,-73.818399,"Murray Hill, Queens",approaching_target,2.94
+25Q281,East-West School of International Studies,high_school,40.74943,-73.821402,Kew Gardens Hills,exceeding_target,4.22
+25Q285,World Journalism Preparatory: A College Board Scho,high_school,40.764884,-73.789365,Auburndale,exceeding_target,4.16
+25Q294,BELL Academy,middle_school,40.782331,-73.77843,"Bay Terrace, Queens",exceeding_target,4.56
+25Q425,John Bowne High School,high_school,40.737448,-73.823841,Queensboro Hill,approaching_target,2.98
+25Q460,Flushing High School,high_school,40.764892,-73.826811,Downtown Flushing,approaching_target,2.61
+25Q499,"The Queens College School for Math, Science and Te",middle_school,40.738599,-73.820821,Queensboro Hill,meeting_target,3.8
+84K701,Brooklyn Charter School,elementary,40.69447,-73.947256,Bedford Stuyvesant,meeting_target,3.02
+25Q525,Townsend Harris High School,high_school,40.737038,-73.821532,Queensboro Hill,exceeding_target,4.9
+25Q670,Robert F. Kennedy Community High School,high_school,40.72528,-73.811408,Pomonok,meeting_target,3.39
+26Q018,P.S. 018 Winchester,elementary,40.731853,-73.73229,Bellaire,meeting_target,3.65
+26Q026,P.S. 026 Rufus King,elementary,40.735935,-73.777607,Fresh Meadows,exceeding_target,4.23
+26Q031,P.S. 031 Bayside,elementary,40.757701,-73.768994,Bayside,meeting_target,3.5
+26Q041,P.S. 041 Crocheron,elementary,40.770155,-73.771225,Bayside,exceeding_target,4.74
+26Q046,P.S. 046 Alley Pond,elementary,40.745744,-73.758042,Oakland Gardens,exceeding_target,4.52
+26Q067,J.H.S. 067 Louis Pasteur,middle_school,40.762241,-73.734832,Auburndale,exceeding_target,4.06
+26Q074,J.H.S. 074 Nathaniel Hawthorne,middle_school,40.744743,-73.766653,Bayside,exceeding_target,4.06
+26Q094,P.S. 094 David D. Porter,elementary,40.771258,-73.738703,Little Neck,exceeding_target,4.87
+26Q098,P.S. 098 The Douglaston School,elementary,40.768906,-73.749998,Douglaston,meeting_target,3.7
+26Q115,The James J. Ambrose School,elementary,40.744201,-73.709404,Floral Park,exceeding_target,4.14
+26Q133,P.S. 133 Queens,elementary,40.732458,-73.717819,Bellerose,exceeding_target,4.01
+26Q158,M.S. 158 Marie Curie,middle_school,40.756562,-73.771878,Bayside,meeting_target,3.71
+26Q159,P.S. 159,elementary,40.770108,-73.783973,Bayside,meeting_target,3.9
+26Q162,P.S. 162 John Golden,elementary,40.748405,-73.776576,Fresh Meadows,meeting_target,3.67
+26Q172,Irwin Altman Middle School 172,middle_school,40.741409,-73.713245,Floral Park,meeting_target,3.96
+26Q173,P.S. 173 Fresh Meadows,elementary,40.734097,-73.795651,Utopia,meeting_target,3.74
+26Q178,P.S./ IS 178 Holliswood,middle_school,40.724061,-73.777314,Holliswood,meeting_target,3.53
+26Q186,P.S. 186 Castlewood,elementary,40.749556,-73.721594,Glen Oaks,meeting_target,3.46
+26Q188,P.S. 188 Kingsbury,elementary,40.736063,-73.753985,Oakland Gardens,exceeding_target,4.18
+26Q191,P.S. 191 Mayflower,elementary,40.734266,-73.708617,Floral Park,exceeding_target,4.12
+26Q203,P.S. 203 Oakland Gardens,elementary,40.753606,-73.759822,Oakland Gardens,exceeding_target,4.58
+26Q205,P.S. 205 Alexander Graham Bell,elementary,40.738008,-73.756374,Hollis,exceeding_target,4.06
+26Q213,P.S. 213 The Carl Ullman School,elementary,40.747457,-73.74539,Oakland Gardens,meeting_target,3.07
+26Q216,J.H.S. 216 George J. Ryan,middle_school,40.737188,-73.794501,Jamaica Estates,exceeding_target,4.29
+26Q221,P.S. 221 The North Hills School,elementary,40.758808,-73.731518,Auburndale,meeting_target,3.85
+26Q266,P.S./I.S. 266,middle_school,40.746128,-73.728415,Glen Oaks,meeting_target,3.3
+26Q315,Business Technology Early College High School,high_school,40.733888,-73.739726,Bellaire,meeting_target,3.51
+26Q415,Benjamin N. Cardozo High School,high_school,40.752343,-73.757271,Oakland Gardens,meeting_target,3.44
+26Q430,Francis Lewis High School,high_school,40.740875,-73.795049,Utopia,meeting_target,3.63
+26Q435,Martin Van Buren High School,high_school,40.733888,-73.739726,Bellaire,approaching_target,2.72
+26Q495,Bayside High School,high_school,40.771398,-73.781041,Bayside,exceeding_target,4.31
+26Q566,"Queens High School of Teaching, Liberal Arts and t",high_school,40.744197,-73.728834,Floral Park,meeting_target,3.26
+27Q042,P.S./M.S 042 R. Vernam,middle_school,40.594358,-73.794804,Arverne,approaching_target,2.85
+27Q043,P.S. 043,middle_school,40.59348,-73.761086,Arverne,approaching_target,2.55
+27Q045,P.S. 045 Clarence Witherspoon,elementary,40.671871,-73.788866,South Ozone Park,approaching_target,2.72
+27Q047,P.S. 047 Chris Galas,middle_school,40.606476,-73.821089,Broad Channel,meeting_target,3.12
+27Q053,M.S. 053 Brian Piccolo,middle_school,40.604019,-73.749891,Far Rockaway,approaching_target,2.97
+27Q060,P.S. 060 Woodhaven,elementary,40.691467,-73.852792,Woodhaven,exceeding_target,4.82
+27Q062,P. S. 62 - Chester Park School,elementary,40.688359,-73.835567,Ozone Park,meeting_target,3.27
+27Q063,P.S. 063 Old South,elementary,40.676978,-73.846796,Ozone Park,meeting_target,3.24
+27Q064,P.S. 064 Joseph P. Addabbo,elementary,40.681901,-73.856956,Woodhaven,meeting_target,3.07
+27Q065,P.S. 65 - The Raymond York Elementary School,elementary,40.682293,-73.841675,Ozone Park,exceeding_target,4.12
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,elementary,40.697941,-73.846135,Richmond Hill,exceeding_target,4.46
+27Q090,P.S. 090 Horace Mann,elementary,40.696653,-73.839517,Richmond Hill,meeting_target,3.19
+27Q096,P.S. 096,elementary,40.675369,-73.808128,South Ozone Park,meeting_target,3.71
+27Q097,P.S. 097 Forest Park,elementary,40.694232,-73.860031,Woodhaven,approaching_target,2.65
+27Q100,P.S. 100 Glen Morris,elementary,40.679694,-73.821545,Ozone Park,meeting_target,3.96
+27Q104,P.S. 104 The Bays Water,elementary,40.608002,-73.764621,Springfield Gardens,meeting_target,3.31
+27Q105,P.S. 105 The Bay School,middle_school,40.595911,-73.780961,Edgemere,approaching_target,2.13
+27Q106,Lighthouse Elementary School,elementary,40.594738,-73.766846,Arverne,meeting_target,3.06
+27Q108,P.S. 108 Captain Vincent G. Fowler,elementary,40.679083,-73.831025,Ozone Park,meeting_target,3.56
+27Q114,P.S./M.S. 114 Belle Harbor,middle_school,40.577552,-73.854364,Belle Harbor,meeting_target,3.62
+27Q123,P.S. 123,elementary,40.678913,-73.795571,Rochdale,approaching_target,2.66
+27Q124,P.S. 124 Osmond A Church,middle_school,40.665669,-73.811266,South Ozone Park,approaching_target,2.97
+27Q137,M.S. 137 America's School of Heroes,middle_school,40.678112,-73.839377,Ozone Park,exceeding_target,4.02
+27Q146,P.S. 146 Howard Beach,middle_school,40.660531,-73.834896,Lindenwood,meeting_target,3.67
+27Q155,P.S. 155,elementary,40.679105,-73.810067,South Ozone Park,exceeding_target,4.24
+27Q183,P.S. 183 Dr. Richard R. Green,middle_school,40.58922,-73.805866,Arverne,approaching_target,2.62
+27Q197,P.S. 197 The Ocean School,elementary,40.599664,-73.744128,Far Rockaway,exceeding_target,4.04
+27Q202,J.H.S. 202 Robert H. Goddard,middle_school,40.670905,-73.845992,Lindenwood,approaching_target,2.59
+27Q207,P.S. 207 Rockwood Park,middle_school,40.657736,-73.843881,Howard Beach,approaching_target,2.59
+27Q210,J.H.S. 210 Elizabeth Blackwell,middle_school,40.68476,-73.847633,Ozone Park,approaching_target,2.77
+27Q223,P.S. 223 Lyndon B. Johnson,elementary,40.673898,-73.78953,South Ozone Park,approaching_target,2.39
+27Q226,J.H.S. 226 Virgil I. Grissom,middle_school,40.675021,-73.81673,Ozone Park,approaching_target,2.42
+27Q232,P.S. 232 Lindenwood,middle_school,40.665408,-73.850622,Lindenwood,meeting_target,3.8
+27Q253,P.S. 253,elementary,40.607247,-73.748799,Far Rockaway,approaching_target,2.56
+27Q254,P.S. 254 - The Rosa Parks School,elementary,40.6972,-73.847886,Richmond Hill,meeting_target,3.19
+27Q260,Frederick Douglass Academy VI High School,high_school,40.601537,-73.763995,Far Rockaway,approaching_target,2.04
+27Q262,Channel View School for Research,high_school,40.586012,-73.825317,Arverne,meeting_target,3.98
+27Q282,Knowledge and Power Preparatory Academy VI,middle_school,40.601537,-73.763995,Far Rockaway,exceeding_target,4.55
+27Q297,Hawtree Creek Middle School,middle_school,40.675021,-73.81673,Ozone Park,meeting_target,3.47
+27Q302,"Queens High School for Information, Research, and",high_school,40.601537,-73.763995,Far Rockaway,exceeding_target,4.07
+27Q306,New York City Academy for Discovery,elementary,40.691765,-73.849006,Woodhaven,approaching_target,2.91
+27Q308,Robert H. Goddard High School of Communication Art,high_school,40.670905,-73.845992,Lindenwood,exceeding_target,4.32
+27Q309,Academy of Medical Technology: A College Board Sch,high_school,40.601537,-73.763995,Far Rockaway,approaching_target,2.76
+27Q314,Epic High School - South,high_school,40.675021,-73.81673,Ozone Park,approaching_target,2.84
+27Q316,Queens Explorers Elementary School,elementary,40.683112,-73.850123,Ozone Park,nan,
+27Q317,Waterside Children's Studio School,elementary,40.580907,-73.83109,Seaside,meeting_target,3.67
+27Q318,Waterside School For Leadership,middle_school,40.580907,-73.83109,Seaside,meeting_target,3.68
+84K704,Explore Charter School,middle_school,40.656423,-73.951575,Prospect Lefferts Gardens,meeting_target,3.92
+27Q319,Village Academy,middle_school,40.604019,-73.749891,Far Rockaway,exceeding_target,4.03
+27Q323,Scholars' Academy,high_school,40.584543,-73.825162,Seaside,exceeding_target,4.74
+27Q324,Rockaway Park High School for Environmental Sustai,high_school,40.586012,-73.825317,Arverne,approaching_target,2.48
+27Q333,Goldie Maple Academy,middle_school,40.594008,-73.786649,Arverne,approaching_target,2.52
+27Q334,Epic High School - North,high_school,40.693013,-73.829409,Richmond Hill,approaching_target,2.86
+27Q351,Rockaway Collegiate High School,high_school,40.586012,-73.825317,Arverne,approaching_target,2.59
+27Q362,Wave Preparatory Elementary School,elementary,40.599467,-73.758587,Far Rockaway,exceeding_target,4.63
+27Q400,August Martin High School,high_school,40.673949,-73.782684,Springfield Gardens,meeting_target,3.97
+27Q475,Richmond Hill High School,high_school,40.695171,-73.833815,Richmond Hill,approaching_target,2.95
+27Q480,John Adams High School,high_school,40.680065,-73.838616,Ozone Park,meeting_target,3.91
+27Q650,"High School for Construction Trades, Engineering a",high_school,40.689177,-73.841475,Ozone Park,exceeding_target,4.45
+28Q008,J.H.S. 008 Richard S. Grossley,middle_school,40.69691,-73.786403,South Jamaica,meeting_target,3.17
+28Q040,P.S. 040 Samuel Huntington,elementary,40.693559,-73.790975,South Jamaica,meeting_target,3.27
+28Q048,P.S. 048 William Wordsworth,elementary,40.693736,-73.796358,Jamaica Center,exceeding_target,4.11
+28Q050,P.S. 050 Talfourd Lawn Elementary School,elementary,40.694868,-73.806842,Briarwood,meeting_target,3.04
+28Q054,P.S. 054 Hillside,elementary,40.702656,-73.824629,Richmond Hill,meeting_target,3.57
+28Q055,P.S. 055 Maure,elementary,40.69361,-73.816156,Kew Gardens Hills,meeting_target,3.3
+28Q072,Catherine & Count Basie Middle School 72,middle_school,40.675014,-73.775643,Rochdale,approaching_target,2.53
+28Q080,PS 80  The Thurgood Marshall Magnet School of Mult,elementary,40.673483,-73.769119,Rochdale,approaching_target,2.85
+28Q082,P.S. 082 Hammond,elementary,40.703897,-73.8122,Briarwood,approaching_target,2.64
+28Q086,P.S. Q086,elementary,40.709461,-73.803001,Jamaica Hills,meeting_target,3.91
+28Q099,P.S. 099 Kew Gardens,elementary,40.711502,-73.827722,Kew Gardens,exceeding_target,4.43
+28Q101,P.S. 101 School in the Gardens,elementary,40.715543,-73.8434,Forest Hills Gardens,meeting_target,3.58
+28Q117,P.S. 117 J. Keld / Briarwood School,elementary,40.710428,-73.812968,Briarwood,meeting_target,3.41
+28Q121,P.S. 121 Queens,elementary,40.683585,-73.81533,Ozone Park,exceeding_target,4.57
+28Q139,P.S. 139 Rego Park,elementary,40.728012,-73.862561,Rego Park,meeting_target,3.46
+28Q140,P.S. 140 Edward K Ellington,elementary,40.687486,-73.781255,St. Albans,exceeding_target,4.23
+28Q144,P.S. 144 Col Jeromus Remsen,elementary,40.71489,-73.852398,Forest Hills Gardens,meeting_target,3.26
+28Q157,J.H.S. 157 Stephen A. Halsey,middle_school,40.732348,-73.852879,Rego Park,meeting_target,3.74
+28Q160,P.S. 160 Walter Francis Bishop,elementary,40.688373,-73.799685,Jamaica Center,approaching_target,2.4
+28Q161,P.S. 161 Arthur Ashe School,elementary,40.690439,-73.82108,Woodhaven,exceeding_target,4.07
+28Q167,Metropolitan Expeditionary Learning School,high_school,40.708431,-73.855543,Forest Hills Gardens,exceeding_target,4.3
+28Q174,P.S. 174 William Sidney Mount,elementary,40.720583,-73.861462,Rego Park,meeting_target,3.01
+28Q175,P.S. 175 The Lynn Gross Discovery School,elementary,40.731016,-73.85221,Rego Park,meeting_target,3.15
+28Q182,P.S. 182 Samantha Smith,elementary,40.70675,-73.803183,Jamaica Center,approaching_target,2.51
+28Q190,J.H.S. 190 Russell Sage,middle_school,40.723478,-73.8517,Kew Gardens Hills,meeting_target,3.65
+28Q196,P.S. 196 Grand Central Parkway,elementary,40.722792,-73.837379,Forest Hills,exceeding_target,4.88
+28Q206,P.S. 206 The Horace Harding School,elementary,40.73404,-73.861004,Lefrak City,approaching_target,2.89
+28Q217,J.H.S. 217 Robert A. Van Wyck,middle_school,40.710384,-73.811461,Briarwood,meeting_target,3.54
+28Q220,P.S. 220 Edward Mandel,elementary,40.736314,-73.852621,South Corona,approaching_target,2.6
+28Q284,York Early College Academy,high_school,40.69691,-73.786403,South Jamaica,exceeding_target,4.42
+28Q287,The Emerson School,middle_school,40.69691,-73.786403,South Jamaica,meeting_target,3.09
+28Q310,Queens Collegiate: A College Board School,high_school,40.714551,-73.798658,Jamaica Hills,meeting_target,3.88
+28Q312,Jamaica Children's School,elementary,40.693559,-73.790975,South Jamaica,nan,
+28Q325,Hillside Arts & Letters Academy,high_school,40.714551,-73.798658,Jamaica Hills,exceeding_target,4.37
+28Q328,High School for Community Leadership,high_school,40.714551,-73.798658,Jamaica Hills,exceeding_target,4.69
+28Q332,Redwood Middle School,middle_school,40.675014,-73.775643,Rochdale,approaching_target,2.68
+28Q350,Jamaica Gateway to the Sciences,high_school,40.714551,-73.798658,Jamaica Hills,meeting_target,3.72
+28Q354,The Jermaine L. Green STEM Institute of Queens,elementary,40.679843,-73.774668,Rochdale,meeting_target,3.41
+28Q358,M.S. 358,middle_school,40.708698,-73.797981,Jamaica Hills,exceeding_target,4.05
+28Q440,Forest Hills High School,high_school,40.730017,-73.843972,Forest Hills,meeting_target,3.22
+28Q505,Hillcrest High School,high_school,40.709461,-73.803001,Jamaica Hills,meeting_target,3.08
+28Q620,Thomas A. Edison Career and Technical Education Hi,high_school,40.716071,-73.799692,Jamaica Hills,meeting_target,3.81
+28Q680,Queens Gateway to Health Sciences Secondary School,high_school,40.718027,-73.805923,Briarwood,exceeding_target,4.47
+28Q686,Queens Metropolitan High School,high_school,40.708431,-73.855543,Forest Hills Gardens,meeting_target,3.5
+28Q687,Queens High School for the Sciences at York Colleg,high_school,40.700884,-73.798364,Jamaica Center,exceeding_target,4.8
+28Q690,High School for Law Enforcement and Public Safety,high_school,40.685838,-73.783438,St. Albans,approaching_target,2.85
+28Q896,"Young Women's Leadership School, Queens",high_school,40.708409,-73.804166,Briarwood,exceeding_target,4.34
+29Q015,P.S. 015 Jackie Robinson,elementary,40.68605,-73.756546,St. Albans,approaching_target,2.06
+29Q033,P.S. 033 Edward M. Funk,elementary,40.727172,-73.734102,Bellaire,approaching_target,2.51
+29Q034,P.S. 034 John Harvard,elementary,40.710986,-73.737702,Queens Village,approaching_target,2.75
+29Q035,P.S. 035 Nathaniel Woodhull,elementary,40.713438,-73.768894,Holliswood,approaching_target,2.87
+29Q036,P.S. 036 Saint Albans School,elementary,40.691306,-73.764081,St. Albans,not_meeting_target,1.48
+29Q037,Cynthia Jenkins School,elementary,40.676201,-73.758778,Springfield Gardens,not_meeting_target,1.96
+29Q038,P.S. 038 Rosedale,elementary,40.67115,-73.733774,Laurelton,meeting_target,3.13
+29Q052,P.S. 052 Queens,elementary,40.661427,-73.767161,Brookville,not_meeting_target,1.59
+29Q059,I.S. 059 Springfield Gardens,middle_school,40.681881,-73.752772,Rochdale,meeting_target,3.21
+29Q095,P.S. 095 Eastwood,elementary,40.711295,-73.783283,Jamaica Hills,meeting_target,3.08
+29Q109,Jean Nuzzi Intermediate School,middle_school,40.720074,-73.746375,Queens Village,approaching_target,2.25
+29Q116,P.S./I.S. 116 William C. Hughley,middle_school,40.70084,-73.781839,South Jamaica,approaching_target,2.7
+29Q118,P.S. 118 Lorraine Hansberry,elementary,40.703182,-73.765237,Holliswood,not_meeting_target,1.81
+29Q131,P.S. 131 Abigail Adams,elementary,40.71715,-73.794061,Jamaica Estates,exceeding_target,4.29
+29Q132,P.S. 132 Ralph Bunche,elementary,40.681948,-73.7493,Rochdale,meeting_target,3.79
+29Q134,P.S. 134 Hollis,elementary,40.707535,-73.754747,Hollis,approaching_target,2.85
+29Q135,The Bellaire School,elementary,40.720864,-73.757591,Holliswood,meeting_target,3.4
+29Q136,P.S. 136 Roy Wilkins,elementary,40.69894,-73.752694,South Jamaica,approaching_target,2.42
+29Q138,P.S./M.S. 138 Sunrise,middle_school,40.659876,-73.734342,Rosedale,approaching_target,2.36
+29Q147,P.S./M.S. 147 Ronald McNair,middle_school,40.698028,-73.74014,Cambria Heights,approaching_target,2.14
+29Q156,P.S. 156 Laurelton,elementary,40.672259,-73.743327,Laurelton,not_meeting_target,1.34
+29Q176,P.S. 176 Cambria Heights,elementary,40.684987,-73.729226,Rochdale,approaching_target,2.35
+29Q181,P.S. 181 Brookfield,elementary,40.655674,-73.752948,Brookville,meeting_target,3.45
+29Q192,I.S. 192 The Linden,middle_school,40.705989,-73.752885,Hollis,approaching_target,2.43
+29Q195,P.S. 195 William Haberle,elementary,40.652641,-73.735618,Rosedale,not_meeting_target,1.6
+29Q208,P.S./I.S. 208,middle_school,40.744276,-73.727632,Floral Park,approaching_target,2.9
+29Q238,I.S. 238 - Susan B. Anthony Academy,middle_school,40.712743,-73.779653,Jamaica Hills,approaching_target,2.5
+29Q243,Institute for Health Professions at Cambria Height,high_school,40.698786,-73.74633,South Jamaica,meeting_target,3.96
+29Q248,Queens Preparatory Academy,high_school,40.66903,-73.757744,Springfield Gardens,meeting_target,3.24
+29Q251,P.S. 251 Queens,elementary,40.664809,-73.759396,Springfield Gardens,approaching_target,2.81
+29Q259,Pathways College Preparatory School: A College Boa,high_school,40.705989,-73.752885,Hollis,approaching_target,2.78
+29Q265,Excelsior Preparatory High School,high_school,40.66903,-73.757744,Springfield Gardens,meeting_target,3.74
+29Q268,P.S./I.S. 268,middle_school,40.707648,-73.78521,Jamaica Estates,approaching_target,2.78
+29Q270,The Gordon Parks School,middle_school,40.67507,-73.736232,Laurelton,approaching_target,2.33
+29Q272,George Washington Carver High School for the Scien,high_school,40.66903,-73.757744,Springfield Gardens,meeting_target,3.11
+29Q283,Preparatory Academy for Writers: A College Board S,high_school,40.66903,-73.757744,Springfield Gardens,meeting_target,3.77
+29Q289,Queens United Middle School,middle_school,40.672259,-73.743327,Laurelton,not_meeting_target,1.87
+29Q295,P.S./I.S. 295,middle_school,40.720617,-73.731398,Queens Village,meeting_target,3.92
+84K759,Canarsie Ascend Charter School,elementary,40.643834,-73.900432,Canarsie,meeting_target,3.86
+29Q313,Benjamin Franklin High School for Finance & Inform,high_school,40.698786,-73.74633,South Jamaica,meeting_target,3.69
+29Q326,Cambria Heights Academy,high_school,40.711857,-73.771196,Hollis,meeting_target,3.42
+29Q327,Eagle Academy for Young Men III,high_school,40.69172,-73.778924,St. Albans,meeting_target,3.34
+29Q355,Collaborative Arts Middle School,middle_school,40.664809,-73.759396,Springfield Gardens,approaching_target,2.42
+29Q356,Community Voices Middle School,middle_school,40.664809,-73.759396,Springfield Gardens,approaching_target,2.49
+29Q492,"Mathematics, Science Research and Technology Magne",high_school,40.698786,-73.74633,South Jamaica,approaching_target,2.59
+29Q498,Humanities & Arts Magnet High School,high_school,40.698786,-73.74633,South Jamaica,meeting_target,3.02
+30Q002,P.S. 002 Alfred Zimberg,elementary,40.769798,-73.894108,Astoria Heights,exceeding_target,4.73
+30Q010,I.S. 010 Horace Greeley,middle_school,40.760122,-73.911962,Ravenswood,meeting_target,3.56
+30Q011,P.S. 011 Kathryn Phelan,elementary,40.746127,-73.909032,Woodside,meeting_target,3.77
+30Q017,P.S. 017 Henry David Thoreau,elementary,40.768034,-73.922544,Astoria,approaching_target,2.8
+30Q069,P.S. 069 Jackson Heights,elementary,40.748804,-73.888457,Jackson Heights,meeting_target,3.54
+30Q070,P.S. 070,elementary,40.761762,-73.913964,Ravenswood,meeting_target,3.75
+30Q076,P.S. 076 William Hallet,elementary,40.760862,-73.94163,Roosevelt Island,approaching_target,2.82
+30Q078,P.S./I.S. 78Q,middle_school,40.744368,-73.957177,Hunters Point,meeting_target,3.68
+30Q084,P.S. 084 Steinway,elementary,40.771154,-73.906117,Astoria,meeting_target,3.62
+30Q085,P.S. 085 Judge Charles Vallone,elementary,40.773126,-73.915039,Astoria,meeting_target,3.23
+30Q092,P.S. 092 Harry T. Stewart Sr.,elementary,40.755983,-73.868773,East Elmhurst,meeting_target,3.42
+30Q111,P.S. 111 Jacob Blackwell,middle_school,40.758342,-73.939181,Ravenswood,approaching_target,2.66
+30Q112,P.S. 112 Dutch Kills,elementary,40.757293,-73.933562,Ravenswood,approaching_target,2.57
+30Q122,P.S. 122 Mamie Fay,middle_school,40.780507,-73.915785,Steinway,exceeding_target,4.5
+30Q126,Albert Shanker School for Visual and Performing Ar,middle_school,40.766008,-73.92999,Ravenswood,approaching_target,2.81
+30Q127,P.S. 127 Aerospace Science Magnet School,middle_school,40.765507,-73.870931,East Elmhurst,approaching_target,2.79
+30Q141,I.S. 141 The Steinway,middle_school,40.775766,-73.904508,Steinway,meeting_target,3.71
+30Q145,I.S. 145 Joseph Pulitzer,middle_school,40.754389,-73.887523,Jackson Heights,meeting_target,3.62
+30Q148,P.S. 148 Queens,elementary,40.757629,-73.878638,Jackson Heights,approaching_target,2.75
+30Q149,P.S. 149 Christa Mcauliffe,elementary,40.755759,-73.874505,East Elmhurst,approaching_target,2.56
+30Q150,P.S. 150 Queens,elementary,40.745887,-73.923375,Sunnyside Gardens,meeting_target,3.86
+30Q151,P.S. 151 Mary D. Carter,elementary,40.758027,-73.908146,Ravenswood,exceeding_target,4.16
+30Q152,P.S. 152 Gwendoline N. Alleyne School,elementary,40.753094,-73.900584,Woodside,exceeding_target,4.09
+30Q166,P.S. 166 Henry Gradstein,elementary,40.757497,-73.926249,Ravenswood,meeting_target,3.54
+30Q171,P.S. 171 Peter G. Van Alst,elementary,40.770926,-73.929093,Ravenswood,approaching_target,2.48
+30Q204,I.S. 204 Oliver W. Holmes,middle_school,40.756471,-73.932628,Ravenswood,meeting_target,3.61
+30Q212,P.S. 212,elementary,40.753035,-73.884458,Jackson Heights,meeting_target,3.87
+30Q227,I.S. 227 Louis Armstrong,middle_school,40.757567,-73.874614,East Elmhurst,exceeding_target,4.36
+30Q230,I.S. 230,middle_school,40.752618,-73.892883,Jackson Heights,meeting_target,3.7
+30Q234,P.S. 234,elementary,40.766898,-73.923044,Astoria,exceeding_target,4.99
+30Q235,Academy for New Americans,middle_school,40.766898,-73.923044,Astoria,approaching_target,2.64
+30Q258,Energy Tech High School,high_school,40.756471,-73.932628,Ravenswood,exceeding_target,4.05
+30Q280,P.S. 280,elementary,40.753345,-73.874109,Jackson Heights,meeting_target,3.09
+30Q286,"Young Women's Leadership School, Astoria",high_school,40.770769,-73.92383,Astoria,exceeding_target,4.3
+30Q291,Hunters Point Community Middle School,middle_school,40.742964,-73.959183,Hunters Point,exceeding_target,4.25
+30Q300,The 30th Avenue School (G&T Citywide),middle_school,40.768034,-73.922544,Astoria,exceeding_target,4.6
+30Q301,Academy for Careers in Television and Film,high_school,40.742964,-73.959183,Hunters Point,exceeding_target,4.69
+30Q329,East Elmhurst Community School,elementary,40.761573,-73.872244,East Elmhurst,approaching_target,2.91
+30Q445,William Cullen Bryant High School,high_school,40.757072,-73.911165,Ravenswood,approaching_target,2.81
+30Q450,Long Island City High School,high_school,40.765881,-73.933907,Ravenswood,approaching_target,2.74
+30Q501,Frank Sinatra School of the Arts High School,high_school,40.756099,-73.925182,Ravenswood,exceeding_target,4.12
+30Q502,Information Technology High School,high_school,40.748502,-73.946488,Long Island City,approaching_target,2.98
+30Q555,Newcomers High School,high_school,40.751838,-73.936592,Long Island City,meeting_target,3.27
+30Q575,Academy of American Studies,high_school,40.751144,-73.937564,Long Island City,exceeding_target,4.16
+30Q580,Baccalaureate School for Global Education,high_school,40.754975,-73.926977,Ravenswood,exceeding_target,4.69
+31R001,P.S. 001 Tottenville,elementary,40.508638,-74.24395,Tottenville,exceeding_target,4.01
+31R002,I.S. R002 George L. Egbert,middle_school,40.576728,-74.099685,Grant City,approaching_target,2.49
+31R003,P.S. 003 The Margaret Gioiosa School,elementary,40.520812,-74.21185,Pleasant Plains,meeting_target,3.68
+31R004,P.S. 004 Maurice Wollin,elementary,40.552059,-74.195281,Arden Heights,exceeding_target,4.08
+31R005,P.S. 005 Huguenot,elementary,40.529389,-74.187276,Huguenot,exceeding_target,4.24
+31R006,P.S. 6 Corporal Allan F. Kivlehan School,elementary,40.510207,-74.230118,Butler Manor,meeting_target,3.31
+31R007,I.S. 007 Elias Bernstein,middle_school,40.522971,-74.186096,Huguenot,meeting_target,3.6
+31R008,P.S. 8 Shirlee Solomon,elementary,40.547567,-74.152212,Great Kills,exceeding_target,4.24
+31R009,Naples Street Elementary School,elementary,40.60265,-74.090245,Concord,exceeding_target,4.71
+31R010,Fort Hill Collaborative Elementary School,elementary,40.639638,-74.079594,Tompkinsville,nan,
+31R011,P.S. 11 Thomas Dongan School,elementary,40.590887,-74.098252,Dongan Hills,meeting_target,3.58
+31R013,P.S. 013 M. L. Lindemeyer,elementary,40.613322,-74.068963,Rosebank,meeting_target,3.9
+31R016,P.S. 016 John J. Driscoll,elementary,40.639638,-74.079594,Tompkinsville,approaching_target,2.82
+31R018,P.S. 018 John G. Whittier,elementary,40.636521,-74.116817,Randall Manor,meeting_target,3.39
+31R019,P.S. 019 The Curtis School,elementary,40.630563,-74.126851,Port Richmond,approaching_target,2.36
+31R020,P.S. 020 Port Richmond,elementary,40.636729,-74.132382,Port Richmond,meeting_target,3.04
+31R021,P.S. 21 Margaret Emery-Elm Park,elementary,40.631165,-74.144599,Elm Park,exceeding_target,4.09
+31R022,P.S. 022 Graniteville,elementary,40.624847,-74.150544,Graniteville,meeting_target,3.3
+31R023,P.S. 023 Richmondtown,elementary,40.570765,-74.133216,Richmond Town,exceeding_target,4.48
+31R024,I.S. 024 Myra S. Barnes,middle_school,40.54549,-74.145558,Great Kills,meeting_target,3.02
+31R026,P.S. 026 The Carteret School,elementary,40.591546,-74.190093,"Chelsea, Staten Island",meeting_target,3.75
+31R027,I.S. 027 Anning S. Prall,middle_school,40.628291,-74.117818,West Brighton,meeting_target,3.26
+31R028,The Eagle Academy for Young Men of Staten Island,high_school,40.620443,-74.080695,Grymes Hill,meeting_target,3.26
+31R029,P.S. 029 Bardwell,elementary,40.614039,-74.116197,Castleton Corners,meeting_target,3.58
+31R030,P.S. 030 Westerleigh,elementary,40.618097,-74.13308,Westerleigh,meeting_target,3.37
+31R031,P.S. 031 William T. Davis,elementary,40.64209,-74.08542,New Brighton,approaching_target,2.47
+31R032,P.S. 032 The Gifford School,elementary,40.5579,-74.1554,Eltingville,meeting_target,3.47
+31R034,I.S. 034 Tottenville,middle_school,40.5083,-74.2434,Tottenville,meeting_target,3.88
+31R035,P.S. 35 The Clove Valley School,elementary,40.613548,-74.098994,"Sunnyside, Staten Island",exceeding_target,4.1
+31R036,P.S. 036 J. C. Drumgoole,elementary,40.543433,-74.182548,Annadale,meeting_target,3.3
+31R038,P.S. 038 George Cromwell,elementary,40.574799,-74.099409,Midland Beach,approaching_target,2.68
+31R039,P.S. 39 Francis J. Murphy Jr.,elementary,40.597824,-74.07061,Arrochar,meeting_target,3.55
+31R041,The Stephanie A. Vierno School,elementary,40.573599,-74.108492,Grant City,meeting_target,3.39
+31R042,P.S. 042 Eltingville,elementary,40.552213,-74.169038,Arden Heights,meeting_target,3.13
+31R044,P.S. 044 Thomas C. Brown,elementary,40.631689,-74.157303,Mariner's Harbor,approaching_target,2.55
+31R045,P.S. 045 John Tyler,elementary,40.628419,-74.107537,West Brighton,approaching_target,2.82
+31R046,P.S. 046 Albert V. Maniscalco,elementary,40.594455,-74.080829,Grasmere,approaching_target,2.35
+31R047,CSI High School for International Studies,high_school,40.581958,-74.159343,Heartland Village,exceeding_target,4.73
+31R048,P.S. 048 William G. Wilcox,middle_school,40.603492,-74.091239,Concord,meeting_target,3.59
+31R049,I.S. 49 Berta A. Dreyfus,middle_school,40.620443,-74.080695,Grymes Hill,approaching_target,2.81
+31R050,P.S. 050 Frank Hankinson,elementary,40.560954,-74.124332,Oakwood,exceeding_target,4.4
+31R051,I.S. 051 Edwin Markham,middle_school,40.623077,-74.145522,Graniteville,approaching_target,2.67
+31R052,P.S. 052 John C. Thompson,elementary,40.58255,-74.089012,South Beach,meeting_target,3.8
+31R053,The Barbara Esselborn School,elementary,40.551926,-74.13664,"Bay Terrace, Staten Island",meeting_target,3.38
+31R054,P.S. 054 Charles W. Leng,elementary,40.602779,-74.137259,Willowbrook,exceeding_target,4.3
+31R055,P.S. 055 Henry M. Boehm,elementary,40.536625,-74.163037,Eltingville,meeting_target,3.03
+31R056,P.S. 56 The Louis Desario School,elementary,40.541856,-74.213943,Sandy Ground,meeting_target,3.39
+31R057,P.S. 057 Hubert H. Humphrey,elementary,40.611136,-74.083799,Park Hill,approaching_target,2.91
+31R058,Space Shuttle Columbia School,elementary,40.582791,-74.160867,Heartland Village,meeting_target,3.67
+31R059,The Harbor View School,elementary,40.647898,-74.083408,St. George,approaching_target,2.8
+31R060,P.S. 060 Alice Austen,elementary,40.610604,-74.162634,Bulls Head,approaching_target,2.27
+31R061,I.S. 061 William A Morris,middle_school,40.634497,-74.097941,Randall Manor,approaching_target,2.95
+31R063,Marsh Avenue School for Expeditionary Learning,middle_school,40.581958,-74.159343,Heartland Village,meeting_target,3.58
+31R064,Gaynor McCown Expeditionary Learning School,high_school,40.581958,-74.159343,Heartland Village,meeting_target,3.47
+31R065,P.S. 65 The Academy of Innovative Learning,elementary,40.633666,-74.078337,Tompkinsville,exceeding_target,4.38
+31R069,P.S. 069 Daniel D. Tompkins,elementary,40.59148,-74.157327,Heartland Village,approaching_target,2.48
+31R072,I.S. 072 Rocco Laurie,middle_school,40.592132,-74.158618,Heartland Village,meeting_target,3.42
+31R074,P.S. 74 Future Leaders Elementary School,elementary,40.638993,-74.079438,Tompkinsville,approaching_target,2.51
+31R075,I.S. 075 Frank D. Paulo,middle_school,40.544535,-74.197033,Annadale,meeting_target,3.51
+31R078,P.S. 78,elementary,40.622415,-74.079228,Stapleton,approaching_target,2.84
+32K075,P.S. 075 Mayda Cortiella,elementary,40.693261,-73.921336,Bedford Stuyvesant,meeting_target,3.39
+31R080,The Michael J. Petrides School,high_school,40.607637,-74.105883,Emerson Hill,meeting_target,3.98
+31R440,New Dorp High School,high_school,40.570909,-74.105878,Grant City,approaching_target,2.92
+31R445,Port Richmond High School,high_school,40.635562,-74.141924,Elm Park,approaching_target,2.7
+31R450,Curtis High School,high_school,40.645436,-74.082149,St. George,approaching_target,2.73
+31R455,Tottenville High School,high_school,40.528152,-74.193431,Huguenot,meeting_target,3.41
+31R460,Susan E. Wagner High School,high_school,40.588985,-74.130819,Egbertville,meeting_target,3.25
+31R600,Ralph R. McKee Career and Technical Education High,high_school,40.64282,-74.079263,St. George,meeting_target,3.22
+31R605,Staten Island Technical High School,high_school,40.568299,-74.117086,New Dorp,exceeding_target,4.77
+31R861,Staten Island School of Civic Leadership,middle_school,40.62031,-74.164427,Graniteville,meeting_target,3.67
+32K045,P.S./I.S. 045 Horace E. Greene,middle_school,40.686424,-73.91043,Ocean Hill,approaching_target,2.37
+32K086,P.S. 086 The Irvington,elementary,40.700595,-73.917804,Bushwick,exceeding_target,4.17
+32K106,P.S. 106 Edward Everett Hale,elementary,40.693318,-73.913378,Ocean Hill,approaching_target,2.5
+32K116,P.S. 116 Elizabeth L Farrell,elementary,40.698077,-73.916563,Bushwick,approaching_target,2.93
+32K123,P.S. 123 Suydam,elementary,40.704076,-73.922388,Bushwick,approaching_target,2.41
+32K145,P.S. 145 Andrew Jackson,elementary,40.701107,-73.932388,Bushwick,approaching_target,2.21
+32K151,P.S. 151 Lyndon B. Johnson,elementary,40.693432,-73.908242,Ocean Hill,meeting_target,3.32
+32K162,J.H.S. 162 The Willoughby,middle_school,40.706816,-73.919643,Ridgewood,meeting_target,3.97
+32K168,The Brooklyn School for Math and Research,high_school,40.696457,-73.911751,Bushwick,exceeding_target,4.35
+32K274,P.S. 274 Kosciusko,elementary,40.694179,-73.92818,Bushwick,approaching_target,2.13
+32K291,J.H.S. 291 Roland Hayes,middle_school,40.695875,-73.915217,Bushwick,meeting_target,3.35
+32K299,P.S. 299 Thomas Warren Field,elementary,40.690755,-73.917899,Bedford Stuyvesant,approaching_target,2.63
+32K347,I.S. 347 School of Humanities,middle_school,40.70081,-73.927938,Bushwick,meeting_target,3.04
+32K349,"I.S. 349 Math, Science & Tech.",middle_school,40.70081,-73.927938,Bushwick,meeting_target,3.28
+32K376,P.S. 376,elementary,40.69805,-73.920187,Bushwick,meeting_target,3.83
+32K377,P.S. 377 Alejandrina B. De Gautier,middle_school,40.693542,-73.915159,Bedford Stuyvesant,approaching_target,2.47
+32K383,J.H.S. 383 Philippa Schuyler,middle_school,40.697898,-73.919088,Bushwick,approaching_target,2.85
+32K384,P.S. /I.S. 384 Frances E. Carter,middle_school,40.689883,-73.904695,Broadway Junction,approaching_target,2.81
+32K403,Academy for Environmental Leadership,high_school,40.696457,-73.911751,Bushwick,meeting_target,3.75
+32K545,EBC High School for Public Service - Bushwick,high_school,40.694723,-73.929315,Bushwick,meeting_target,3.26
+32K549,The Brooklyn School for Social Justice,high_school,40.696457,-73.911751,Bushwick,meeting_target,3.31
+32K552,The Academy of Urban Planning and Engineering,high_school,40.696457,-73.911751,Bushwick,exceeding_target,4.05
+32K554,All City Leadership Secondary School,high_school,40.697378,-73.913172,Bushwick,exceeding_target,4.62
+32K556,Bushwick Leaders High School for Academic Excellen,high_school,40.695436,-73.927349,Bushwick,meeting_target,3.35
+32K562,Evergreen Middle School for Urban Exploration,middle_school,40.688647,-73.910589,Ocean Hill,meeting_target,3.01
+84K766,The International Charter School of New York,elementary,40.692434,-73.986867,Downtown,nan,
+84K356,Achievement First Crown Heights Charter School,high_school,40.662092,-73.936313,Wingate,meeting_target,3.18
+84K357,KIPP AMP Charter School,high_school,40.67229,-73.937601,Crown Heights,exceeding_target,4.09
+84K358,Achievement First East New York Charter School,high_school,40.664067,-73.893328,New Lots,meeting_target,3.19
+84K359,The Uft Charter School,high_school,40.659934,-73.885704,New Lots,nan,
+84K360,Launch Expeditionary Learning Charter School,middle_school,40.675675,-73.935093,Weeksville,approaching_target,2.32
+84K362,Hellenic Classical Charter School,middle_school,40.662985,-73.992254,Windsor Terrace,meeting_target,3.61
+84K367,Success Academy Charter School - Bed-Stuy 1,middle_school,40.696698,-73.947557,Bushwick,nan,
+84K379,Explore Excel Charter School,middle_school,40.642684,-73.90788,Canarsie,meeting_target,3.63
+84K406,Teaching Firms of America-Professional Preparatory,middle_school,40.688323,-73.935509,Bedford Stuyvesant,nan,
+84K508,Achievement First Endeavor Charter School,high_school,40.682422,-73.965928,Prospect Heights,meeting_target,3.32
+84K517,Leadership Prep Bedford Stuyvesant Uncommon Prep C,high_school,40.68192,-73.9456,Weeksville,meeting_target,3.97
+84K536,Community Roots Charter School,middle_school,40.695339,-73.977674,Navy Yard,meeting_target,3.43
+84K538,Achievement First Bushwick Charter School,high_school,40.697898,-73.919088,Bushwick,exceeding_target,4.25
+84K593,Excellence Boys Charter School,middle_school,40.683446,-73.925851,Weeksville,nan,
+84K608,Kings Collegiate Charter School,middle_school,40.657712,-73.919818,Rugby,meeting_target,3.63
+84K626,Achievement First Brownsville Charter School,high_school,40.674456,-73.912685,Ocean Hill,meeting_target,3.61
+84K648,Bedford Stuyvesant Collegiate Charter School,high_school,40.68797,-73.932066,Bedford Stuyvesant,exceeding_target,4.06
+84K649,La Cima Charter School,elementary,40.68797,-73.932066,Bedford Stuyvesant,approaching_target,2.05
+84K651,PAVE Academy Charter School,middle_school,40.675936,-74.003372,Carroll Gardens,nan,
+84K652,Brooklyn Ascend Charter School,high_school,40.661945,-73.92044,Brownsville,meeting_target,3.76
+84K707,Brooklyn Prospect Charter School,high_school,40.647893,-73.97872,Kensington,meeting_target,3.56
+84K710,Brownsville Collegiate Charter School,middle_school,40.668768,-73.90514,Brownsville,meeting_target,3.57
+84K711,Leadership Preparatory Brownsville Charter School,middle_school,40.655644,-73.906662,Brownsville,meeting_target,3.92
+84K712,Excellence Girls Charter School,high_school,40.6881,-73.924422,Bedford Stuyvesant,meeting_target,3.08
+84K724,Leadership Prep Canarsie Charter School (Leadershi,middle_school,40.644134,-73.892797,Canarsie,meeting_target,3.63
+84K730,Summit Academy Charter School,high_school,40.677914,-74.005151,Carroll Gardens,meeting_target,3.4
+84K731,Brooklyn Excelsior Charter School,middle_school,40.689569,-73.925087,Bushwick,exceeding_target,4.1
+84K733,"Math, Engineering, and Science Academy Charter Hig",high_school,40.695875,-73.915217,Bushwick,exceeding_target,4.43
+84K736,New American Academy Charter School,elementary,40.651642,-73.914282,Remsen Village,approaching_target,2.78
+84K737,Brownsville Ascend Charter School,middle_school,40.668608,-73.918123,Remsen Village,meeting_target,3.24
+84K738,New Visions Charter High School for Advanced Math,high_school,40.593157,-73.936635,Gerritsen Beach,meeting_target,3.92
+84K739,New Visions Charter High School for the Humanities,high_school,40.593157,-73.936635,Gerritsen Beach,meeting_target,3.13
+84K744,Coney Island Preparatory Public Charter School,high_school,40.582518,-73.972009,Brighton Beach,meeting_target,3.69
+84K746,Hebrew Language Academy Charter School,middle_school,40.612258,-73.914312,Mill Island,nan,
+84K752,Success Academy Fort Greene (Brooklyn 5),elementary,40.697177,-73.976104,Navy Yard,exceeding_target,4.94
+84K756,Success Academy Prospect Heights (Brooklyn 6),elementary,40.673943,-73.951559,Crown Heights,nan,
+84K769,Hyde Leadership Charter School- Brooklyn,elementary,40.667985,-73.898249,Broadway Junction,approaching_target,2.87
+84K772,Success Academy Charter School - Bensonhurst - New,elementary,40.608135,-73.984985,Bensonhurst,exceeding_target,4.99
+84K774,Achievement First Apollo Charter School,middle_school,40.677112,-73.884211,Highland Park,exceeding_target,4.01
+84K775,Leadership Preparatory Ocean Hill Charter School,high_school,40.672216,-73.906018,Ocean Hill,approaching_target,2.81
+84K777,Ocean Hill Collegiate Charter School,middle_school,40.678124,-73.915106,Ocean Hill,meeting_target,3.72
+84K780,Brooklyn East Collegiate Charter School,middle_school,40.678554,-73.966333,Prospect Heights,nan,
+84K781,Success Academy Charter School - Bergen Beach - Ne,elementary,40.620537,-73.912914,Georgetown,exceeding_target,4.53
+84K782,Bedford Stuyvesant New Beginnings Charter School,middle_school,40.694676,-73.937717,Bedford Stuyvesant,nan,
+84K784,Achievement First North Brooklyn Prep Charter Scho,elementary,40.693542,-73.915159,Bedford Stuyvesant,exceeding_target,4.42
+84K785,Imagine Me Leadership Charter School,elementary,40.660077,-73.883469,New Lots,meeting_target,3.27
+84K788,Achievement First Linden Elementary School,elementary,40.659934,-73.885704,New Lots,meeting_target,3.26
+84K789,Compass Charter School,elementary,40.688769,-73.971474,Fort Greene,not_meeting_target,1.89
+84K790,Central Brooklyn Ascend Charter School,elementary,40.638957,-73.948982,Flatbush,meeting_target,3.3
+84K792,The Cultural Arts Academy at Spring Creek Charter,elementary,40.65452,-73.908341,Remsen Village,not_meeting_target,1.55
+84K793,Bushwick Ascend Charter School,middle_school,40.693748,-73.90892,Ocean Hill,exceeding_target,4.18
+84K803,Brooklyn LAB Charter School,middle_school,40.697262,-73.986016,Brooklyn Heights,meeting_target,3.43
+84K807,Collegiate Academy for Math and Personal Awareness,middle_school,40.65787,-73.888775,New Lots,approaching_target,2.92
+84K876,Achievement First Voyager Charter School,high_school,40.656276,-73.95381,Prospect Lefferts Gardens,exceeding_target,4.09
+84K879,Brooklyn Prospect Charter School Downtown,middle_school,40.692015,-73.95818,Clinton Hill,meeting_target,3.31
+84K892,Brooklyn Emerging Leaders Academy,high_school,40.691467,-73.932254,Bedford Stuyvesant,nan,
+84M065,Democracy Prep Endurance Charter School,high_school,40.810499,-73.948902,Morningside Heights,approaching_target,2.42
+84M068,KIPP Washington Heights Middle School,high_school,40.839139,-73.935815,High  Bridge,exceeding_target,4.25
+84M080,Manhattan Charter School II,elementary,40.713362,-73.986051,Chinatown,exceeding_target,4.16
+84M085,Global Community Charter School,elementary,40.81698,-73.934951,Central Harlem,exceeding_target,4.41
+84M100,Neighborhood Charter School of Harlem,elementary,40.807556,-73.947067,Morningside Heights,nan,
+84M168,East Harlem Scholars Academy Charter School II,elementary,40.793649,-73.948488,East Harlem,meeting_target,3.34
+84M170,Success Academy Hell's Kitchen (Manhattan 2),elementary,40.763655,-73.990318,Clinton,exceeding_target,4.99
+84M174,Success Academy Union Square (Manhattan 1),elementary,40.735361,-73.987064,Gramercy,nan,
+84M186,Harlem Hebrew Language Charter School,elementary,40.804559,-73.952751,Manhattan Valley,approaching_target,2.94
+84M202,Great Oaks Charter School,high_school,40.719676,-73.991859,Little Italy,nan,
+84M204,Capital Preparatory (CP) Harlem Charter School,high_school,40.793098,-73.951367,East Harlem,nan,
+84M263,New York City Charter School of the Arts,middle_school,40.76588,-73.989776,Lincoln Square,nan,
+84M265,Success Academy Charter School - Washington Height,elementary,40.85765,-73.935231,Washington Heights,exceeding_target,4.99
+84M279,The Opportunity Charter School,high_school,40.801573,-73.955583,Manhattan Valley,exceeding_target,4.07
+84M284,Harlem Children's Zone Promise Academy 1 Charter S,high_school,40.811882,-73.947317,Hamilton Heights,exceeding_target,4.19
+84M295,School in the Square Public Charter School,middle_school,40.848864,-73.936073,Washington Heights,meeting_target,3.55
+84M320,Manhattan Charter School,elementary,40.718121,-73.984116,Lower East Side,approaching_target,2.81
+84M329,Harlem Link Charter School,elementary,40.798461,-73.950146,Manhattan Valley,meeting_target,3.11
+84M330,Girls Preparatory Charter School of New York,middle_school,40.719888,-73.97738,Lower East Side,meeting_target,3.57
+84M335,Harlem Village Academy Leadership Charter School,high_school,40.799265,-73.93374,Port Morris,exceeding_target,4.1
+84M336,KIPP Infinity Charter School,high_school,40.819793,-73.956814,Manhattanville,exceeding_target,4.27
+84M341,Harlem Children's Zone Promise Academy II Charter,high_school,40.807019,-73.938714,Central Harlem,meeting_target,3.55
+84M350,Democracy Prep Charter School,high_school,40.813532,-73.938347,Central Harlem,meeting_target,3.24
+84M351,Success Academy Charter School - Harlem 1,high_school,40.802649,-73.948088,Manhattan Valley,nan,
+84M353,New Heights Academy Charter School,high_school,40.82884,-73.945368,Hamilton Heights,meeting_target,3.98
+84M382,DREAM Charter School,high_school,40.789174,-73.945101,East Harlem,approaching_target,2.99
+84M384,Success Academy Charter School - Harlem 2,middle_school,40.805653,-73.935461,Central Harlem,nan,
+84M385,Success Academy Charter School - Harlem 3,middle_school,40.785107,-73.942154,East Harlem,nan,
+84M386,Success Academy Charter School - Harlem 4,middle_school,40.801573,-73.955583,Manhattan Valley,exceeding_target,4.99
+84M388,St. HOPE Leadership Academy Charter School,middle_school,40.814917,-73.945838,Hamilton Heights,exceeding_target,4.26
+84M430,The Equity Project Charter School (TEP),middle_school,40.856532,-73.92606,University Heights,meeting_target,3.85
+84M433,Renaissance Charter High School for Innovation,high_school,40.785107,-73.942154,East Harlem,meeting_target,3.2
+84M478,Inwood Academy for Leadership Charter School,high_school,40.868831,-73.920841,Inwood,exceeding_target,4.16
+84M481,Democracy Prep Harlem Charter School,high_school,40.814598,-73.945,Central Harlem,meeting_target,3.35
+84M482,Success Academy Charter School - Harlem 5,middle_school,40.820216,-73.944551,Central Harlem,nan,
+84M483,New York French American Charter School,elementary,40.807537,-73.954228,Morningside Heights,approaching_target,2.57
+84M518,East Harlem Scholars Academy Charter School,middle_school,40.79001,-73.942482,East Harlem,nan,
+84M522,Broome Street Academy Charter School,high_school,40.723911,-74.004692,Soho,nan,
+84M523,Success Academy Charter School - Upper West,middle_school,40.786134,-73.974483,Upper West Side,nan,
+84M702,Sisulu-Walker Charter School of Harlem,elementary,40.802096,-73.951357,Manhattan Valley,exceeding_target,4.97
+84M704,Harbor Science and Arts Charter School,middle_school,40.795404,-73.944449,East Harlem,nan,
+84M705,Amber Charter School,elementary,40.790932,-73.943904,East Harlem,meeting_target,3.86
+84M708,Harlem Prep Charter School,high_school,40.801547,-73.935335,East Harlem,approaching_target,2.71
+84M709,Harlem Village Academy Charter School,high_school,40.821208,-73.941111,Central Harlem,meeting_target,3.84
+84M726,KIPP STAR College Prep Charter School,high_school,40.810793,-73.955722,Manhattanville,exceeding_target,4.37
+84M861,Future Leaders Institute Charter School,middle_school,40.806055,-73.948385,Morningside Heights,approaching_target,2.0
+84Q083,Central Queens Academy Charter School,middle_school,40.737321,-73.866454,Lefrak City,exceeding_target,4.89
+84Q170,Peninsula Preparatory Academy Charter School,elementary,40.600659,-73.752565,Far Rockaway,meeting_target,3.33
+84Q298,Middle Village Prep Charter School,middle_school,40.710973,-73.888325,Ridgewood,meeting_target,3.49
+84Q304,VOICE Charter School of New York,middle_school,40.760376,-73.939984,Ravenswood,nan,
+84Q320,New Visions Charter High School for Advanced Math,high_school,40.673949,-73.782684,Springfield Gardens,meeting_target,3.22
+84Q321,Growing Up Green Charter School,middle_school,40.752598,-73.935743,Long Island City,meeting_target,3.77
+84Q337,Success Academy Charter School - Rosedale - New Yo,elementary,40.655811,-73.738793,Rosedale,exceeding_target,4.85
+84Q339,Success Academy Charter School - Springfield Garde,elementary,40.681881,-73.752772,Rochdale,meeting_target,3.72
+84Q340,Challenge Preparatory Charter School,middle_school,40.600137,-73.764065,Far Rockaway,nan,
+84Q341,Riverton Street Charter School,middle_school,40.68943,-73.763609,St. Albans,approaching_target,2.95
+84Q342,Rochdale Early Advantage Charter School,elementary,40.680016,-73.778613,Rochdale,approaching_target,2.29
+84Q359,Academy of the City Charter School,elementary,40.756181,-73.902197,Woodside,meeting_target,3.51
+84Q372,Growing Up Green Charter School II,elementary,40.713084,-73.807561,Briarwood,nan,
+84Q373,New Visions Charter High School for the Humanities,high_school,40.586012,-73.825317,Arverne,not_meeting_target,1.86
+84Q380,Forte Preparatory Academy Charter School,middle_school,40.759419,-73.861594,North Corona,nan,
+84Q704,Merrick Academy - Queens Public Charter School,elementary,40.676318,-73.753009,Rochdale,meeting_target,3.73
+84Q705,Renaissance Charter School,high_school,40.749934,-73.884817,Jackson Heights,meeting_target,3.9
+84Q706,Our World Neighborhood Charter School,middle_school,40.755714,-73.924175,Ravenswood,meeting_target,3.06
+84R067,John W. Lavelle Preparatory Charter School,high_school,40.607104,-74.178183,Bloomfield,exceeding_target,4.13
+84R073,New World Preparatory Charter School,middle_school,40.639677,-74.137166,Elm Park,meeting_target,3.42
+84X124,Children's Aid College Prep Charter School,elementary,40.843705,-73.890145,East Tremont,approaching_target,2.35
+84X133,Icahn Charter School 6,middle_school,40.841758,-73.897943,East Tremont,meeting_target,3.97
+84X165,Grand Concourse Charter School,middle_school,40.825715,-73.838299,Schuylerville,nan,
+84X177,Mott Hall Charter School,middle_school,40.83093,-73.901859,Claremont Village,meeting_target,3.3
+84X185,Bronx Lighthouse Charter School,high_school,40.823228,-73.897394,Morrisania,meeting_target,3.97
+84X202,New Visions Charter High School for Advanced Math,high_school,40.821723,-73.902892,Morrisania,exceeding_target,4.65
+84X208,New Visions Charter High School for the Humanities,high_school,40.810671,-73.907528,Mott Haven,meeting_target,3.17
+84X233,Family Life Academy Charter School II,elementary,40.811562,-73.925416,Mott Haven,nan,
+84X255,Bronx Charter School for Excellence,middle_school,40.834025,-73.858533,Parkchester,nan,
+84X256,Heketi Community Charter School,elementary,40.8091,-73.909595,Mott Haven,exceeding_target,4.07
+84X309,South Bronx Charter School for International Cultu,elementary,40.803052,-73.918037,Mott Haven,meeting_target,3.45
+84X345,Hyde Leadership Charter School,high_school,40.815827,-73.885284,Longwood,meeting_target,3.28
+84X346,South Bronx Classical Charter School,middle_school,40.822056,-73.894368,Morrisania,nan,
+84X347,International Leadership Charter High School,high_school,40.880853,-73.909955,Marble Hill,meeting_target,3.62
+84X362,Icahn Charter School 7,middle_school,40.822522,-73.877274,Soundview,nan,
+84X364,South Bronx Classical Charter School II,elementary,40.808194,-73.925459,Mott Haven,exceeding_target,4.9
+84X378,Icahn Charter School 2,middle_school,40.845023,-73.857989,Morris Park,nan,
+84X380,Success Academy Charter School - Bronx 3,elementary,40.824717,-73.905734,Morrisania,exceeding_target,4.52
+84X387,Brilla College Prep Charter School,elementary,40.812804,-73.919316,Mott Haven,exceeding_target,4.35
+84X389,Bronx Global Learning Institute for Girls Charter,middle_school,40.823014,-73.922527,Concourse Village,approaching_target,2.45
+84X393,University Prep Charter High School,high_school,40.814857,-73.912038,Melrose,exceeding_target,4.51
+84X394,Mott Haven Academy Charter School,elementary,40.806389,-73.92115,Mott Haven,meeting_target,3.25
+84X395,"NYC Charter High School for Architecture, Engineer",high_school,40.821682,-73.910421,Melrose,exceeding_target,4.6
+84X398,Bronx Community Charter School,middle_school,40.872455,-73.875451,Norwood,meeting_target,3.31
+84X407,Bronx Charter School for Children,elementary,40.81264,-73.919913,Mott Haven,not_meeting_target,1.92
+84X419,Bronx Academy of Promise Charter School,middle_school,40.839503,-73.919597,Mount Eden,nan,
+84X422,Icahn Charter School 3,middle_school,40.856531,-73.843013,Pelham Gardens,nan,
+84X429,Charter High School for Law and Social Justice,high_school,40.853728,-73.911708,University Heights,nan,
+84X460,Atmosphere Charter School,middle_school,40.875161,-73.910426,Marble Hill,nan,
+84X461,Metropolitan Lighthouse Charter School,high_school,40.834599,-73.929797,High  Bridge,approaching_target,2.07
+84X464,Success Academy Charter School - Bronx 4 - New Yor,elementary,40.822925,-73.859998,Soundview,exceeding_target,4.76
+84X465,Boys Preparatory Charter School of New York,elementary,40.819221,-73.868735,Soundview,exceeding_target,4.23
+84X471,American Dream Charter School,middle_school,40.809023,-73.917417,Mott Haven,nan,
+84X472,Family Life Academy Charter School III,elementary,40.816245,-73.929949,Central Harlem,meeting_target,3.75
+84X482,Dr. Richard Izquierdo Health and Science Charter S,high_school,40.826933,-73.900593,Morrisania,meeting_target,3.95
+84X486,Rosalyn Yalow Charter School,elementary,40.836679,-73.91735,Concourse,nan,
+84X487,Girls Preparatory Charter School of the Bronx,middle_school,40.816078,-73.901599,Longwood,meeting_target,3.88
+84X488,The Equality Charter School,high_school,40.864073,-73.823816,Pelham Gardens,meeting_target,3.48
+84X489,South Bronx Classical Charter School III,elementary,40.830347,-73.906158,Claremont Village,nan,
+84X491,Academic Leadership Charter School,middle_school,40.807916,-73.912557,Mott Haven,exceeding_target,4.6
+84X492,South Bronx Early College Academy Charter School,middle_school,40.818069,-73.904223,Melrose,nan,
+84X493,Success Academy Charter School - Bronx 1,middle_school,40.813681,-73.925995,Mott Haven,exceeding_target,4.7
+84X494,Success Academy Charter School - Bronx 2,middle_school,40.835934,-73.90497,Claremont Village,nan,
+84X496,Icahn Charter School 4,middle_school,40.856531,-73.843013,Pelham Gardens,nan,
+84X497,Storefront Academy Charter School,elementary,0.0,0.0,Floral Park,nan,
+84X538,Icahn Charter School 5,middle_school,40.856531,-73.843013,Pelham Gardens,nan,
+84X539,New Visions Charter High School for Advanced Math,high_school,40.877379,-73.912686,Marble Hill,meeting_target,3.59
+84X553,New Visions Charter High School for the Humanities,high_school,40.877379,-73.912686,Marble Hill,exceeding_target,4.04
+84X554,New York City Montessori Charter School,elementary,40.808703,-73.921888,Mott Haven,exceeding_target,4.15
+84X581,South Bronx Community Charter School,high_school,40.823695,-73.910589,Melrose,nan,
+84X585,Legacy College Preparatory,high_school,40.813077,-73.919979,Mott Haven,exceeding_target,4.01
+84X703,Bronx Preparatory Charter School,high_school,40.839072,-73.900123,Claremont Village,exceeding_target,4.06
+84X704,KIPP Academy Charter School,high_school,40.822574,-73.92114,Concourse Village,exceeding_target,4.23
+84X705,Family Life Academy Charter School,middle_school,40.840262,-73.918665,Mount Eden,approaching_target,2.43
+84X706,Harriet Tubman Charter School,middle_school,40.832328,-73.905771,Claremont Village,nan,
+84X717,Icahn Charter School,middle_school,40.838654,-73.904703,Claremont Village,meeting_target,3.76
+84X718,Bronx Charter School for Better Learning,elementary,40.884371,-73.839288,Edenwald,meeting_target,3.76
+84X730,Bronx Charter School for the Arts,elementary,40.821815,-73.886477,Longwood,approaching_target,2.26
